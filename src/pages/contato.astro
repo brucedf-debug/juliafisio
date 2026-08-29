@@ -1,0 +1,37 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import { contactEmail } from '../lib/site';
+
+const title = `Contato | ${SITE_TITLE}`;
+const description = 'Fale com o blog Julia Muniz Fisio.';
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 2em 1em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Contato</h1>
+			<p>
+				Tem uma dúvida, sugestão de pauta ou encontrou alguma informação incorreta em um dos
+				posts? Escreva para <a href={`mailto:${contactEmail}`}>{contactEmail}</a> e retornaremos
+				assim que possível.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

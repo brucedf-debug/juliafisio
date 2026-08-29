@@ -1,0 +1,158 @@
+/*
+  Design tokens and base styles for the Julia Muniz Fisio blog.
+*/
+
+:root {
+	/* Brand */
+	--accent: #0f766e;
+	--accent-dark: #0b544e;
+	--accent-light: #ccfbf1;
+
+	/* Neutrals */
+	--black: 24, 28, 27;
+	--gray: 90, 102, 100;
+	--gray-light: 231, 236, 235;
+	--gray-dark: 32, 38, 37;
+	--bg: #fbfaf8;
+	--gray-gradient: rgba(var(--gray-light), 60%), var(--bg);
+
+	/* Shape & elevation */
+	--radius: 16px;
+	--radius-sm: 10px;
+	--box-shadow:
+		0 1px 2px rgba(var(--black), 6%),
+		0 8px 24px rgba(var(--black), 8%);
+}
+
+body {
+	font-family: var(--font-atkinson);
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background: var(--bg);
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	color: rgb(var(--gray-dark));
+	font-size: 19px;
+	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+}
+main {
+	width: 720px;
+	max-width: calc(100% - 2em);
+	margin: auto;
+	padding: 3em 1em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0 0 0.5rem 0;
+	color: rgb(var(--black));
+	line-height: 1.2;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+}
+h1 {
+	font-size: 2.75em;
+	letter-spacing: -0.02em;
+}
+h2 {
+	font-size: 1.9em;
+}
+h3 {
+	font-size: 1.5em;
+}
+h4 {
+	font-size: 1.25em;
+}
+h5 {
+	font-size: 1.1em;
+}
+strong,
+b {
+	font-weight: 700;
+}
+a {
+	color: var(--accent);
+	text-decoration-thickness: 1.5px;
+	text-underline-offset: 2px;
+}
+a:hover {
+	color: var(--accent-dark);
+}
+p {
+	margin-bottom: 1.2em;
+}
+.prose p {
+	margin-bottom: 1.5em;
+	font-size: 1.05em;
+}
+textarea {
+	width: 100%;
+	font-size: 16px;
+}
+input {
+	font-size: 16px;
+}
+table {
+	width: 100%;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: var(--radius);
+}
+code {
+	padding: 2px 6px;
+	background-color: rgb(var(--gray-light));
+	border-radius: 4px;
+	font-size: 0.9em;
+}
+pre {
+	padding: 1.5em;
+	border-radius: var(--radius);
+}
+pre > code {
+	all: unset;
+}
+blockquote {
+	border-left: 3px solid var(--accent);
+	background: var(--accent-light);
+	border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+	padding: 0.9em 1.2em;
+	margin: 1.5em 0;
+	font-size: 1.1em;
+	color: rgb(var(--gray-dark));
+}
+hr {
+	border: none;
+	border-top: 1px solid rgb(var(--gray-light));
+}
+@media (max-width: 720px) {
+	body {
+		font-size: 17px;
+	}
+	main {
+		padding: 1.5em 1em;
+	}
+	h1 {
+		font-size: 2.1em;
+	}
+}
+
+.sr-only {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	white-space: nowrap;
+}

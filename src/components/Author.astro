@@ -1,0 +1,48 @@
+---
+const name = 'Julia Muniz';
+const role = 'Fisioterapeuta';
+const initials = 'JM';
+---
+
+<div class="author">
+	<svg class="avatar" viewBox="0 0 40 40" role="img" aria-label={`Foto de ${name}`}>
+		<circle cx="20" cy="20" r="20" fill="var(--accent)"></circle>
+		<text x="20" y="20" text-anchor="middle" dominant-baseline="central" fill="white" font-size="15"
+			font-weight="700">{initials}</text
+		>
+	</svg>
+	<div class="author-info">
+		<span class="author-name">{name}</span>
+		<span class="author-role">{role}</span>
+	</div>
+</div>
+<style>
+	.author {
+		display: flex;
+		align-items: center;
+		gap: 0.6em;
+		justify-content: center;
+		margin-bottom: 0.5em;
+	}
+	.avatar {
+		width: 32px;
+		height: 32px;
+		border-radius: 50%;
+		flex-shrink: 0;
+	}
+	.author-info {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		line-height: 1.2;
+	}
+	.author-name {
+		font-weight: 700;
+		color: rgb(var(--black));
+		font-size: 0.9em;
+	}
+	.author-role {
+		color: rgb(var(--gray));
+		font-size: 0.8em;
+	}
+</style>

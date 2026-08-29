@@ -1,0 +1,70 @@
+---
+interface Props {
+	items: { name: string; href?: string }[];
+}
+
+const { items } = Astro.props;
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: items.map((item, i) => ({
+		'@type': 'ListItem',
+		position: i + 1,
+		name: item.name,
+		...(item.href && { item: new URL(item.href, Astro.site).toString() }),
+	})),
+};
+---
+
+<script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+<nav aria-label="Trilha de navegação" class="breadcrumbs">
+	<ol>
+		{
+			items.map((item, i) => (
+				<li>
+					{item.href ? (
+						<a href={item.href}>{item.name}</a>
+					) : (
+						<span aria-current="page">{item.name}</span>
+					)}
+					{i < items.length - 1 && <span class="sep" aria-hidden="true">/</span>}
+				</li>
+			))
+		}
+	</ol>
+</nav>
+<style>
+	.breadcrumbs {
+		margin-bottom: 1em;
+		font-size: 0.85em;
+		color: rgb(var(--gray));
+	}
+	.breadcrumbs ol {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.35em;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.breadcrumbs li {
+		display: flex;
+		align-items: center;
+		gap: 0.35em;
+	}
+	.breadcrumbs a {
+		color: rgb(var(--gray));
+		text-decoration: none;
+	}
+	.breadcrumbs a:hover {
+		color: var(--accent);
+	}
+	.breadcrumbs span[aria-current] {
+		color: rgb(var(--gray-dark));
+	}
+	.breadcrumbs .sep {
+		color: rgb(var(--gray-light));
+	}
+</style>

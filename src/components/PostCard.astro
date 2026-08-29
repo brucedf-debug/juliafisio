@@ -1,0 +1,84 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import { categories } from '../lib/categories';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { title, category, pubDate, heroImage, heroImageAlt } = post.data;
+---
+
+<a class="card" href={`/blog/${post.id}/`}>
+	{
+		heroImage && (
+			<div class="thumb">
+				<Image width={480} height={300} src={heroImage} alt={heroImageAlt ?? ''} />
+			</div>
+		)
+	}
+	<div class="body">
+		<p class="category">{categories[category].name}</p>
+		<h3 class="title">{title}</h3>
+		<p class="date">
+			<FormattedDate date={pubDate} />
+		</p>
+	</div>
+</a>
+<style>
+	.card {
+		display: flex;
+		flex-direction: column;
+		text-decoration: none;
+		border-radius: var(--radius);
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		overflow: hidden;
+		transition: 0.2s ease;
+	}
+	.card:hover {
+		box-shadow: var(--box-shadow);
+		transform: translateY(-2px);
+		border-color: transparent;
+	}
+	.card .thumb {
+		aspect-ratio: 16 / 10;
+		overflow: hidden;
+	}
+	.card .thumb :global(img) {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 0;
+		margin: 0;
+		display: block;
+	}
+	.card .body {
+		padding: 1.1em 1.2em 1.3em;
+	}
+	.card .category {
+		margin: 0 0 0.4em;
+		color: var(--accent);
+		font-size: 0.78em;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
+	}
+	.card .title {
+		margin: 0 0 0.4em;
+		color: rgb(var(--black));
+		line-height: 1.3;
+		font-size: 1.15em;
+	}
+	.card:hover .title {
+		color: var(--accent);
+	}
+	.card .date {
+		margin: 0;
+		color: rgb(var(--gray));
+		font-size: 0.85em;
+	}
+</style>

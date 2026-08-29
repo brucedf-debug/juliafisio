@@ -1,0 +1,77 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header>
+	<nav>
+		<a href="/" class="brand">
+			<span class="brand-mark" aria-hidden="true"></span>
+			{SITE_TITLE}
+		</a>
+		<a href="/rss.xml" class="rss-link" target="_blank">
+			<span class="sr-only">Feed RSS</span>
+			<svg viewBox="0 0 16 16" aria-hidden="true" width="20" height="20">
+				<path
+					fill="currentColor"
+					d="M2 2a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1c5.523 0 10 4.477 10 10a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1C15 8.373 9.627 3 3 3H2Z"
+				></path>
+				<path
+					fill="currentColor"
+					d="M2 8a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1c1.657 0 3 1.343 3 3a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1c0-3.314-2.686-6-6-6Z"
+				></path>
+				<circle cx="2.5" cy="13.5" r="1.5" fill="currentColor"></circle>
+			</svg>
+		</a>
+	</nav>
+</header>
+<style>
+	header {
+		margin: 0;
+		padding: 0 1.5em;
+		background: var(--bg);
+		border-bottom: 1px solid rgb(var(--gray-light));
+		position: sticky;
+		top: 0;
+		z-index: 10;
+		backdrop-filter: blur(8px);
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		max-width: 840px;
+		margin: 0 auto;
+		height: 64px;
+	}
+	.brand {
+		display: flex;
+		align-items: center;
+		gap: 0.55em;
+		font-size: 1.1em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		text-decoration: none;
+		letter-spacing: -0.01em;
+	}
+	.brand-mark {
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		background: var(--accent);
+		flex-shrink: 0;
+	}
+	.rss-link {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 36px;
+		height: 36px;
+		border-radius: 50%;
+		color: rgb(var(--gray));
+		transition: 0.15s ease;
+	}
+	.rss-link:hover {
+		color: var(--accent);
+		background: var(--accent-light);
+	}
+</style>

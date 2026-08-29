@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import type { CategorySlug } from '../lib/categories';
+import PostCard from './PostCard.astro';
+
+interface Props {
+	currentId: string;
+	category: CategorySlug;
+}
+
+const { currentId, category } = Astro.props;
+
+const related = (await getCollection('blog', ({ data }) => !data.draft))
+	.filter((post) => post.id !== currentId && post.data.category === category)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
+---
+
+{
+	related.length > 0 && (
+		<section class="related-posts">
+			<h2>Leia também</h2>
+			<div class="grid">
+				{related.map((post) => (
+					<PostCard post={post} />
+				))}
+			</div>
+		</section>
+	)
+}
+<style>
+	.related-posts {
+		border-top: 1px solid rgb(var(--gray-light));
+		margin-top: 2.5em;
+		padding-top: 2em;
+	}
+	.related-posts h2 {
+		font-size: 1.2em;
+		margin-bottom: 1em;
+	}
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1.25rem;
+	}
+	@media (max-width: 640px) {
+		.grid {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>

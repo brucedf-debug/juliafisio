@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import Footer from '../../../components/Footer.astro';
+import Header from '../../../components/Header.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { categories, type CategorySlug } from '../../../lib/categories';
+
+export async function getStaticPaths() {
+	return (Object.keys(categories) as CategorySlug[]).map((category) => ({
+		params: { category },
+	}));
+}
+
+const { category } = Astro.params as { category: CategorySlug };
+const meta = categories[category];
+
+const posts = (
+	await getCollection('blog', ({ data }) => !data.draft && data.category === category)
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={`${meta.name} — Blog`} description={meta.description} />
+		<style>
+			main {
+				width: 960px;
+				padding-top: 2.5em;
+			}
+			.intro {
+				margin-bottom: 2em;
+			}
+			.intro h1 {
+				margin-bottom: 0.3em;
+			}
+			.intro p {
+				color: rgb(var(--gray));
+			}
+			.grid {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 1.75rem;
+			}
+			.empty {
+				color: rgb(var(--gray));
+			}
+			@media (max-width: 900px) {
+				.grid {
+					grid-template-columns: repeat(2, 1fr);
+				}
+			}
+			@media (max-width: 640px) {
+				.grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<Breadcrumbs items={[{ name: 'Início', href: '/' }, { name: meta.name }]} />
+			<div class="intro">
+				<h1>{meta.name}</h1>
+				<p>{meta.description}</p>
+			</div>
+			<div class="grid">
+				{posts.map((post) => <PostCard post={post} />)}
+			</div>
+			{posts.length === 0 && <p class="empty">Ainda não há posts nessa categoria. Volte em breve!</p>}
+		</main>
+		<Footer />
+	</body>
+</html>

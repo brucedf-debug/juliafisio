@@ -1,0 +1,90 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import { contactEmail } from '../lib/site';
+
+const title = `Política de Privacidade | ${SITE_TITLE}`;
+const description = 'Política de privacidade e uso de cookies do blog Julia Muniz Fisio.';
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 2em 1em;
+			}
+			h1 {
+				margin-bottom: 1em;
+			}
+			h2 {
+				margin-top: 2em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Política de Privacidade</h1>
+			<p>
+				Esta Política de Privacidade explica como o blog <strong>{SITE_TITLE}</strong>{' '}
+				(juliamunizfisio.com) trata as informações dos visitantes, em conformidade com a Lei Geral
+				de Proteção de Dados (LGPD).
+			</p>
+
+			<h2>1. Conteúdo do blog</h2>
+			<p>
+				O conteúdo publicado aqui tem caráter informativo e educacional sobre fisioterapia e saúde
+				do movimento. Ele não substitui uma avaliação, diagnóstico ou tratamento realizado por um
+				profissional de saúde. Consulte sempre um fisioterapeuta para orientações específicas ao
+				seu caso.
+			</p>
+
+			<h2>2. Cookies e publicidade</h2>
+			<p>
+				Este site exibe anúncios fornecidos pelo Google AdSense. O Google e seus parceiros usam
+				cookies — inclusive o cookie DART — para veicular anúncios com base nas visitas de um
+				usuário a este e a outros sites na internet.
+			</p>
+			<p>
+				Você pode desativar o uso de cookies para anúncios personalizados visitando as <a
+					href="https://adssettings.google.com/"
+					target="_blank"
+					rel="noopener noreferrer">Configurações de anúncios do Google</a
+				>. Também é possível saber mais e desativar cookies de outros fornecedores em <a
+					href="https://www.aboutads.info/choices/"
+					target="_blank"
+					rel="noopener noreferrer">www.aboutads.info</a
+				>.
+			</p>
+
+			<h2>3. Dados coletados</h2>
+			<p>
+				Podemos usar ferramentas de análise de audiência (como o Google Analytics) para entender
+				como os visitantes usam o site. Esses dados são tratados de forma agregada e não
+				identificam o visitante individualmente.
+			</p>
+
+			<h2>4. Seus direitos</h2>
+			<p>
+				Nos termos da LGPD, você pode solicitar informações sobre os dados tratados, correção ou
+				exclusão, entrando em contato pelo e-mail{' '}
+				<a href={`mailto:${contactEmail}`}>{contactEmail}</a>.
+			</p>
+
+			<h2>5. Alterações nesta política</h2>
+			<p>
+				Esta política pode ser atualizada periodicamente para refletir mudanças legais ou no
+				funcionamento do blog. A data da última atualização consta abaixo.
+			</p>
+			<p><em>Última atualização: agosto de 2026.</em></p>
+		</main>
+		<Footer />
+	</body>
+</html>

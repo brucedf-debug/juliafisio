@@ -1,0 +1,165 @@
+---
+import { Image } from 'astro:assets';
+import { type CollectionEntry } from 'astro:content';
+import Author from '../components/Author.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import { categories } from '../lib/categories';
+import { extractHowToSteps } from '../lib/howto';
+
+type Props = CollectionEntry<'blog'>['data'] & { id: string; body?: string };
+
+const { title, description, pubDate, updatedDate, category, heroImage, heroImageAlt, tags, id, body } =
+	Astro.props;
+
+const howToSteps = extractHowToSteps(body);
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'BlogPosting',
+	headline: title,
+	description,
+	datePublished: pubDate.toISOString(),
+	...(updatedDate && { dateModified: updatedDate.toISOString() }),
+	author: {
+		'@type': 'Person',
+		name: 'Julia Muniz',
+	},
+	...(heroImage && { image: new URL(heroImage.src, Astro.site).toString() }),
+};
+
+const howToJsonLd = howToSteps.length > 0 && {
+	'@context': 'https://schema.org',
+	'@type': 'HowTo',
+	name: title,
+	step: howToSteps.map((step) => ({
+		'@type': 'HowToStep',
+		name: step.name,
+		text: step.text,
+	})),
+};
+---
+
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+		{howToJsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(howToJsonLd)} />}
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+				padding: 2.5em 0 4em;
+			}
+			.hero-image {
+				width: 840px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				aspect-ratio: 16 / 8;
+				overflow: hidden;
+				border-radius: var(--radius);
+			}
+			.hero-image img {
+				display: block;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 0;
+				margin: 0;
+			}
+			.prose {
+				width: 700px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1.75em 0 1.5em;
+				text-align: center;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0.3em 0 0.6em;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+				font-size: 0.9em;
+			}
+			.last-updated-on {
+				font-style: italic;
+			}
+			.tags {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 0.5em;
+				margin: 0.2em 0 1.5em;
+				list-style: none;
+				padding: 0;
+			}
+			.tags li {
+				background: var(--accent-light);
+				color: var(--accent-dark);
+				border-radius: 999px;
+				padding: 0.3em 1em;
+				font-size: 0.78em;
+				font-weight: 600;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="hero-image">
+					{heroImage && <Image width={1020} height={510} src={heroImage} alt={heroImageAlt ?? ''} />}
+				</div>
+				<div class="prose">
+					<Breadcrumbs
+						items={[
+							{ name: 'Início', href: '/' },
+							{ name: categories[category].name, href: `/category/${category}/` },
+							{ name: title },
+						]}
+					/>
+					<div class="title">
+						<Author />
+						<div class="date">
+							<FormattedDate date={pubDate} />
+							{
+								updatedDate && (
+									<div class="last-updated-on">
+										Atualizado em <FormattedDate date={updatedDate} />
+									</div>
+								)
+							}
+						</div>
+						<h1>{title}</h1>
+						{
+							tags.length > 0 && (
+								<ul class="tags">
+									{tags.map((tag) => (
+										<li>{tag}</li>
+									))}
+								</ul>
+							)
+						}
+						<hr />
+					</div>
+					<slot />
+					<RelatedPosts currentId={id} category={category} />
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
