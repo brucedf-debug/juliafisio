@@ -1,0 +1,66 @@
+---
+import { newsletterFieldName, newsletterFormAction } from '../lib/site';
+---
+
+{
+	newsletterFormAction && (
+		<section class="newsletter">
+			<h2>Receba novos posts por e-mail</h2>
+			<p>Sem spam — só um aviso quando sair um artigo novo sobre fisioterapia e saúde do movimento.</p>
+			<form method="post" action={newsletterFormAction}>
+				<input
+					type="email"
+					name={newsletterFieldName}
+					placeholder="seu@email.com"
+					required
+					aria-label="Seu e-mail"
+				/>
+				<button type="submit">Quero receber</button>
+			</form>
+		</section>
+	)
+}
+<style>
+	.newsletter {
+		border-top: 1px solid rgb(var(--gray-light));
+		margin-top: 2.5em;
+		padding-top: 2em;
+		text-align: center;
+	}
+	.newsletter h2 {
+		font-size: 1.2em;
+		margin-bottom: 0.3em;
+	}
+	.newsletter p {
+		color: rgb(var(--gray));
+		font-size: 0.92em;
+		margin-bottom: 1.2em;
+	}
+	.newsletter form {
+		display: flex;
+		gap: 0.6em;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.newsletter input[type='email'] {
+		padding: 0.7em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: var(--radius-sm);
+		font-size: 1em;
+		min-width: 240px;
+	}
+	.newsletter button {
+		padding: 0.7em 1.4em;
+		border: none;
+		border-radius: var(--radius-sm);
+		background: var(--accent);
+		color: white;
+		font-weight: 700;
+		font-size: 1em;
+		cursor: pointer;
+		transition: 0.15s ease;
+	}
+	.newsletter button:hover {
+		background: var(--accent-dark);
+	}
+</style>
