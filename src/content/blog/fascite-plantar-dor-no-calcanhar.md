@@ -3,8 +3,8 @@ title: 'Fascite plantar: por que a dor no calcanhar piora nos primeiros passos d
 description: 'Entenda as causas da fascite plantar, os sinais que ajudam a identificá-la e como a fisioterapia atua para aliviar a dor e prevenir novas crises.'
 pubDate: 'Sep 01 2026'
 category: 'fisioterapia-esportiva'
-heroImage: '../../assets/pool/fisioterapia-esportiva/pair-01-hero.jpg'
-heroImageAlt: 'Fisioterapeuta avaliando a região do calcanhar e da planta do pé de um paciente'
+heroImage: '../../assets/pool/fisioterapia-esportiva/pair-03-hero.jpg'
+heroImageAlt: 'Atleta alongando a perna antes da atividade física'
 tags: ['fascite plantar', 'dor no calcanhar', 'fisioterapia esportiva']
 ---
 
@@ -28,7 +28,7 @@ Alguns elementos aumentam a chance de desenvolver o quadro:
 - **Encurtamento da panturrilha e mobilidade reduzida do tornozelo**, que sobrecarregam a fáscia a cada passo.
 - **Sobrepeso e alterações no formato do arco plantar**, tanto pé muito plano quanto muito cavo.
 
-![Fisioterapeuta orientando alongamento de panturrilha e fáscia plantar em um paciente](../../assets/pool/fisioterapia-esportiva/pair-01-inline.jpg)
+![Pé e tornozelo de um atleta apoiados no gramado durante o aquecimento](../../assets/pool/fisioterapia-esportiva/pair-03-inline.jpg)
 
 ## Como a fisioterapia trata
 
