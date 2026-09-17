@@ -1,0 +1,111 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import {
+	authorCrefito,
+	authorEducation,
+	authorExperienceYears,
+	authorFullName,
+	authorLocation,
+	authorRole,
+	contactEmail,
+} from '../lib/site';
+
+const title = `Sobre | ${SITE_TITLE}`;
+const description = `Conheça ${authorFullName}, ${authorRole.toLowerCase()} responsável pelo blog ${SITE_TITLE}.`;
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'Person',
+	name: authorFullName,
+	jobTitle: authorRole,
+	alumniOf: authorEducation.replace('Graduada em Fisioterapia pela ', ''),
+	address: {
+		'@type': 'PostalAddress',
+		addressLocality: authorLocation.split(',')[0].trim(),
+		addressRegion: authorLocation.split(',')[1]?.trim(),
+		addressCountry: 'BR',
+	},
+	...(authorCrefito ? { identifier: authorCrefito } : {}),
+	url: new URL('/sobre/', 'https://www.juliamunizfisio.com').toString(),
+};
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 2em 1em 4em;
+			}
+			.credentials {
+				list-style: none;
+				padding: 0;
+				margin: 1.5em 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.6em;
+			}
+			.credentials li {
+				display: flex;
+				gap: 0.6em;
+				align-items: baseline;
+			}
+			.credentials strong {
+				min-width: 9em;
+				color: rgb(var(--gray-dark));
+			}
+			.disclaimer {
+				margin-top: 2.5em;
+				padding: 1em 1.25em;
+				background: var(--accent-light);
+				border-radius: var(--radius);
+				font-size: 0.92em;
+				color: rgb(var(--gray-dark));
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Sobre</h1>
+			<p>
+				Este blog é escrito por <strong>{authorFullName}</strong>, {authorRole.toLowerCase()}, com o
+				objetivo de traduzir temas de fisioterapia, reabilitação e saúde do movimento em uma
+				linguagem simples e útil para o dia a dia.
+			</p>
+
+			<ul class="credentials">
+				<li><strong>Formação</strong> {authorEducation}</li>
+				<li><strong>Atuação</strong> {authorLocation}</li>
+				<li><strong>Experiência</strong> {authorExperienceYears} anos na área</li>
+				{authorCrefito && <li><strong>Registro profissional</strong> {authorCrefito}</li>}
+			</ul>
+
+			<p>
+				Cada artigo publicado aqui parte da prática clínica e de referências atualizadas sobre
+				fisioterapia ortopédica, esportiva e neurológica. O objetivo é ajudar quem busca entender
+				melhor uma dor, uma lesão ou um processo de reabilitação — sem substituir uma avaliação
+				presencial.
+			</p>
+
+			<p>
+				Dúvidas, sugestões de pauta ou correções podem ser enviadas para
+				<a href={`mailto:${contactEmail}`}>{contactEmail}</a>.
+			</p>
+
+			<div class="disclaimer">
+				O conteúdo deste blog tem caráter educativo e informativo. Ele não substitui uma consulta,
+				diagnóstico ou tratamento realizado por um profissional de saúde de forma presencial.
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
