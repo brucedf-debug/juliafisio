@@ -3,8 +3,8 @@ title: 'Exercício Físico e Saúde Mental: Como o Movimento Ajuda no Manejo da 
 description: 'Entenda de que forma a atividade física regular influencia o humor e a ansiedade, e como a fisioterapia pode orientar essa prática com segurança.'
 pubDate: 'Sep 22 2026'
 category: 'saude-e-prevencao'
-heroImage: '../../assets/pool/saude-e-prevencao/pair-01-hero.jpg'
-heroImageAlt: 'Pessoa caminhando ao ar livre em um dia ensolarado, praticando atividade física'
+heroImage: '../../assets/pool/saude-e-prevencao/pair-05-hero.jpg'
+heroImageAlt: 'Jovem e mulher mais velha caminhando juntos em um parque arborizado depois de se exercitar'
 tags: ['saúde mental', 'ansiedade', 'exercício físico', 'prevenção']
 ---
 
@@ -28,7 +28,7 @@ Um erro comum é achar que só exercícios de alta intensidade trazem esse benef
 
 O ideal costuma ser encontrar um ponto de equilíbrio: uma atividade prazerosa o suficiente para ser mantida no longo prazo, em uma intensidade que traga sensação de energia e não de sobrecarga.
 
-![Pessoa fazendo alongamento suave em ambiente tranquilo](../../assets/pool/saude-e-prevencao/pair-01-inline.jpg)
+![Casal caminhando em uma passarela de madeira ao ar livre](../../assets/pool/saude-e-prevencao/pair-05-inline.jpg)
 
 ## O papel da fisioterapia nesse processo
 
