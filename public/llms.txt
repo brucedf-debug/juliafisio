@@ -1,0 +1,22 @@
+# Julia Muniz Fisio
+
+> Blog sobre fisioterapia, reabilitação e saúde do movimento, escrito por Julia Muniz Duarte (CREFITO-11/399346-F), fisioterapeuta em Brasília, DF. Conteúdo educativo e não substitui avaliação ou tratamento presencial com um profissional de saúde.
+
+## Sobre
+
+- [Sobre a autora](https://juliamunizfisio.com/sobre/): formação, atuação e credenciais profissionais (CREFITO).
+- [Contato](https://juliamunizfisio.com/contato/)
+- [Política de Privacidade](https://juliamunizfisio.com/politica-de-privacidade/)
+
+## Categorias
+
+- [Dor e Coluna](https://juliamunizfisio.com/category/dor-e-coluna/): causas, sinais de alerta e tratamento fisioterapêutico para dores na coluna e articulações.
+- [Fisioterapia Esportiva](https://juliamunizfisio.com/category/fisioterapia-esportiva/): prevenção e recuperação de lesões para quem pratica esportes.
+- [Mobilidade e Exercícios](https://juliamunizfisio.com/category/mobilidade-e-exercicios/): rotinas e exercícios terapêuticos para incluir no dia a dia.
+- [Reabilitação](https://juliamunizfisio.com/category/reabilitacao/): recuperação funcional após cirurgias, lesões e afastamentos prolongados.
+- [Saúde e Prevenção](https://juliamunizfisio.com/category/saude-e-prevencao/): postura, hábitos e cuidados para prevenir dores e lesões antes que aconteçam.
+
+## Descoberta de conteúdo
+
+- [Sitemap](https://juliamunizfisio.com/sitemap-index.xml): lista completa e atualizada de todas as páginas e posts.
+- [RSS](https://juliamunizfisio.com/rss.xml): novos posts publicados diariamente.
