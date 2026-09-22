@@ -20,7 +20,9 @@ const blog = defineCollection({
 				'reabilitacao',
 				'saude-e-prevencao',
 			]),
-			heroImage: z.optional(image()),
+			// Every post needs a hero image and 800+ words — enforced here and by
+			// scripts/check-content-standards.mjs, which runs before every build.
+			heroImage: image(),
 			heroImageAlt: z.string().optional(),
 			tags: z.array(z.string()).default([]),
 			draft: z.boolean().default(false),

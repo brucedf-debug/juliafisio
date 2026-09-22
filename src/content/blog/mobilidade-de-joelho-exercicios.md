@@ -42,6 +42,20 @@ O trabalho mais eficiente para o joelho combina mobilidade das articulações vi
 
 Se o joelho já apresenta dor durante atividades simples, trava em algum ponto do movimento ou incha depois de esforços cotidianos, os exercícios de mobilidade por conta própria deixam de ser suficientes. Esses sinais podem indicar uma sobrecarga já instalada ou uma alteração estrutural que precisa ser identificada antes de se montar uma rotina de exercícios. A avaliação fisioterapêutica ajuda a entender de onde vem a compensação — se do quadril, do tornozelo ou de um desequilíbrio muscular local — e a construir um plano que trate a causa, não só o sintoma.
 
+## O papel do quadríceps e dos isquiotibiais
+
+Além da mobilidade das articulações vizinhas, o equilíbrio de força entre quadríceps e isquiotibiais influencia diretamente como o joelho se comporta durante o movimento. Um quadríceps proporcionalmente muito mais forte que os isquiotibiais, combinação comum em quem treina sem orientação, pode alterar a forma como a patela desliza durante a flexão e a extensão, contribuindo para desconfortos na parte da frente do joelho. Por isso, um programa completo de cuidado com essa articulação costuma incluir também o fortalecimento equilibrado dessa musculatura, e não apenas exercícios de mobilidade isolados.
+
+## Perguntas frequentes
+
+**Estalos no joelho sempre indicam problema?** Não necessariamente. Estalos sem dor associada costumam ser inofensivos, relacionados a pequenas bolhas de gás na articulação ou ao deslizamento de tendões sobre estruturas ósseas. O sinal de alerta real é quando o estalo vem acompanhado de dor ou inchaço.
+
+**Posso fazer agachamento com dor leve no joelho?** Depende da causa da dor. Em alguns casos, ajustar a amplitude e a técnica do agachamento é suficiente para treinar sem piorar o quadro; em outros, vale pausar e buscar avaliação antes de continuar.
+
+**Esses exercícios servem para quem já teve lesão no joelho?** Em fases mais avançadas da reabilitação, sim, mas logo após uma lesão o programa de exercícios deve ser conduzido por um fisioterapeuta, que ajusta a progressão conforme a fase de cicatrização do tecido envolvido.
+
+**Correr causa desgaste no joelho a longo prazo?** As evidências atuais não sustentam essa ideia de forma generalizada — corredores com boa preparação muscular não apresentam mais desgaste articular do que sedentários, e a atividade, bem dosada, costuma ser benéfica para a saúde da cartilagem.
+
 ---
 
 *Este artigo tem finalidade educativa e não substitui uma avaliação individual, capaz de identificar as particularidades de cada joelho e indicar os exercícios mais adequados para cada situação.*

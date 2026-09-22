@@ -34,6 +34,26 @@ Por isso, uma rotina completa de cuidado com o ombro combina exercícios de mobi
 
 Dor que persiste por mais de alguns dias, sensação de estalo doloroso durante o movimento ou dificuldade progressiva para levantar o braço são sinais de que a rigidez pode não ser apenas postural — e merecem uma avaliação mais detalhada.
 
+## O papel da escápula no movimento do braço
+
+Grande parte dos problemas de ombro não está apenas na articulação em si, mas em como a escápula (a omoplata) se movimenta junto com o braço. Em um ombro saudável, escápula e braço trabalham em uma proporção coordenada — para cada dois graus de elevação do braço, a escápula gira cerca de um grau, um padrão chamado ritmo escapuloumeral. Quando a musculatura ao redor da escápula está fraca ou o padrão de movimento está alterado, geralmente por má postura mantida por longos períodos, essa coordenação se perde, e o ombro passa a trabalhar de forma menos eficiente, aumentando o risco de desconforto e lesões por atrito ao longo do tempo.
+
+## Perguntas frequentes
+
+**Dormir de lado piora a mobilidade do ombro?** Pode contribuir, principalmente quando a mesma posição é mantida todas as noites, comprimindo sempre o mesmo ombro contra o colchão por horas seguidas. Alternar o lado ou usar um travesseiro entre os braços costuma ajudar.
+
+**Preciso alongar o ombro todos os dias?** Não é obrigatório, mas a prática regular, mesmo que poucas vezes por semana, tende a manter melhor os ganhos de amplitude do que sessões esporádicas e espaçadas.
+
+## Trabalho e ombro: um ponto de atenção redobrada
+
+Quem trabalha muitas horas diante do computador tende a desenvolver um padrão específico de rigidez de ombro, combinando encurtamento da musculatura peitoral com fraqueza dos músculos que retraem a escápula. Esse padrão, muitas vezes chamado de "postura de ombros arredondados", não se resolve apenas alongando a frente do ombro — precisa também de fortalecimento da musculatura das costas superiores, que puxa a escápula de volta para uma posição mais neutra. Ajustar a altura da tela, a posição do teclado e incluir pausas regulares para movimentar os ombros ao longo do expediente complementam esse trabalho e ajudam a evitar que a rigidez volte a se instalar assim que a pessoa retoma a rotina de trabalho.
+
+**Capsulite adesiva (ombro congelado) tem relação com essa rigidez comum?** São quadros diferentes. A capsulite é uma condição inflamatória específica da cápsula articular, com evolução em fases bem definidas, enquanto a rigidez postural discutida aqui é mais relacionada a hábito e desuso, respondendo de forma mais rápida aos exercícios.
+
+**Nadar ajuda a melhorar a mobilidade do ombro?** Sim, a natação trabalha o ombro em uma amplitude ampla e com resistência da água, o que costuma contribuir tanto para mobilidade quanto para fortalecimento, desde que a técnica do nado seja adequada.
+
+**Dá para melhorar a mobilidade do ombro em qualquer idade?** Sim. Embora o processo possa ser um pouco mais lento em idades mais avançadas, a articulação responde bem a estímulos regulares de movimento em praticamente qualquer fase da vida.
+
 ---
 
 _Este conteúdo tem propósito educativo. Dores persistentes no ombro merecem avaliação individual antes de qualquer rotina de exercícios ser intensificada._

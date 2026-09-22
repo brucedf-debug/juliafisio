@@ -37,6 +37,24 @@ O tratamento costuma envolver algumas frentes combinadas:
 
 Vale procurar avaliação fisioterapêutica e médica sem demora se a dor vier acompanhada de formigamento ou perda de força em um membro, ou se não houver nenhuma melhora após as primeiras semanas de cuidados iniciais. Na maioria das vezes, porém, o caminho é gradual: entender a hérnia, tratar os fatores que a acompanham e retomar o movimento de forma progressiva e orientada.
 
+## O papel do medo do movimento na recuperação
+
+Um dos fatores que mais atrasa a recuperação de uma hérnia de disco não é a estrutura em si, mas o medo que a pessoa desenvolve de se movimentar depois do diagnóstico. Esse medo, conhecido como cinesiofobia, leva a evitar posições e atividades que na verdade poderiam ser retomadas com segurança, o que gera descondicionamento, mais rigidez e, paradoxalmente, mais dor a longo prazo. Parte importante do trabalho fisioterapêutico é justamente reconstruir essa confiança, mostrando na prática que o corpo é capaz de se mover, ainda que de forma gradual e monitorada, mesmo com uma hérnia presente no exame de imagem.
+
+## Hérnia de disco não é sinônimo de fragilidade permanente
+
+Uma vez identificada, a hérnia costuma ser encarada como um rótulo definitivo, mas a realidade clínica mostra outra coisa: muitas pessoas com hérnia de disco confirmada em exame voltam a correr, levantar peso na academia e praticar esportes de impacto após um período de reabilitação bem conduzido. O disco não precisa "voltar ao lugar" nem a hérnia precisa desaparecer completamente do exame para que a dor melhore e a função retorne — o que costuma acontecer é uma combinação de redução do processo inflamatório local, fortalecimento da musculatura de suporte e reeducação da forma de se mover, que juntos permitem retomar uma vida ativa mesmo com a alteração estrutural presente.
+
+## Perguntas frequentes
+
+**Posso fazer musculação com hérnia de disco?** Na maioria dos casos, sim, com ajustes de técnica e progressão de carga orientados por um profissional, evitando principalmente movimentos que combinam flexão e rotação da coluna sob carga alta.
+
+**A hérnia de disco pode desaparecer sozinha?** Em muitos casos, sim — o corpo tem capacidade de reabsorver parte do material herniado ao longo de meses, embora esse processo varie bastante de pessoa para pessoa.
+
+**Quanto tempo leva para melhorar de uma hérnia de disco?** A maioria dos casos apresenta melhora significativa da dor dentro de 6 a 12 semanas de tratamento conservador bem conduzido, embora a recuperação funcional completa possa levar mais tempo.
+
+**Repouso ajuda ou atrapalha na hérnia de disco?** Repouso total por poucos dias pode aliviar uma crise aguda, mas prolongá-lo tende a atrasar a recuperação. Manter-se em movimento controlado, dentro do limite tolerado, costuma trazer resultados melhores a médio prazo.
+
 ---
 
 _As informações acima têm propósito educativo. O diagnóstico e o plano de tratamento de uma hérnia de disco devem sempre ser definidos após avaliação individual com um profissional._

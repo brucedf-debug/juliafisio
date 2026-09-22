@@ -34,6 +34,26 @@ Fortalecer o core não significa necessariamente fazer abdominais em grande quan
 
 Um core bem fortalecido não apenas reduz o risco de dor na coluna — também melhora o desempenho em atividades físicas, a postura no dia a dia e o equilíbrio geral do corpo. É uma das bases mais consistentes de um programa de prevenção fisioterapêutica.
 
+## O erro de confundir core forte com abdômen rígido
+
+Um mal-entendido comum é achar que um core bem treinado significa manter o abdômen contraído com força o tempo todo. Na prática, a musculatura do core precisa saber ativar na intensidade certa para cada tarefa — uma ativação leve para manter a postura sentada, uma ativação mais forte para levantar um peso do chão — e também precisa relaxar quando não há demanda, como durante a respiração tranquila. Um core que fica permanentemente tenso, em vez de se adaptar à exigência do momento, pode inclusive contribuir para padrões de respiração disfuncionais e para uma sensação constante de rigidez na região.
+
+## Assoalho pélvico: a peça menos lembrada do core
+
+Quando se fala em core, a atenção costuma ir para o abdômen e a lombar, mas o assoalho pélvico — o conjunto de músculos na base da pelve — é parte igualmente importante dessa estrutura de estabilização, e seu enfraquecimento está relacionado não apenas à dor lombar, mas também a queixas como perda de urina aos esforços. Fortalecer o core de forma completa, incluindo essa musculatura, é especialmente relevante em momentos como o pós-parto, mas beneficia qualquer pessoa que busca uma base de estabilidade verdadeiramente funcional para a coluna.
+
+## Com que frequência treinar o core
+
+Diferente de grupos musculares maiores, que costumam precisar de dias de descanso entre estímulos intensos, a musculatura profunda do core responde bem a treinos mais frequentes, muitas vezes diários, desde que a intensidade seja adequada e não gere dor. Um programa consistente de 10 a 15 minutos, poucas vezes por semana, tende a trazer resultados mais duradouros do que sessões longas e esporádicas — o core se beneficia mais de repetição e controle motor do que de sobrecarga máxima ocasional.
+
+## Perguntas frequentes
+
+**Prancha é o melhor exercício para o core?** É um bom exercício, mas não o único nem necessariamente o melhor para todo mundo. Um programa completo de core costuma variar entre exercícios estáticos, como a prancha, e exercícios dinâmicos que desafiam a estabilização durante o movimento.
+
+**Quanto tempo leva para sentir os resultados do fortalecimento do core?** A melhora na estabilidade e na redução da dor lombar costuma aparecer dentro de 4 a 8 semanas de treino consistente, embora o tempo varie conforme o ponto de partida e a frequência dos exercícios.
+
+**Pessoas com dor lombar podem treinar o core normalmente?** Na maioria dos casos sim, com exercícios adaptados à fase da dor. É justamente o core fortalecido que costuma ajudar a reduzir episódios futuros, embora a progressão inicial deva respeitar o quadro de cada pessoa.
+
 ---
 
 _Este conteúdo é educativo. A forma correta de executar cada exercício depende do histórico e da condição física de cada pessoa, por isso a orientação de um fisioterapeuta é recomendada._

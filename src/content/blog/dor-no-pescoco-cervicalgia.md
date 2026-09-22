@@ -40,6 +40,31 @@ Depois que a dor melhora, a parte mais importante do tratamento começa: entende
 
 Formigamento, perda de força no braço ou na mão, ou uma dor que não cede mesmo com repouso e cuidados básicos são sinais de que vale a pena buscar avaliação sem esperar. Na maioria dos casos, porém, a cervicalgia responde bem a um tratamento que combina alívio da dor com mudança de hábitos — e é justamente essa combinação que evita que ela volte.
 
+## Ajustes simples no ambiente de trabalho
+
+Pequenas mudanças no dia a dia fazem diferença real na prevenção da cervicalgia:
+
+- **Posicione a tela na altura dos olhos**, evitando que o pescoço fique inclinado para baixo por longos períodos.
+- **Use apoio para os braços** ao digitar, reduzindo a tensão que sobe até o pescoço e os ombros.
+- **Faça pausas breves a cada 40-60 minutos**, movimentando o pescoço e os ombros de forma ativa.
+- **Evite segurar o celular entre o ombro e a orelha** durante ligações — um hábito comum que sobrecarrega um dos lados do pescoço.
+
+## Perguntas frequentes
+
+**Travesseiro alto ou baixo faz diferença na dor cervical?** Sim. Um travesseiro que mantém o pescoço alinhado com a coluna, nem muito alto nem muito baixo, reduz a tensão acumulada durante a noite — a altura ideal varia conforme a posição em que a pessoa dorme.
+
+**Estresse realmente causa dor no pescoço?** Sim, de forma bem documentada. A tensão emocional se manifesta fisicamente como contração muscular sustentada, e a região do pescoço e dos ombros é uma das mais afetadas por esse mecanismo.
+
+**Dor de cabeça pode vir do pescoço?** Pode, e é mais comum do que se imagina. A chamada cefaleia cervicogênica tem origem em tensão ou disfunção nas estruturas do pescoço, e costuma melhorar junto com o tratamento da cervicalgia.
+
+**Estalar o pescoço alivia a dor?** Pode trazer uma sensação momentânea de alívio, mas esse hábito repetido não trata a causa da tensão e, em alguns casos, pode até reforçar um padrão de instabilidade local. O ideal é buscar a origem da rigidez em vez de depender desse alívio temporário.
+
+**Almofada cervical no carro ou avião ajuda a prevenir dor?** Pode ajudar a manter um alinhamento melhor durante longos períodos sentado em posições que favorecem a projeção da cabeça à frente, mas o benefício é mais evidente quando combinado com pausas regulares para movimentar o pescoço.
+
+**Mochila pesada em um só ombro causa cervicalgia?** Contribui, sim. Carregar peso de forma assimétrica em um único ombro tende a gerar compensações musculares que sobrecarregam um dos lados do pescoço ao longo do tempo, especialmente quando o hábito é repetido diariamente.
+
+**Fisioterapia resolve cervicalgia sem precisar de remédio?** Na maioria dos casos, sim. O foco da fisioterapia é tratar a causa mecânica e postural da dor, o que costuma reduzir a necessidade de medicação a longo prazo, embora o uso pontual de analgésicos possa ser orientado pelo médico em fases mais agudas.
+
 ---
 
 _Este texto tem finalidade informativa. Cada caso de dor cervical tem particularidades que só uma avaliação presencial pode esclarecer com segurança._

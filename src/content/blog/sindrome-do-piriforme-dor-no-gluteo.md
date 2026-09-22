@@ -4,6 +4,8 @@ description: 'Entenda o que é a síndrome do piriforme, por que ela costuma ser
 pubDate: 'Sep 19 2026'
 category: 'dor-e-coluna'
 tags: ['coluna', 'dor lombar', 'síndrome do piriforme']
+heroImage: '../../assets/pool/dor-e-coluna/pair-05-hero.jpg'
+heroImageAlt: 'Fisioterapeuta realizando teste de elevação da perna estendida em paciente'
 ---
 
 É comum alguém chegar ao consultório dizendo que está com "ciática", descrevendo uma dor profunda no glúteo que às vezes desce pela parte de trás da coxa. Em boa parte dos casos, a causa realmente está em uma raiz nervosa comprimida na coluna. Mas existe outra origem, bem menos conhecida, que produz um quadro parecido sem que a coluna esteja envolvida: a síndrome do piriforme, um problema muscular que se disfarça de dor de coluna.
@@ -45,6 +47,16 @@ O tratamento é conservador na quase totalidade dos casos e costuma reunir algum
 **Progressão funcional gradual**, retomando atividades físicas de forma controlada conforme a dor e a mobilidade evoluem.
 
 Na maioria dos casos, esse conjunto de medidas traz alívio significativo em poucas semanas, sem necessidade de procedimentos invasivos. O ponto central é não tratar toda dor no glúteo como se fosse necessariamente um problema de coluna — às vezes a origem está em um músculo pequeno, mas com um vizinho importante.
+
+## Perguntas frequentes
+
+**A síndrome do piriforme pode ser confirmada por exame de imagem?** Não de forma direta. Ressonância e tomografia ajudam principalmente a descartar outras causas, como hérnia de disco, já que a síndrome do piriforme é um diagnóstico predominantemente clínico, baseado no exame físico.
+
+**Correr pode causar síndrome do piriforme?** Pode contribuir, especialmente em corredores com fraqueza de glúteos ou assimetrias de passada, que sobrecarregam o piriforme para compensar a instabilidade do quadril durante a corrida.
+
+**Sentar em cima da carteira no bolso de trás realmente piora a dor?** Sim, é um hábito comum que mantém o piriforme comprimido e tensionado de um lado do corpo, especialmente em quem passa longos períodos sentado durante o dia, como motoristas. Retirar a carteira do bolso de trás ao sentar é uma medida simples que costuma ajudar bastante nesses casos.
+
+**A síndrome do piriforme melhora sozinha sem tratamento?** Em casos bem leves, pode melhorar com ajustes simples de postura e hábito, mas quadros mais persistentes costumam precisar de intervenção fisioterapêutica direcionada para resolver de forma mais completa e duradoura.
 
 ---
 

@@ -48,6 +48,29 @@ O tratamento fisioterapêutico para dor lombar é individualizado, mas geralment
 
 Enquanto não tem uma avaliação presencial, algumas medidas simples costumam ajudar a aliviar quadros leves de dor lombar: evitar repouso prolongado na cama (o movimento controlado é melhor que a imobilidade total), aplicar calor local para relaxar a musculatura tensa, e manter-se ativo dentro do limite da dor.
 
+## Erros comuns que atrasam a recuperação
+
+- **Ficar em repouso absoluto por muitos dias.** Além de não acelerar a cicatrização, o repouso prolongado enfraquece a musculatura e pode intensificar a sensibilidade à dor.
+- **Evitar completamente o movimento por medo de piorar.** O medo do movimento (cinesiofobia) é, hoje, reconhecido como um dos fatores que mais contribuem para a cronificação da dor lombar.
+- **Buscar apenas alívio passivo**, como massagens ou aparelhos, sem investir no fortalecimento que sustenta a melhora a longo prazo.
+- **Voltar às atividades de carga máxima assim que a dor passa**, sem uma progressão gradual que respeite a capacidade atual da coluna.
+
+## Perguntas frequentes
+
+**Toda dor lombar precisa de exame de imagem?** Não. Na maioria dos casos, a avaliação clínica já é suficiente para direcionar o tratamento. Exames de imagem costumam ser reservados para quadros com sinais de alerta ou que não respondem ao tratamento inicial.
+
+**Quantas sessões de fisioterapia costumam ser necessárias?** Varia bastante conforme a causa e o tempo de evolução da dor, mas muitos quadros agudos mostram melhora relevante dentro de 4 a 6 semanas de tratamento regular.
+
+**Dor lombar crônica tem cura?** "Cura" nem sempre é o termo mais adequado, mas a grande maioria das pessoas com dor lombar crônica consegue reduzir significativamente a intensidade e a frequência das crises com um programa consistente de fortalecimento e educação sobre a dor.
+
+**Colchão firme ou macio faz diferença?** Faz, mas não existe uma regra única válida para todo mundo — o mais importante é que o colchão mantenha a coluna alinhada durante o sono, o que varia conforme o peso corporal e a posição preferida para dormir.
+
+**Prancha e exercícios de core sempre ajudam a dor lombar?** Ajudam quando bem executados e dosados, mas não são uma solução universal — em algumas fases ou tipos de dor, certos exercícios de core podem até sobrecarregar a região se a técnica não for adequada, por isso a orientação individualizada faz diferença.
+
+**Massagem resolve a dor lombar de forma definitiva?** A massagem pode trazer alívio real da tensão muscular, mas isoladamente não corrige os padrões de movimento e as fraquezas que costumam manter a dor lombar recorrente — por isso funciona melhor como parte de um plano mais amplo, não como tratamento único.
+
+**Dor lombar ao acordar tem alguma causa específica?** Pode estar relacionada à posição de dormir, ao colchão ou a um período mais longo de imobilidade durante a noite, que reduz a lubrificação natural das articulações da coluna. Movimentos suaves logo ao acordar costumam ajudar a aliviar esse tipo de rigidez matinal.
+
 ---
 
 _Este conteúdo tem caráter educativo e não substitui uma avaliação individual. Cada coluna tem uma história diferente — o ideal é sempre passar por uma avaliação fisioterapêutica antes de iniciar qualquer tratamento._

@@ -44,6 +44,22 @@ O tratamento raramente exige parar de correr por completo, mas quase sempre pede
 
 A canelite tende a responder bem quando identificada cedo e tratada com paciência. O erro mais comum é tentar "treinar apesar da dor", o que só prolonga a recuperação e aumenta o risco de o quadro evoluir para uma lesão mais séria, como a fratura por estresse.
 
+## Perguntas frequentes
+
+**Posso continuar correndo com canelite?** Depende da intensidade da dor. Em quadros leves, reduzir volume e intensidade costuma ser suficiente; em dor mais intensa ou persistente, um período de substituição por atividades de baixo impacto costuma acelerar a recuperação.
+
+**Quanto tempo leva para a canelite melhorar?** Casos leves, identificados cedo, costumam responder em 2 a 4 semanas de ajuste de carga e fortalecimento. Quadros mais avançados ou ignorados por muito tempo podem levar de 6 a 12 semanas.
+
+**Tênis de corrida novo previne canelite?** Ajuda, mas não é garantia isolada. O calçado precisa ser adequado ao tipo de pisada, e mesmo o melhor tênis não compensa uma progressão de treino muito rápida.
+
+**Canelite pode virar fratura por estresse?** Sim, se a sobrecarga continuar sem ajuste. É exatamente por isso que a avaliação precoce e o respeito aos sinais de dor são tão importantes nesse quadro.
+
+**Vale a pena usar palmilhas para canelite?** Em alguns casos, principalmente quando há alteração significativa da pisada, as palmilhas ajudam a redistribuir a carga. Mas elas funcionam melhor como complemento do fortalecimento e do ajuste de treino, não como solução isolada.
+
+**Alongamento resolve a canelite?** Ajuda a reduzir a tensão na musculatura da panturrilha, mas isoladamente não trata a causa principal, que está relacionada à sobrecarga mecânica sobre a tíbia. O fortalecimento e o ajuste de carga de treino têm papel mais central no tratamento.
+
+**Correr em superfícies mais macias ajuda?** Sim, pode reduzir o impacto acumulado enquanto os tecidos se recuperam, mas essa mudança deve ser vista como parte de uma estratégia mais ampla, junto do fortalecimento e do ajuste de volume, não como solução isolada.
+
 ---
 
 *Este texto tem caráter educativo e não substitui uma avaliação individual com um fisioterapeuta, que poderá investigar a causa exata da dor e orientar a conduta mais segura para cada corredor.*

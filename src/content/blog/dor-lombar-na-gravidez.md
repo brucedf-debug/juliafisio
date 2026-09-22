@@ -43,6 +43,29 @@ O tratamento é sempre adaptado à fase da gestação e às particularidades de 
 
 Um receio comum entre gestantes é que se exercitar possa fazer mal ao bebê, mas a atividade física orientada é, na verdade, uma das medidas mais eficazes contra a dor lombar gestacional. O acompanhamento fisioterapêutico permite ajustar a intensidade e o tipo de exercício a cada fase, sempre em conjunto com a orientação do obstetra, de forma que o corpo se mantenha forte e móvel para sustentar as mudanças da gravidez — e também para a recuperação no pós-parto.
 
+## Posições que ajudam a aliviar no dia a dia
+
+Algumas mudanças simples de postura trazem alívio imediato para muitas gestantes:
+
+- **Dormir de lado com um travesseiro entre os joelhos** e outro apoiando a barriga, reduzindo a torção da pelve durante a noite.
+- **Evitar ficar muito tempo em pé parada**, alternando o apoio do peso entre as pernas ou usando um apoio baixo para um dos pés.
+- **Sentar com um apoio lombar**, mantendo os quadris levemente acima dos joelhos, o que reduz a pressão sobre a lombar.
+- **Usar uma cinta de sustentação pélvica**, quando orientado pelo fisioterapeuta, especialmente em fases mais avançadas da gestação.
+
+## Perguntas frequentes
+
+**É seguro fazer fisioterapia durante toda a gravidez?** Sim, com os devidos ajustes a cada trimestre. A fisioterapia obstétrica é justamente especializada em adaptar exercícios e técnicas manuais às particularidades de cada fase da gestação.
+
+**A dor lombar da gravidez desaparece sozinha depois do parto?** Nem sempre por completo. Os tecidos e articulações levam tempo para retornar ao padrão pré-gestacional, e um acompanhamento no pós-parto ajuda a acelerar essa recuperação e prevenir dores crônicas.
+
+**Pilates é indicado durante a gestação?** Pode ser, desde que adaptado por um profissional com experiência em gestantes, respeitando as contraindicações específicas de cada trimestre e evitando posições que comprimam o abdômen.
+
+**Caminhar piora a dor lombar na gravidez?** Na maioria dos casos, não — pelo contrário, caminhadas leves e regulares costumam ajudar a manter a mobilidade da pelve e a circulação, desde que feitas dentro do conforto de cada gestante e sem sinais de dor aumentando durante a atividade.
+
+**Sapato com salto piora a dor lombar gestacional?** Costuma piorar, sim. O salto altera ainda mais o centro de gravidade já deslocado pela barriga, exigindo mais compensação da lombar. Calçados baixos, estáveis e com bom amortecimento tendem a ser mais confortáveis ao longo da gestação.
+
+**Bola suíça ajuda a aliviar a dor lombar na gravidez?** Pode ajudar bastante, tanto para exercícios de mobilidade pélvica quanto simplesmente para sentar em alguns momentos do dia, já que estimula pequenos ajustes posturais que aliviam a sobrecarga estática da lombar.
+
 ---
 
 *Este artigo tem finalidade informativa e não substitui o acompanhamento de um fisioterapeuta e do obstetra responsável pelo pré-natal, que poderão avaliar as particularidades de cada gestação antes de indicar qualquer conduta.*

@@ -38,6 +38,22 @@ O tempo total desse processo varia bastante conforme o tipo de cirurgia, a idade
 
 Talvez o ponto mais importante das primeiras semanas seja este: reabilitação não é uma lista fixa de exercícios, é um processo que se ajusta constantemente com base na resposta do paciente. Um bom acompanhamento fisioterapêutico identifica cedo quando algo não está evoluindo como esperado, evitando que pequenos contratempos se transformem em complicações maiores.
 
+## Sinais que merecem atenção redobrada
+
+Embora algum desconforto seja parte esperada do processo, alguns sinais indicam que vale contatar a equipe responsável sem esperar a próxima consulta agendada: febre, vermelhidão ou calor intensos ao redor da incisão, dor que piora de forma progressiva em vez de melhorar gradualmente, ou secreção incomum no local operado. Esses sinais podem indicar complicações que precisam de avaliação médica rápida, diferente do desconforto esperado da própria reabilitação, que costuma ser mais previsível e responder bem aos cuidados orientados.
+
+## Perguntas frequentes
+
+**Posso retomar o trabalho durante as primeiras semanas de reabilitação?** Depende do tipo de cirurgia e da natureza do trabalho. Funções que exigem esforço físico da região operada costumam exigir mais tempo de afastamento do que trabalhos administrativos, e essa decisão deve ser tomada junto à equipe médica.
+
+**É normal sentir mais cansaço do que o esperado nas primeiras semanas?** Sim. O próprio processo de cicatrização consome energia do corpo, e é comum sentir mais fadiga do que o previsto, mesmo em cirurgias consideradas de menor porte.
+
+**Quantas vezes por semana costumam ser as sessões de fisioterapia nesse período?** Varia conforme o tipo de cirurgia e a orientação da equipe, mas é comum um acompanhamento de 2 a 3 vezes por semana nas primeiras semanas, com ajustes ao longo da evolução do paciente conforme cada fase da recuperação.
+
+**Vale a pena buscar uma segunda opinião se sinto que a recuperação está lenta demais?** Sim, especialmente se a evolução parece estagnada por muitas semanas. Um fisioterapeuta pode reavaliar o plano de tratamento e identificar ajustes necessários para retomar o progresso esperado, considerando tanto o tipo de cirurgia quanto a resposta individual do paciente ao longo de todo o processo de recuperação.
+
+**Vale continuar os exercícios prescritos mesmo depois da alta da fisioterapia?** Sim, manter uma rotina de fortalecimento e mobilidade, mesmo depois do acompanhamento formal terminar, ajuda a consolidar os ganhos obtidos e a prevenir novas lesões na região operada a longo prazo, mantendo os resultados conquistados durante toda a reabilitação.
+
 ---
 
 _As informações deste artigo têm fins educativos. O protocolo de reabilitação após uma cirurgia deve ser sempre definido em conjunto com o cirurgião e o fisioterapeuta responsáveis pelo caso._

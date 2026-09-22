@@ -41,6 +41,31 @@ O tratamento costuma seguir uma lógica progressiva:
 
 Perda progressiva de força na perna, alteração no controle da bexiga ou do intestino, ou dor muito intensa que não cede são sinais de alerta que pedem avaliação médica imediata. Fora desses casos, a ciática costuma responder bem ao tratamento conservador — mas quanto antes ele começa, mais rápida tende a ser a recuperação.
 
+## Cuidados no dia a dia durante a crise
+
+Enquanto a dor está mais intensa, alguns ajustes simples ajudam a passar pelo período agudo sem sobrecarregar ainda mais o nervo:
+
+- **Evite ficar sentado por períodos muito longos sem pausas.** A posição sentada aumenta a pressão sobre os discos lombares, podendo intensificar a irritação nervosa.
+- **Mantenha-se em movimento dentro do limite tolerável.** Repouso absoluto prolongado tende a atrasar a recuperação; caminhar leve, quando possível, costuma ajudar mais do que ficar parado.
+- **Ajuste a postura ao dormir.** Deitar de lado com um travesseiro entre os joelhos costuma reduzir a tensão na lombar durante a noite.
+- **Evite carregar peso ou fazer movimentos de flexão combinada com rotação do tronco**, um dos padrões que mais sobrecarrega a região lombar.
+
+## Perguntas frequentes
+
+**Ciática sempre precisa de cirurgia?** Não. A grande maioria dos casos responde bem ao tratamento conservador com fisioterapia. A cirurgia costuma ser reservada para casos com sinais neurológicos progressivos ou que não respondem ao tratamento após um período adequado.
+
+**Quanto tempo dura uma crise de ciática?** Varia bastante conforme a causa, mas boa parte dos episódios agudos apresenta melhora significativa dentro de 4 a 6 semanas com tratamento adequado.
+
+**Repouso ajuda na ciática?** Repouso absoluto por poucos dias pode aliviar a dor aguda, mas prolongá-lo tende a atrasar a recuperação. Manter-se em movimento dentro do limite tolerado costuma trazer melhores resultados.
+
+**Ciática e dor lombar são a mesma coisa?** Não. A dor lombar fica restrita à região das costas, enquanto a ciática se caracteriza pela irradiação ao longo do trajeto do nervo, chegando à perna. É possível ter uma sem a outra, embora muitas vezes apareçam juntas.
+
+**Exercício físico pode causar ciática?** O exercício em si raramente é a causa direta, mas uma progressão de carga muito rápida ou uma técnica de movimento inadequada pode contribuir para o desenvolvimento de uma hérnia de disco, uma das principais causas da compressão do nervo ciático.
+
+**A ciática pode voltar depois de tratada?** Pode, principalmente se os fatores que levaram ao quadro inicial — fraqueza muscular, sobrecarga postural repetida ou falta de mobilidade — não forem trabalhados na fase de manutenção após a melhora da dor. Por isso o fortalecimento contínuo é parte importante da prevenção de recidivas.
+
+**Formigamento no pé sempre indica ciática?** Não necessariamente. Formigamento pode ter outras origens, como compressões nervosas periféricas fora da coluna. A avaliação clínica ajuda a diferenciar essas possibilidades antes de assumir que a causa é a ciática.
+
 ---
 
 _Este conteúdo é educativo e não substitui uma avaliação individual. A causa exata da compressão do nervo ciático só pode ser confirmada com exame clínico e, quando necessário, exames complementares._

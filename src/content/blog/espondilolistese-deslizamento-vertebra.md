@@ -38,6 +38,24 @@ Na grande maioria dos casos, esse conjunto de medidas é suficiente para control
 
 Sinais como dor que se irradia para uma ou ambas as pernas com formigamento ou fraqueza, piora progressiva mesmo com tratamento adequado, ou qualquer alteração no controle da bexiga ou do intestino merecem avaliação médica sem demora. Fora dessas situações, a espondilolistese costuma ser um diagnóstico para conviver com tranquilidade, mantendo a coluna forte e ativa em vez de evitada por receio.
 
+## Perguntas frequentes
+
+**Posso fazer exercício físico tendo espondilolistese?** Sim, e na maioria dos casos é altamente recomendado. O fortalecimento da musculatura ao redor da coluna é justamente o que dá mais estabilidade ao segmento deslizado, reduzindo o risco de crises de dor.
+
+**A espondilolistese sempre piora com o tempo?** Não necessariamente. Muitos casos permanecem estáveis por anos ou décadas, especialmente quando a musculatura estabilizadora é bem trabalhada e mantida forte ao longo do tempo.
+
+**Quais atividades devo evitar?** Em geral, orienta-se cautela com exercícios de hiperextensão repetida da lombar sob carga, como certos movimentos de ginástica olímpica ou levantamento de peso com técnica inadequada, mas isso varia conforme o grau de deslizamento e deve ser avaliado individualmente.
+
+**Espondilolistese sempre exige cirurgia?** Não. A cirurgia costuma ser reservada para casos com instabilidade progressiva significativa, sintomas neurológicos importantes ou dor incapacitante que não responde ao tratamento conservador bem conduzido por um período adequado.
+
+## Os diferentes tipos de espondilolistese
+
+Nem toda espondilolistese tem a mesma origem, o que também influencia a conduta. A espondilolistese ístmica, mais comum em adolescentes atletas, decorre de uma fratura de estresse em uma pequena ponte óssea da vértebra, geralmente associada a esportes com extensão repetida da coluna, como ginástica e alguns estilos de natação. Já a espondilolistese degenerativa, mais frequente após os 50 anos, resulta do desgaste progressivo das articulações e dos discos intervertebrais, que perdem parte da capacidade de manter as vértebras alinhadas. Existe ainda a variante congênita, presente desde o nascimento por uma formação óssea diferente, e formas mais raras associadas a doenças ósseas específicas ou a traumas de alto impacto. Saber qual tipo está envolvido ajuda o profissional a estimar o comportamento esperado da condição ao longo do tempo.
+
+## Retorno ao esporte em adolescentes
+
+Em atletas jovens com espondilolistese ístmica, o retorno ao esporte costuma ser conduzido com cautela redobrada, já que a coluna ainda está em fase de crescimento. O processo geralmente envolve um período inicial de controle de carga, seguido de fortalecimento progressivo do core e da musculatura de quadril, com reintrodução gradual dos gestos esportivos apenas quando a dor está controlada e a estabilidade muscular, bem estabelecida — sempre em conjunto com acompanhamento ortopédico regular durante essa fase.
+
 ---
 
 *Este texto tem objetivo educativo e não substitui uma avaliação individualizada, já que o grau de deslizamento, a idade e o nível de atividade de cada pessoa mudam completamente a conduta mais indicada.*

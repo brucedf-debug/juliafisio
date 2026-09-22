@@ -4,6 +4,8 @@ description: 'Entenda como funciona a reabilitação depois de uma lesão de men
 pubDate: 'Sep 21 2026'
 category: 'reabilitacao'
 tags: ['menisco', 'joelho', 'reabilitação']
+heroImage: '../../assets/pool/reabilitacao/pair-05-hero.jpg'
+heroImageAlt: 'Fisioterapeuta avaliando a mobilidade do joelho de um paciente'
 ---
 
 Uma torção mais brusca durante o esporte, um agachamento mal executado ou até um movimento simples do dia a dia podem ser suficientes para lesionar o menisco, a estrutura em formato de meia-lua que amortece e estabiliza o joelho. A partir do diagnóstico, surge uma dúvida comum: será que precisa operar? A resposta depende do tipo de lesão, da idade e do nível de atividade de cada pessoa — e, em muitos casos, é a reabilitação fisioterapêutica, e não a cirurgia, que conduz a recuperação.
@@ -30,6 +32,18 @@ Alguns marcos ajudam a acompanhar se a reabilitação está progredindo como esp
 - Capacidade de realizar agachamentos e subir escadas sem dor ou insegurança na articulação.
 
 Esses marcos não seguem um calendário fixo igual para todos — cada joelho responde em um ritmo próprio, e tentar acelerar etapas antes que o tecido esteja pronto é uma das principais causas de recaída.
+
+## Meniscectomia parcial versus sutura: o que muda na prática
+
+A diferença entre esses dois procedimentos vai além do tempo de recuperação — ela também influencia as expectativas de longo prazo. Na meniscectomia parcial, embora o retorno funcional seja mais rápido, a remoção de parte do tecido meniscal reduz um pouco a capacidade de amortecimento da articulação, o que pode, em alguns casos, aumentar o desgaste da cartilagem ao longo dos anos. Já a sutura meniscal, apesar de exigir uma reabilitação mais longa e cautelosa, preserva mais tecido e tende a proteger melhor a saúde da articulação a longo prazo. Essa diferença é um dos motivos pelos quais cirurgiões ortopédicos, sempre que a lesão permite, buscam preservar o menisco através da sutura em vez de remover a parte lesionada, especialmente em pacientes mais jovens e ativos.
+
+## Perguntas frequentes
+
+**Posso voltar a correr depois de uma lesão de menisco?** Na maioria dos casos, sim, especialmente após uma reabilitação completa que inclui fortalecimento e propriocepção. O tempo e a intensidade do retorno variam conforme o tipo de lesão e o procedimento realizado.
+
+**Lesão de menisco sempre aparece de repente?** Não necessariamente. Em pessoas mais velhas, lesões degenerativas do menisco podem se desenvolver aos poucos, sem um episódio único de trauma, relacionadas ao desgaste natural do tecido ao longo dos anos.
+
+**Preciso operar toda lesão de menisco identificada em exame de imagem?** Não. Muitas lesões, especialmente as degenerativas em pessoas mais velhas, são encontradas incidentalmente e não causam sintomas suficientes para justificar cirurgia, respondendo bem ao tratamento conservador com fisioterapia.
 
 ---
 

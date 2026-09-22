@@ -35,6 +35,22 @@ A fisioterapia não resolve as causas do estresse, mas atua diretamente sobre su
 
 Dor de cabeça tensional frequente, ombros constantemente "duros", rangido de dentes durante o sono e dor no pescoço que piora em períodos de mais pressão são sinais de que a tensão muscular relacionada ao estresse já está afetando o corpo. Quanto antes esse padrão é identificado, mais simples costuma ser a intervenção — e menor o risco de a dor se tornar um problema crônico e mais difícil de reverter.
 
+## O papel do sono nesse ciclo
+
+Sono ruim e tensão muscular alimentam um ao outro de forma bastante direta. A dor e a rigidez acumuladas ao longo do dia dificultam encontrar uma posição confortável para dormir, e uma noite mal dormida reduz a tolerância do corpo à dor no dia seguinte, tornando a mesma quantidade de tensão muscular mais incômoda do que seria com um sono adequado. Por isso, quando o quadro de tensão muscular relacionada ao estresse é avaliado, perguntas sobre qualidade e duração do sono fazem parte do raciocínio clínico — corrigir apenas a musculatura, sem abordar esse fator, tende a produzir resultados mais instáveis e sujeitos a recaída.
+
+## Diferença entre tensão pontual e um padrão instalado
+
+Nem toda tensão muscular após um dia difícil exige tratamento — o corpo tem uma capacidade natural de relaxar depois que a situação de estresse passa. O que justifica buscar ajuda profissional é quando esse relaxamento natural para de acontecer: a pessoa percebe que carrega os ombros elevados mesmo em momentos de calma, ou que a mandíbula permanece tensa mesmo fora de situações estressantes. Esse padrão instalado, mantido por semanas ou meses, é o que costuma evoluir para dor persistente e se beneficia mais claramente de uma intervenção estruturada, em vez de esperar que se resolva sozinho.
+
+## Perguntas frequentes
+
+**Massagem resolve a tensão muscular por estresse?** Traz alívio real, mas temporário, se o gatilho — a rotina de estresse mantida — não for endereçado junto. Por isso funciona melhor combinada com reeducação postural e estratégias de manejo do próprio estresse.
+
+**Bruxismo tem relação com esse tipo de tensão?** Sim, é uma das manifestações mais comuns da tensão relacionada ao estresse, concentrada na musculatura da mandíbula, e frequentemente tratada em conjunto por fisioterapeutas e dentistas especializados em disfunção temporomandibular.
+
+**Atividade física ajuda a reduzir a tensão por estresse?** Sim, de forma bem consistente. O exercício regular tem efeito direto na redução dos hormônios relacionados ao estresse e ajuda o corpo a liberar a tensão acumulada de forma mais eficaz do que o repouso passivo isolado.
+
 ---
 
 *Este texto tem caráter informativo e não substitui uma avaliação individual: cada corpo responde de um jeito ao estresse, e um fisioterapeuta pode identificar os pontos de tensão específicos do seu caso e montar uma conduta adequada.*

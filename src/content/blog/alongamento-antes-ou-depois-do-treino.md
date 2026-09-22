@@ -39,6 +39,29 @@ Após o treino, o cenário muda. Com a musculatura já aquecida e sem a exigênc
 
 Se a meta principal não é o desempenho no treino em si, mas sim melhorar a flexibilidade ao longo do tempo (por exemplo, para alcançar posições específicas em uma modalidade), o alongamento estático pode — e deve — ser trabalhado em momentos dedicados, fora do aquecimento, com frequência regular e progressão gradual de tempo e intensidade.
 
+## Quanto tempo alongar em cada sessão
+
+Para o alongamento estático pós-treino, manter a posição entre 20 e 40 segundos por grupo muscular costuma ser suficiente para reduzir a tensão acumulada, com 2 a 3 repetições por músculo. Sessões muito mais longas do que isso raramente trazem benefício adicional proporcional ao tempo investido — o ganho de amplitude vem mais da frequência regular ao longo das semanas do que da duração de uma única sessão. Já o alongamento dinâmico pré-treino costuma durar de 5 a 10 minutos no total, cobrindo os principais grupos musculares envolvidos na atividade que vem a seguir.
+
+## Erros comuns na hora de alongar
+
+- **Alongar um músculo já dolorido ou lesionado sem orientação.** Nem toda dor muscular deve ser alongada; em lesões agudas, o alongamento pode piorar o quadro em vez de ajudar.
+- **Confundir desconforto leve com dor.** O alongamento deve gerar uma sensação de tensão tolerável, nunca dor aguda — esse é o sinal de que o limite foi ultrapassado.
+- **Fazer movimentos com solavancos (balísticos) em vez de progressão controlada.** Esse tipo de alongamento aumenta o risco de lesão muscular sem trazer ganho adicional de amplitude.
+- **Esperar resultado em poucos dias.** Ganho real de flexibilidade costuma levar de 3 a 6 semanas de prática consistente para se tornar perceptível.
+
+## Perguntas frequentes
+
+**Alongar antes do treino evita lesões?** O alongamento dinâmico ajuda a preparar o corpo, mas o principal fator de prevenção de lesões é a progressão adequada de carga e volume de treino, não o alongamento isolado.
+
+**Posso pular o alongamento se estiver com pouco tempo?** Se precisar escolher, priorize o aquecimento dinâmico antes do treino — ele tem impacto mais direto na performance e no risco de lesão do que o alongamento estático.
+
+**Alongamento estático depois do treino reduz a dor muscular do dia seguinte?** O efeito sobre a dor muscular tardia é modesto; o principal benefício do alongamento pós-treino é o ganho de amplitude a médio prazo, não o alívio imediato da dor.
+
+**Existe alongamento errado para o meu tipo de treino?** Sim. Alongar estaticamente um músculo que será exigido de forma explosiva logo em seguida — como antes de um treino de sprints — pode reduzir temporariamente a potência disponível, por isso o momento e o tipo de alongamento importam tanto quanto a técnica em si.
+
+**Alongar dói? É normal sentir desconforto?** Uma sensação de tensão é esperada e faz parte do processo, mas dor aguda, em pontada, não é normal e costuma indicar que a amplitude foi forçada além do que o tecido estava preparado para tolerar naquele momento. Nesses casos, reduzir a intensidade do alongamento é mais eficaz do que insistir na mesma amplitude.
+
 ---
 
 _Essas orientações são gerais e educativas. A rotina ideal de alongamento varia de pessoa para pessoa, e um fisioterapeuta pode ajustá-la conforme seu histórico e seus objetivos._

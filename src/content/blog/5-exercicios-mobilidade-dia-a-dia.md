@@ -53,6 +53,33 @@ Dê um passo largo à frente, mantenha o joelho de trás quase no chão e gire o
 
 O ideal é fazer essa sequência pela manhã, antes de começar o dia, ou como pausa ativa a cada 2-3 horas de trabalho sentado. Não é necessário sentir dor para que o exercício seja eficaz — o objetivo é ganhar amplitude com controle, não forçar o limite.
 
+## Erros comuns ao praticar mobilidade
+
+Alguns hábitos reduzem o benefício dessa rotina ou aumentam o risco de desconforto:
+
+- **Buscar amplitude máxima logo no primeiro dia.** A mobilidade se ganha de forma progressiva; forçar demais desde o início tende a gerar tensão protetora, o efeito contrário ao desejado.
+- **Fazer os movimentos rápido demais.** A velocidade excessiva reduz o controle motor sobre a articulação, que é justamente o que diferencia mobilidade de um simples balanço do corpo.
+- **Pular a respiração.** Prender o ar durante o movimento aumenta a tensão muscular geral e dificulta o relaxamento necessário para ganhar amplitude.
+- **Treinar só quando já sente dor.** Mobilidade funciona melhor como prevenção, feita de forma regular, e não apenas como resposta a um desconforto já instalado.
+
+## Quanto tempo até notar diferença
+
+A maioria das pessoas percebe mais facilidade nos movimentos do dia a dia — como agachar para pegar algo no chão ou girar o tronco ao estacionar o carro — dentro de duas a três semanas de prática regular, geralmente antes mesmo de qualquer ganho visível de amplitude em um espelho. Isso acontece porque parte da rigidez inicial é neurológica, uma proteção do sistema nervoso, e não apenas uma limitação estrutural do tecido — e essa proteção tende a reduzir rapidamente quando o corpo percebe que o movimento é seguro e repetido com frequência.
+
+## Perguntas frequentes
+
+**Posso fazer essa rotina todos os dias?** Sim. Por ser de baixa intensidade, ela pode ser feita diariamente, inclusive como aquecimento antes de outros treinos.
+
+**Preciso sentir alongamento para saber que está funcionando?** Não necessariamente. O objetivo principal é o controle dentro da amplitude, não a sensação de puxão que caracteriza o alongamento estático.
+
+**Mobilidade substitui o alongamento?** Não substitui, mas cumpre um papel diferente e, para a maioria das pessoas sedentárias ou que trabalham sentadas, traz mais benefício funcional no dia a dia do que o alongamento isolado.
+
+**Preciso de algum equipamento para essa rotina?** Não. Todos os cinco exercícios usam apenas o peso do próprio corpo e podem ser feitos em qualquer espaço com um tapete ou superfície confortável para apoiar mãos e joelhos.
+
+**Posso adaptar os exercícios se tiver dor em alguma articulação específica?** Sim, e o ideal é fazer isso com orientação. Reduzir a amplitude do movimento ou trocar um exercício por uma variação mais suave costuma ser suficiente para manter os benefícios sem forçar a região sensível.
+
+**Essa rotina é suficiente como único exercício do dia?** Para quem tem uma rotina muito sedentária, ela já traz benefícios reais de mobilidade, mas não substitui o fortalecimento muscular nem o condicionamento cardiovascular. O ideal é somá-la a outras formas de atividade física ao longo da semana, não usá-la como única fonte de movimento.
+
 ---
 
 _Se você sente dor ao realizar algum desses movimentos, interrompa e procure uma avaliação fisioterapêutica antes de continuar. Este conteúdo é educativo e não substitui orientação profissional individualizada._

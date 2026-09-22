@@ -33,6 +33,18 @@ O estímulo mais eficaz contra a sarcopenia é o exercício de fortalecimento, e
 
 A boa notícia é que o músculo responde ao estímulo em qualquer fase da vida: mesmo pessoas que já apresentam sarcopenia conseguem recuperar parte da força e da massa muscular perdidas com um programa de exercícios bem conduzido. Quanto antes o fortalecimento entra na rotina, menor tende a ser a perda ao longo dos anos, e maior a chance de chegar às fases mais avançadas da vida mantendo independência para as tarefas do dia a dia. Não é preciso esperar a fraqueza se tornar um obstáculo real para começar a cuidar da massa muscular.
 
+## O papel da proteína aliado ao exercício
+
+Embora o fortalecimento muscular seja o estímulo mais importante, a ingestão adequada de proteína potencializa os resultados do treino, já que o músculo precisa desse nutriente como matéria-prima para se reconstruir e crescer após o estímulo do exercício. Pessoas mais velhas frequentemente consomem menos proteína do que o recomendado, seja por menor apetite, seja por mudanças nos hábitos alimentares ao longo dos anos, o que reduz a eficácia do próprio treino de fortalecimento. Por isso, um acompanhamento que combine orientação nutricional com o programa de exercícios fisioterapêuticos costuma trazer resultados mais consistentes do que qualquer uma das duas intervenções isoladas.
+
+## Perguntas frequentes
+
+**Sarcopenia é a mesma coisa que fraqueza normal da idade?** Não exatamente. Embora alguma perda de força seja esperada com o envelhecimento, a sarcopenia se refere a uma perda significativa, além do que seria considerado parte do envelhecimento saudável, e que pode ser desacelerada com intervenção adequada.
+
+**Quanto tempo leva para notar ganho de força com o treino?** Muitas pessoas relatam melhora perceptível na força e na facilidade para tarefas do dia a dia dentro de 8 a 12 semanas de treino consistente, embora ganhos continuem se acumulando por mais tempo.
+
+**Suplementação é necessária para combater a sarcopenia?** Nem sempre. Muitas pessoas conseguem atingir a ingestão proteica adequada apenas com ajustes na alimentação, mas em alguns casos a suplementação pode ser indicada por um nutricionista, complementando o programa de exercícios de fortalecimento ao longo do tratamento.
+
 ---
 
 *As informações aqui apresentadas têm caráter educativo e não substituem uma avaliação individual: cada pessoa tem um ponto de partida diferente, e cabe a um profissional definir o programa de exercícios mais seguro e eficaz para o seu caso.*

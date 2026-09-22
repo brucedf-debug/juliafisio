@@ -4,6 +4,8 @@ description: 'Entenda o que é a síndrome do trato iliotibial, por que ela apar
 pubDate: 'Sep 20 2026'
 category: 'fisioterapia-esportiva'
 tags: ['joelho', 'corrida', 'fisioterapia esportiva']
+heroImage: '../../assets/pool/fisioterapia-esportiva/pair-05-hero.jpg'
+heroImageAlt: 'Corredor com a mão sobre o joelho após sentir dor durante o treino ao ar livre'
 ---
 
 Uma dor em queimação na parte de fora do joelho, que começa depois de alguns quilômetros de corrida e obriga a pessoa a parar, é um dos quadros mais típicos que aparecem no consultório entre corredores e ciclistas. Diferente de outras dores de joelho, ela quase nunca surge em repouso ou logo no início do exercício — ela vai se instalando conforme a atividade avança, o que costuma confundir quem está lidando com o problema pela primeira vez. Esse é o retrato clássico da síndrome do trato iliotibial.
@@ -41,6 +43,14 @@ O tratamento raramente exige interromper a atividade física por completo, mas c
 **Retorno progressivo ao volume de treino anterior**, guiado pela resposta da dor e não apenas pelo calendário, para evitar que o quadro volte assim que a atividade for retomada.
 
 Na grande maioria dos casos, esse conjunto de medidas resolve o problema em algumas semanas. O ponto central é entender que a dor lateral no joelho quase sempre é reflexo de uma sobrecarga que começa mais acima, no quadril — e é ali que o tratamento precisa atuar para que o resultado seja duradouro.
+
+## Perguntas frequentes
+
+**Preciso parar de correr completamente?** Na maioria dos casos, não. Reduzir volume e intensidade temporariamente, junto do fortalecimento de quadril, costuma ser suficiente sem exigir afastamento total da corrida.
+
+**Quanto tempo leva para resolver a síndrome do trato iliotibial?** Casos leves a moderados costumam melhorar em 3 a 6 semanas de tratamento adequado, embora quadros mais arrastados possam levar mais tempo até a resolução completa.
+
+**Ciclistas precisam ajustar a bicicleta mesmo depois de tratar a dor?** Sim, o ajuste do selim e da posição de pedalada é parte importante da prevenção, já que sem essa correção o quadro tende a voltar assim que o volume de treino aumentar novamente.
 
 ---
 

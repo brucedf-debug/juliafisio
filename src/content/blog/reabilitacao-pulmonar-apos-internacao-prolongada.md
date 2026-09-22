@@ -28,6 +28,22 @@ Respirar melhor é só parte do processo — o corpo também precisa recuperar a
 
 A recuperação da capacidade pulmonar e física após uma internação longa raramente é linear. Pode haver dias de mais disposição seguidos por outros de mais cansaço, especialmente nas primeiras semanas após a alta. O acompanhamento fisioterapêutico contínuo ajuda a ajustar a intensidade dos exercícios a cada momento, evitando tanto o excesso de esforço quanto a estagnação por medo de se movimentar. Com constância, a maioria das pessoas recupera boa parte — e muitas vezes a totalidade — da disposição que tinham antes da internação, retomando gradualmente as atividades do dia a dia.
 
+## O impacto emocional da recuperação
+
+Além do trabalho físico, é comum que pacientes que passaram por internações longas relatem cansaço mental, ansiedade em relação ao próprio corpo e até certo receio de fazer esforço, com medo de sentir falta de ar novamente. Esse componente emocional é uma parte legítima do processo e costuma melhorar conforme a pessoa ganha confiança através de pequenas conquistas — caminhar um pouco mais, subir um lance de escada sem tanta falta de ar. O acompanhamento fisioterapêutico, ao tornar essa progressão visível e mensurável, ajuda também nesse aspecto emocional da recuperação, não apenas no físico.
+
+## Perguntas frequentes
+
+**Quanto tempo leva para recuperar o fôlego de antes da internação?** Varia bastante conforme a duração da internação, a condição pulmonar prévia e a causa da hospitalização, mas muitos pacientes notam melhora progressiva ao longo de semanas a poucos meses de reabilitação consistente.
+
+**É normal sentir falta de ar mesmo em pequenos esforços logo após a alta?** Sim, é uma queixa comum nesse período e tende a melhorar progressivamente com a reabilitação, desde que a progressão dos exercícios seja bem dosada e acompanhada de perto.
+
+**Exercícios respiratórios podem ser feitos em casa, sem supervisão?** Alguns exercícios simples de respiração diafragmática podem ser praticados em casa após orientação inicial, mas o acompanhamento profissional continua importante para ajustar a progressão e monitorar a evolução do quadro respiratório ao longo de toda a recuperação, especialmente nas primeiras semanas após a alta hospitalar.
+
+**Qualquer pessoa que ficou internada precisa de reabilitação pulmonar?** Nem sempre, mas quem apresenta falta de ar persistente, fraqueza generalizada ou dificuldade para retomar as atividades habituais após a alta costuma se beneficiar bastante desse acompanhamento especializado, independentemente da causa original da internação.
+
+**A reabilitação pulmonar ajuda mesmo em quem tem outras doenças respiratórias crônicas associadas?** Sim, o programa costuma ser adaptado para considerar condições prévias, como DPOC ou asma, e continua trazendo benefícios relevantes de capacidade funcional nesses casos específicos e individualizados.
+
 ---
 
 _As informações acima são de caráter geral e não substituem a avaliação de uma equipe de saúde, que definirá o plano de reabilitação mais adequado considerando a causa da internação e o estado clínico de cada pessoa._

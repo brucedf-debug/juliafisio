@@ -50,6 +50,23 @@ O tratamento costuma combinar diferentes abordagens, ajustadas conforme a fase e
 
 Na maioria dos casos, a dor sacroilíaca responde bem ao tratamento conservador, sem necessidade de procedimentos invasivos. O ponto-chave é reconhecer que a origem do problema pode não estar onde a dor é sentida com mais intensidade, e por isso uma avaliação completa da coluna, do quadril e da forma de se movimentar faz toda a diferença.
 
+## Cuidados no dia a dia
+
+Algumas mudanças simples de hábito ajudam a reduzir a sobrecarga sobre a articulação sacroilíaca enquanto o tratamento avança:
+
+- **Evite ficar muito tempo apoiado em uma perna só**, um hábito comum que distribui o peso de forma assimétrica sobre a pelve.
+- **Ajuste a forma de se levantar da cama**, girando o corpo em bloco e usando os braços de apoio, em vez de torcer o tronco diretamente.
+- **Evite cruzar as pernas por longos períodos sentado**, posição que tende a tensionar ainda mais a região.
+- **Distribua bem o peso ao carregar objetos**, evitando sempre carregar do mesmo lado do corpo.
+
+## Perguntas frequentes
+
+**A dor sacroilíaca é a mesma coisa que dor no nervo ciático?** Não, embora possam se confundir. A dor sacroilíaca fica mais concentrada na articulação e raramente irradia com a mesma intensidade da ciática, que segue o trajeto do nervo até a perna.
+
+**Exercício físico piora a disfunção sacroilíaca?** Depende do tipo. Atividades de alto impacto ou assimétricas podem sobrecarregar a articulação instável, enquanto exercícios de estabilização, bem orientados, costumam ajudar na recuperação.
+
+**Quanto tempo leva para melhorar?** Casos leves a moderados costumam apresentar melhora significativa dentro de 4 a 8 semanas de tratamento consistente, embora o tempo varie conforme a causa de base e o grau de instabilidade da articulação.
+
 ---
 
 *As informações deste artigo têm caráter geral e não substituem uma consulta com um profissional de fisioterapia, que poderá identificar a causa real do seu quadro e indicar a conduta mais adequada.*

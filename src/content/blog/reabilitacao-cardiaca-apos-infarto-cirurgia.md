@@ -28,6 +28,20 @@ Um dos pontos que mais tranquiliza quem inicia a reabilitação cardíaca é per
 
 Os ganhos da reabilitação cardíaca não se limitam à musculatura cardíaca. A capacidade de realizar tarefas do dia a dia sem cansaço excessivo melhora de forma consistente, assim como a força muscular geral, perdida durante o período de menor atividade. Há também um efeito emocional importante: acompanhar de perto a própria evolução, sob supervisão profissional, reduz o medo de se exercitar e devolve confiança para retomar caminhadas, tarefas domésticas, trabalho e lazer. Com o tempo, a maioria das pessoas percebe que consegue fazer mais do que imaginava logo após o evento cardíaco, o que reforça a adesão ao programa e aos novos hábitos que ele ajuda a construir.
 
+## Perguntas frequentes
+
+**Quanto tempo depois do infarto posso começar a reabilitação cardíaca?** Varia conforme a gravidade do evento e a liberação médica, mas a mobilização inicial costuma começar ainda durante a internação, e a fase ambulatorial geralmente é iniciada poucas semanas após a alta.
+
+**É seguro fazer exercício depois de um infarto?** Sim, quando conduzido dentro de um programa supervisionado, com os parâmetros de segurança adequados a cada pessoa. Na verdade, o sedentarismo após o evento cardíaco costuma representar um risco maior do que o exercício bem dosado.
+
+**A reabilitação cardíaca substitui a medicação?** Não. Ela complementa o tratamento médico, incluindo o uso de medicações prescritas, e ajuda a reduzir fatores de risco associados, mas não substitui nenhuma orientação médica em curso.
+
+**Posso voltar a fazer todas as atividades de antes?** Na maioria dos casos, sim, dentro de um ritmo de retomada gradual. O objetivo da reabilitação cardíaca é justamente devolver a maior parte da capacidade funcional anterior, com segurança e acompanhamento adequado ao longo do processo.
+
+**Quanto tempo dura o programa de reabilitação cardíaca?** A fase ambulatorial mais estruturada costuma durar entre 8 e 12 semanas, embora a manutenção da atividade física, depois disso, seja recomendada por toda a vida como parte dos novos hábitos construídos durante o programa de reabilitação.
+
+**Família pode participar do acompanhamento?** Sim, e costuma ser bem-vindo. O apoio familiar ajuda na adesão ao programa e na manutenção dos novos hábitos de vida após a alta do tratamento supervisionado.
+
 ---
 
 *Este conteúdo tem finalidade educativa. A prescrição de exercícios após um evento cardíaco deve sempre partir de avaliação médica e fisioterapêutica individual, que vai considerar exames, histórico e condição clínica de cada pessoa.*

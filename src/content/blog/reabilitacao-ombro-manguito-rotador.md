@@ -35,6 +35,22 @@ De forma geral, a reabilitação do ombro após uma lesão do manguito rotador p
 
 A recuperação de uma lesão do manguito rotador costuma ser mais lenta do que a de outras lesões de ombro, podendo levar alguns meses até o retorno pleno às atividades, especialmente em casos operados. Isso não significa que o processo seja mais difícil — significa que ele exige paciência e adesão consistente ao programa de exercícios.
 
+## Diferenciando lesão parcial de lesão completa
+
+O grau da lesão do manguito rotador influencia diretamente a conduta. Lesões parciais, em que apenas uma parte da espessura do tendão está comprometida, costumam responder melhor ao tratamento conservador, já que a porção íntegra do tendão ainda oferece algum suporte estrutural. Já lesões completas, com ruptura total do tendão, têm menor capacidade de cicatrização espontânea e frequentemente exigem avaliação cirúrgica, especialmente em pessoas mais jovens e ativas. Ainda assim, mesmo em lesões completas, alguns pacientes — principalmente os mais sedentários ou com menor demanda funcional do ombro — conseguem bons resultados apenas com fisioterapia, o que reforça a importância de uma avaliação individualizada antes de decidir o caminho do tratamento.
+
+## Perguntas frequentes
+
+**Consigo dormir normalmente com lesão no manguito rotador?** Muitas pessoas relatam dificuldade para dormir do lado afetado durante a fase mais aguda. Um travesseiro de apoio sob o braço e dormir de costas costumam aliviar o desconforto nesse período.
+
+**Quanto tempo leva para recuperar a força total do ombro?** Em tratamentos conservadores, a melhora funcional relevante costuma aparecer em 2 a 3 meses; em casos operados, o processo tende a ser mais longo, podendo levar de 4 a 6 meses até o retorno pleno às atividades.
+
+**Posso continuar fazendo exercícios de peito e ombro na academia com lesão no manguito rotador?** Não sem avaliação prévia. Muitos exercícios tradicionais de academia sobrecarregam justamente os tendões lesionados, e a adaptação ou substituição temporária desses movimentos costuma ser necessária durante o tratamento.
+
+**Manguito rotador lesionado sempre dói?** Não necessariamente. Algumas lesões, principalmente as degenerativas de longa data, podem ser assintomáticas por um tempo até que algum fator desencadeie a dor, o que reforça que a presença ou ausência de dor nem sempre reflete a gravidade estrutural da lesão.
+
+**Compressas de calor ou gelo ajudam na lesão do manguito rotador?** O gelo costuma ser mais indicado nas fases mais agudas, para controle da dor e inflamação, enquanto o calor pode ajudar a relaxar a musculatura ao redor em fases posteriores, sempre como recurso complementar ao tratamento principal e nunca como substituto do fortalecimento progressivo orientado pelo fisioterapeuta responsável por todo o processo de reabilitação do ombro, da fase inicial até o retorno completo às atividades do dia a dia e do esporte.
+
 ---
 
 _Este conteúdo tem finalidade educativa. O tempo e as fases de reabilitação variam conforme cada lesão, e devem ser acompanhados de perto por um fisioterapeuta._

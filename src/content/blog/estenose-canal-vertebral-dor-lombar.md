@@ -38,6 +38,24 @@ Na maioria dos casos, esse conjunto de medidas melhora significativamente a dist
 
 Alguns sinais indicam que a avaliação médica não deve esperar: fraqueza progressiva em uma ou nas duas pernas, alteração no controle da bexiga ou do intestino, ou perda de sensibilidade na região genital. Fora dessas situações, vale lembrar que a estenose do canal vertebral é extremamente comum em exames de imagem de pessoas com mais de 60 anos, e nem sempre o grau de estreitamento visto na imagem corresponde à intensidade dos sintomas — por isso a avaliação funcional, e não apenas o exame de imagem, é o que deve guiar o tratamento.
 
+## Perguntas frequentes
+
+**Andar de bicicleta é mais confortável do que caminhar para quem tem estenose?** Costuma ser, sim. A posição levemente inclinada para frente ao pedalar reduz a pressão sobre o canal vertebral, o que explica por que muitas pessoas com estenose toleram bem a bicicleta mesmo sem conseguir caminhar longas distâncias.
+
+**A estenose do canal vertebral sempre exige cirurgia?** Não. A maioria dos casos é conduzida de forma conservadora, com fisioterapia e ajustes de atividade. A cirurgia costuma entrar quando os sintomas são incapacitantes e não respondem ao tratamento conservador após um período adequado.
+
+**Por que a dor melhora quando me curvo para frente?** A flexão do tronco aumenta ligeiramente o espaço dentro do canal vertebral, aliviando a pressão sobre as raízes nervosas comprimidas — por isso essa posição costuma trazer alívio quase imediato.
+
+**Estenose e hérnia de disco são a mesma coisa?** Não. São condições diferentes, embora ambas possam comprimir estruturas nervosas. A hérnia de disco é um problema pontual do disco intervertebral, enquanto a estenose é um estreitamento mais amplo do canal, geralmente associado ao envelhecimento da coluna como um todo.
+
+## Adaptando as atividades do dia a dia
+
+Pequenos ajustes na rotina ajudam bastante quem convive com estenose do canal vertebral. Fazer pausas programadas durante caminhadas, antes que a dor se instale, costuma permitir percorrer distâncias maiores ao longo do dia do que tentar caminhar sem interrupção até o limite do desconforto. Usar um carrinho de compras ou um andador com apoio para os braços, mesmo antes de ser estritamente necessário, mantém o tronco em leve flexão e reduz a pressão sobre o canal. Trocar tarefas domésticas que exigem ficar muito tempo em pé — como cozinhar ou passar roupa — por versões com apoio ou intervalos programados também ajuda a manter a funcionalidade sem provocar crises repetidas de dor.
+
+## O que esperar da evolução a longo prazo
+
+A estenose do canal vertebral tende a ser uma condição de evolução lenta, medida em anos, não em semanas. Isso significa que, embora o tratamento conservador raramente "reverta" o estreitamento em si, ele consegue melhorar significativamente a tolerância da pessoa à atividade e reduzir a intensidade dos sintomas por longos períodos. Reavaliações periódicas ajudam a identificar se os sintomas estão estáveis, melhorando ou progredindo, o que direciona se o tratamento conservador continua sendo a melhor opção ou se chegou o momento de discutir alternativas com o ortopedista.
+
 ---
 
 *O conteúdo deste artigo tem caráter educativo e geral. Cada caso de estenose do canal vertebral tem particularidades que só uma avaliação individual com um profissional de fisioterapia pode identificar corretamente.*

@@ -34,6 +34,26 @@ Pacientes que mantêm um acompanhamento fisioterapêutico regular na terceira id
 
 Não é preciso esperar a primeira queda para procurar acompanhamento. Um programa de fortalecimento e equilíbrio bem orientado pode começar em qualquer fase, com exercícios adaptados à condição física de cada pessoa.
 
+## Adaptações simples que reduzem o risco em casa
+
+Além do trabalho fisioterapêutico, pequenos ajustes no ambiente doméstico complementam a prevenção de quedas de forma significativa: remover tapetes soltos ou fixá-los bem ao chão, garantir boa iluminação em corredores e escadas, instalar barras de apoio no banheiro e evitar deixar objetos e fios espalhados pelo caminho. Esses ajustes, combinados com o fortalecimento muscular e o treino de equilíbrio, formam uma estratégia bem mais completa do que qualquer uma das duas medidas isoladamente, já que boa parte das quedas em idosos acontece dentro da própria casa, em situações consideradas rotineiras.
+
+## O medo de cair também precisa ser trabalhado
+
+Depois de uma queda, é comum que a pessoa desenvolva um medo significativo de cair novamente, o que a leva a reduzir ainda mais a atividade física — um ciclo que, paradoxalmente, aumenta o risco real de nova queda ao enfraquecer ainda mais a musculatura e o equilíbrio. Parte do trabalho fisioterapêutico nesses casos envolve reconstruir a confiança no próprio corpo de forma gradual, através de exercícios que desafiam o equilíbrio dentro de um ambiente seguro e controlado, mostrando à pessoa, na prática, que ela é capaz de se movimentar com segurança.
+
+## Atividades do dia a dia que já ajudam a treinar equilíbrio
+
+Além dos exercícios estruturados, algumas atividades simples do cotidiano podem ser adaptadas para trabalhar equilíbrio de forma segura: ficar em pé em um só apoio ao escovar os dentes (perto de uma superfície para se segurar se necessário), caminhar em linha reta colocando um pé à frente do outro, ou levantar da cadeira sem usar os braços como apoio. Pequenos desafios como esses, incorporados à rotina com segurança, complementam o trabalho feito nas sessões de fisioterapia e ajudam a manter o ganho de equilíbrio ao longo do tempo.
+
+## Perguntas frequentes
+
+**Em que idade devo começar a me preocupar com prevenção de quedas?** Não existe uma idade exata, mas a partir dos 60 anos já vale a pena incluir exercícios de força e equilíbrio na rotina, mesmo sem histórico de quedas, como medida preventiva.
+
+**Quantas vezes por semana devo fazer esses exercícios?** Programas de prevenção costumam recomendar de 2 a 3 sessões semanais de exercícios de força e equilíbrio, com constância sendo mais importante do que a intensidade de cada sessão isolada.
+
+**Bengala ou andador atrapalham a independência?** Pelo contrário, quando bem indicados e ajustados corretamente, esses dispositivos aumentam a segurança e permitem manter um nível maior de atividade, reduzindo justamente o risco de queda que a insegurança ao caminhar sem apoio poderia gerar. O fisioterapeuta é justamente quem ajuda a definir se e quando esse tipo de apoio faz sentido para cada pessoa.
+
 ---
 
 _Este texto tem caráter informativo. Cada pessoa idosa tem um histórico de saúde particular, por isso o acompanhamento deve ser individualizado por um fisioterapeuta._

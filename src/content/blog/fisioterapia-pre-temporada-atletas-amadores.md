@@ -36,6 +36,24 @@ Esse cuidado é especialmente importante para quem treina de forma irregular ao 
 
 Atletas amadores que passam por uma preparação orientada tendem a treinar com mais consistência ao longo da temporada, justamente por sofrerem menos interrupções por lesão. O investimento de algumas semanas no início costuma se traduzir em uma temporada inteira mais estável e com melhor desempenho.
 
+## Quanto tempo antes da temporada começar a se preparar
+
+O ideal é iniciar a preparação de 6 a 8 semanas antes do início efetivo da temporada ou de uma competição específica, tempo suficiente para trabalhar mobilidade, corrigir assimetrias identificadas na avaliação e progredir o condicionamento sem pressa. Quem procura a avaliação em cima da hora, poucos dias antes de começar a competir, tem menos margem para ajustar fragilidades identificadas, e às vezes precisa equilibrar a preparação com a própria competição já em andamento — um cenário bem menos favorável do que começar com antecedência adequada.
+
+## Atletas que voltam depois de um período parado
+
+Um grupo que merece atenção especial é o de quem ficou meses sem treinar — por lesão anterior, mudança de rotina ou simplesmente falta de tempo — e decide retomar a atividade no mesmo nível de intensidade de antes. O corpo perde parte da capacidade de tolerar carga durante o período de inatividade, mesmo que a pessoa "lembre" mentalmente do que conseguia fazer antes. Retomar de forma gradual, com uma avaliação que dimensione o ponto de partida real e não o nível anterior, é uma das medidas mais eficazes para evitar lesões logo nas primeiras semanas de retorno.
+
+## Perguntas frequentes
+
+**Avaliação pré-temporada substitui o acompanhamento médico?** Não. Ela complementa o cuidado médico, focando especificamente na análise funcional do movimento e na prevenção de lesões musculoesqueléticas, enquanto questões clínicas gerais seguem sendo acompanhadas pelo médico do esporte ou clínico geral.
+
+**Vale a pena repetir a avaliação a cada temporada?** Sim. O corpo muda com o tempo, e uma avaliação desatualizada pode não capturar fragilidades novas, especialmente após lesões, mudanças de rotina de treino ou longos períodos de inatividade entre uma temporada e outra.
+
+## O que levar para a primeira avaliação
+
+Para aproveitar melhor a consulta, vale levar informações sobre o histórico recente de treino (frequência, modalidades praticadas, volume aproximado), qualquer lesão anterior mesmo que já resolvida, e uma ideia clara dos objetivos da temporada — seja completar uma prova específica, melhorar o desempenho ou simplesmente treinar com mais regularidade sem se machucar. Esses detalhes ajudam o fisioterapeuta a direcionar a avaliação e montar um plano de preparação realista, alinhado com o tempo e a disponibilidade que a pessoa realmente tem para se dedicar aos exercícios prescritos. Quanto mais completa essa conversa inicial, mais preciso tende a ser o plano montado nas semanas seguintes, especialmente quando o histórico envolve lesões antigas que exigem atenção redobrada durante toda a fase de preparação para a nova temporada.
+
 ---
 
 _Este conteúdo tem propósito educativo. O plano de preparação ideal varia de acordo com o esporte, o histórico e a condição física de cada pessoa, e deve ser definido em avaliação individual._

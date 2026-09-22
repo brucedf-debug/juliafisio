@@ -42,6 +42,18 @@ Ganhar amplitude na lombar não substitui o trabalho de fortalecimento — os do
 
 Quando a rigidez lombar vem acompanhada de dor que não melhora com esses exercícios, ou quando surge de forma súbita, o caminho mais seguro é buscar uma avaliação fisioterapêutica. Ela identifica se a limitação é puramente muscular ou se há outro fator envolvido, e orienta uma rotina de exercícios ajustada à realidade de cada pessoa.
 
+## Perguntas frequentes
+
+**Posso fazer esses exercícios todos os dias?** Sim, por serem de baixa intensidade, essa rotina de mobilidade pode ser praticada diariamente, inclusive como parte de um aquecimento antes de outras atividades físicas.
+
+**Mobilidade lombar em excesso pode ser um problema?** Em alguns casos, sim — pessoas com hipermobilidade constitucional podem precisar de mais foco em estabilidade do que em ganho de amplitude, o que reforça a importância de uma avaliação individual antes de montar a rotina ideal.
+
+**Mobilidade lombar substitui o alongamento tradicional?** Não substitui, mas cumpre um papel complementar — enquanto o alongamento foca em ganhar comprimento muscular, os exercícios de mobilidade trabalham o controle ativo dentro da amplitude de movimento, o que costuma trazer benefícios mais funcionais para o dia a dia.
+
+**Preciso sentir a lombar "estalar" para saber que o exercício funcionou?** Não. O estalo ocasional durante o movimento não é, por si só, sinal de eficácia nem de problema — o objetivo real dos exercícios é o ganho gradual de amplitude com controle, não o som que a articulação produz.
+
+**Vale a pena fazer esses exercícios antes ou depois de outros treinos?** Funcionam bem nos dois momentos — antes, ajudam a preparar a coluna para o esforço; depois, contribuem para reduzir a tensão acumulada durante o treino.
+
 ---
 
 *As informações deste texto têm caráter educativo e servem como ponto de partida, não como diagnóstico: cada coluna reage de um jeito, e é a avaliação de um fisioterapeuta que vai indicar o que realmente vale a pena praticar no seu caso.*

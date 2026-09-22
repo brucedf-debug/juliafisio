@@ -44,6 +44,20 @@ O tratamento é individualizado, conforme a estrutura predominantemente envolvid
 
 A pubalgia costuma exigir paciência: a recuperação completa geralmente é medida em semanas, não em dias, e pular etapas para voltar mais rápido é a principal causa de recidiva. Identificar a origem exata da dor logo no início poupa tempo de afastamento e reduz bastante o risco de o quadro se tornar recorrente.
 
+## Prevenção em quem já sofreu com pubalgia
+
+Atletas que já passaram por um episódio de pubalgia têm risco maior de recidiva, o que torna a prevenção especialmente relevante nesse grupo. Manter um trabalho contínuo de fortalecimento de adutores e core, mesmo depois da alta do tratamento, e monitorar a carga de treino em períodos de aumento de intensidade — como o início de uma pré-temporada — são medidas que reduzem bastante a chance de o quadro voltar. Ignorar esse cuidado preventivo, assim que a dor desaparece, é um dos motivos mais comuns de recidiva nesse tipo de lesão.
+
+## Perguntas frequentes
+
+**Pubalgia sempre precisa de cirurgia?** Não. A grande maioria dos casos responde bem ao tratamento conservador com fisioterapia. A cirurgia costuma ser reservada para quadros que não respondem ao tratamento adequado após um período razoável de acompanhamento.
+
+**Posso continuar treinando com pubalgia leve?** Em muitos casos, sim, com ajuste de carga e evitando os gestos que reproduzem a dor, mas o ideal é que essa decisão seja orientada por avaliação profissional, já que treinar da forma errada pode prolongar o quadro.
+
+**Quanto tempo leva para se recuperar da pubalgia?** Casos leves a moderados costumam melhorar em 4 a 8 semanas de tratamento adequado, enquanto quadros mais crônicos ou negligenciados podem levar de 3 a 6 meses até a resolução completa.
+
+**Alongamento de virilha ajuda a prevenir a pubalgia?** Ajuda como parte de uma rotina mais ampla, mas o fortalecimento dos adutores e do core costuma ter impacto preventivo maior do que o alongamento isolado, principalmente em esportes com chutes e mudanças bruscas de direção.
+
 ---
 
 *Este conteúdo tem finalidade educativa e não substitui a avaliação de um fisioterapeuta, que poderá examinar cada caso individualmente e indicar a conduta mais adequada.*

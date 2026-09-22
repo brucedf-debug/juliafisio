@@ -35,6 +35,18 @@ A pausa ativa é diferente de simplesmente parar de trabalhar por alguns minutos
 
 Não é necessário um programa elaborado para começar. Pausas de dois a três minutos a cada quarenta ou cinquenta minutos de atividade já fazem diferença perceptível, desde que sejam realmente cumpridas, e não apenas planejadas. Vale observar qual região do corpo está mais exigida pela função exercida e priorizar o alongamento correspondente: quem digita bastante se beneficia de mobilizar punhos e dedos, enquanto quem trabalha em pé se beneficia mais de alongar pernas e lombar. Quando a dor já apareceu, ou quando ajustes simples de rotina não são suficientes para aliviar o desconforto, vale buscar uma avaliação fisioterapêutica: ela identifica com precisão qual estrutura está sobrecarregada e orienta tanto o tratamento quanto os ajustes ergonômicos e comportamentais necessários para evitar que o quadro volte a se repetir.
 
+## O papel da empresa na prevenção
+
+Embora boa parte das pausas ativas dependa da iniciativa individual, ambientes de trabalho que incentivam essa prática de forma estruturada — com lembretes programados, ginástica laboral ou simplesmente uma cultura que não penaliza pequenas pausas — costumam apresentar menos afastamentos por LER/DORT ao longo do tempo. Investir nesse tipo de prevenção tende a ser mais barato para a empresa do que lidar com afastamentos prolongados e processos de reabilitação depois que a lesão já está instalada, o que reforça que pausas ativas não são apenas uma questão individual, mas também de gestão de saúde ocupacional.
+
+## Perguntas frequentes
+
+**Pausas ativas resolvem sozinhas o problema da má postura?** Ajudam bastante, mas funcionam melhor combinadas com ajustes ergonômicos do posto de trabalho, já que a pausa não corrige uma cadeira ou mesa mal ajustada, apenas reduz o tempo de exposição contínua à postura inadequada.
+
+**Quanto tempo leva para sentir diferença ao incluir pausas ativas na rotina?** Muitas pessoas relatam menos tensão já na primeira semana de prática consistente, embora a prevenção de quadros mais estabelecidos de LER/DORT exija constância ao longo de meses.
+
+**Aplicativos de lembrete de pausas realmente ajudam?** Podem ser um bom ponto de partida para quem tem dificuldade de lembrar de parar, embora o mais importante seja realmente cumprir a pausa quando o lembrete aparece, e não apenas dispensar a notificação.
+
 ---
 
 *Este conteúdo foi escrito com fins educativos e não substitui uma avaliação individual: cada rotina de trabalho tem particularidades próprias, e um fisioterapeuta é quem pode indicar as pausas e ajustes mais adequados ao seu caso.*

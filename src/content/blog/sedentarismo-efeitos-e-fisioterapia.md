@@ -37,6 +37,26 @@ Um fisioterapeuta não atua apenas depois que a dor aparece. A avaliação ident
 
 Não é preciso abandonar o trabalho sentado para reverter os efeitos do sedentarismo — é preciso introduzir movimento de forma consistente ao longo do dia. Alternar posições, levantar a cada intervalo e manter uma rotina de fortalecimento orientada já reduz boa parte da sobrecarga que o corpo acumula silenciosamente.
 
+## O sedentarismo vai além da dor nas costas
+
+Embora a dor lombar seja a queixa mais comumente associada ao tempo sentado, os efeitos do sedentarismo se espalham por outros sistemas do corpo. A circulação sanguínea fica prejudicada em longos períodos parados, especialmente nos membros inferiores, e a capacidade cardiorrespiratória tende a diminuir gradualmente sem estímulo regular. Mesmo pessoas que praticam exercício algumas vezes por semana, mas passam o restante do dia sentadas, podem apresentar boa parte desses efeitos — um padrão que pesquisadores chamam de "sedentarismo ativo", em que o exercício pontual não compensa totalmente as muitas horas de inatividade ao longo do dia.
+
+## Pequenas doses de movimento ao longo do dia
+
+Uma estratégia que vem ganhando respaldo é a ideia de que movimento espalhado ao longo do dia — e não apenas concentrado em uma sessão de treino — traz benefícios próprios para a saúde musculoesquelética. Levantar a cada 30 a 45 minutos, mesmo que por apenas um ou dois minutos, caminhar até outro cômodo, ou fazer uma pequena série de agachamentos entre tarefas já ajuda a quebrar os efeitos da imobilidade prolongada. Essa abordagem é especialmente útil para quem não consegue reservar um horário fixo para exercício estruturado, mas tem alguma flexibilidade ao longo da rotina de trabalho.
+
+## Perguntas frequentes
+
+**Malhar uma vez por dia compensa ficar sentado o resto do tempo?** Ajuda bastante, mas não compensa totalmente. A combinação de exercício estruturado com pausas regulares ao longo do dia costuma trazer resultados mais completos do que apenas uma sessão intensa isolada.
+
+**Quanto tempo sentado já é considerado prejudicial?** Não existe um número exato, mas períodos contínuos acima de uma hora, sem nenhuma pausa, já começam a gerar os efeitos discutidos aqui, o que reforça a importância de quebrar esses blocos regularmente.
+
+**Sedentarismo só afeta quem trabalha sentado?** Não exclusivamente, mas é o grupo mais impactado, já que a combinação de trabalho sentado, deslocamento sentado e lazer com telas soma muitas horas de inatividade ao longo de um dia comum.
+
+**Fortalecimento resolve os efeitos do sedentarismo mais rápido que caminhada?** Os dois têm papéis complementares — o fortalecimento ataca diretamente o enfraquecimento muscular, enquanto a caminhada contribui para a circulação e o condicionamento geral, e juntos trazem um resultado mais completo para a saúde musculoesquelética a longo prazo.
+
+**Sedentarismo tem cura ou só melhora com o tempo?** Não é uma "doença" no sentido tradicional, mas seus efeitos são reversíveis na maior parte dos casos, com resposta positiva do corpo já nas primeiras semanas de mudança de rotina.
+
 ---
 
 _Este artigo tem fins informativos. Os sinais de desconforto variam de pessoa para pessoa, e uma avaliação fisioterapêutica é o caminho mais seguro para saber o que o seu corpo precisa._

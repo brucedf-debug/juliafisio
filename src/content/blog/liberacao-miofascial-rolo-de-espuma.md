@@ -38,6 +38,18 @@ Fora desses contextos, também pode ser usado em pausas do dia a dia, sobretudo 
 
 Se uma região específica está sempre tensa, mesmo com uso regular do rolo, ou se aparece dor que incomoda fora da sessão de liberação, isso pode indicar algo além de tensão muscular comum — como um desequilíbrio de movimento, uma sobrecarga repetitiva ou uma lesão em formação. Nesses casos, o rolo de espuma sozinho não resolve a causa, e uma avaliação com fisioterapeuta ajuda a entender o que está gerando aquela tensão persistente e a construir uma conduta mais completa.
 
+## Perguntas frequentes
+
+**Rolo de espuma serve para todas as regiões do corpo?** Não. Regiões como a lombar baixa e a parte de trás do joelho costumam ser evitadas com o rolo tradicional, pelo risco de pressão excessiva sobre estruturas mais sensíveis; existem variações e técnicas específicas para essas áreas, quando indicadas.
+
+**Dói quando estou usando o rolo corretamente?** Uma sensação de pressão ou leve desconforto é esperada, mas dor aguda, em pontada, indica que a pressão está além do que o tecido tolera bem naquele momento — o ideal é reduzir a intensidade nesses casos.
+
+## Rolo de espuma liso ou com texturas: faz diferença?
+
+Existem várias variações de rolo no mercado, de superfícies lisas a modelos com relevos e saliências, prometendo uma liberação "mais profunda". Para a maioria das pessoas, um rolo de densidade média e superfície lisa já é suficiente para obter os benefícios da técnica, especialmente para quem está começando. Modelos com textura mais agressiva concentram a pressão em pontos menores, o que pode ser útil para pessoas mais experientes buscando uma região específica, mas também aumenta o risco de desconforto excessivo se usado sem o cuidado de progressão gradual de pressão.
+
+**Bolinha de massagem pode substituir o rolo em algumas regiões?** Sim, especialmente em áreas menores e de acesso mais difícil, como a planta do pé ou a região dos glúteos, onde a bolinha permite uma pressão mais concentrada e direcionada do que o rolo tradicional.
+
 ---
 
 *Este conteúdo tem propósito educativo e não substitui uma avaliação individual com um profissional de fisioterapia, que pode indicar a técnica e a intensidade mais adequadas para cada pessoa.*

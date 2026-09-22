@@ -42,6 +42,18 @@ O ideal é fazer essas pausas a cada hora ou duas de trabalho contínuo com as m
 
 Formigamento persistente, dor que não melhora com repouso, perda de força perceptível ou dificuldade para realizar movimentos simples do dia a dia são sinais de que a situação já passou do ponto de resolver apenas com alongamentos por conta própria. Nesses casos, uma avaliação fisioterapêutica ajuda a identificar se existe alguma estrutura mais comprometida e a montar uma conduta específica para recuperar a função da mão sem depender de compensações.
 
+## Ajustes no posto de trabalho que fazem diferença
+
+Além dos exercícios, a forma como o punho fica posicionado durante o trabalho influencia diretamente a sobrecarga acumulada ao longo do dia. Manter o punho o mais neutro possível ao digitar — nem muito estendido para cima nem flexionado para baixo — reduz a tensão sobre os tendões que passam por essa região. Apoios de pulso para teclado e mouse podem ajudar, desde que usados como apoio de descanso entre movimentos, e não como superfície de apoio constante durante a digitação, o que pode gerar compressão excessiva no próprio túnel do carpo.
+
+## Perguntas frequentes
+
+**Mobilidade de punho ajuda a prevenir a síndrome do túnel do carpo?** Pode contribuir, especialmente quando combinada a pausas regulares e boa ergonomia, mas em quadros já instalados, com formigamento e dor persistente, vale buscar avaliação específica, já que outros fatores também podem estar envolvidos.
+
+**Vale a pena usar munhequeira para trabalhar no computador?** Em alguns casos, principalmente durante crises de dor, mas o uso constante pode reduzir a mobilidade natural da articulação a longo prazo — o ideal é uma orientação individualizada sobre quando e por quanto tempo usá-la.
+
+**Crianças e adolescentes também podem ter rigidez de punho por uso de celular?** Sim, esse padrão vem se tornando cada vez mais comum em jovens que passam muitas horas com dispositivos móveis, reforçando que pausas e variação de movimento são úteis em qualquer faixa etária.
+
 ---
 
 *As informações deste artigo são gerais e educativas; elas não substituem uma avaliação individual com um profissional, que consegue identificar a causa exata da rigidez ou da dor no seu caso.*

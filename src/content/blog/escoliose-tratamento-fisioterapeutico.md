@@ -37,6 +37,33 @@ O tratamento de escoliose costuma ser um processo de médio e longo prazo, com r
 
 É comum pensar que escoliose é "coisa de adolescente", mas curvaturas antigas podem gerar desconforto e sobrecarga assimétrica com o passar dos anos. Nesses casos, a fisioterapia atua mais focada em alívio de sintomas, fortalecimento e manutenção da função do que em controle de progressão, já que a coluna já atingiu a maturidade esquelética.
 
+## Sinais que merecem avaliação
+
+Alguns sinais ajudam pais e cuidadores a identificar precocemente uma possível escoliose em crianças e adolescentes:
+
+- **Ombros ou omoplatas em alturas diferentes**, visíveis ao observar as costas da criança em pé.
+- **Um lado do quadril aparentemente mais elevado** que o outro.
+- **Assimetria ao curvar o tronco para frente**, com uma das costelas ou da região lombar se projetando mais de um lado.
+- **Roupas que não "caem" de forma simétrica no corpo**, um sinal indireto, mas frequentemente notado pelos próprios pais.
+
+Nenhum desses sinais confirma o diagnóstico isoladamente, mas justificam uma avaliação com ortopedista ou fisioterapeuta especializado.
+
+## Perguntas frequentes
+
+**Exercício físico piora a escoliose?** Não. Pelo contrário, a atividade física bem orientada faz parte do próprio tratamento. O mito de que esportes de alto impacto pioram a curvatura não tem respaldo consistente na literatura atual.
+
+**Colete corrige a escoliose?** O colete tem como objetivo frear a progressão da curva durante a fase de crescimento, não corrigi-la de forma definitiva. Seu uso é decidido pelo ortopedista com base no grau da curvatura e na maturidade óssea.
+
+**Escoliose leve precisa de acompanhamento contínuo?** Sim, ao menos durante a fase de crescimento, já que curvas leves podem progredir. Reavaliações periódicas ajudam a identificar cedo qualquer mudança que exija ajuste de conduta.
+
+## O papel da família no acompanhamento
+
+Quando o diagnóstico acontece na infância ou adolescência, o envolvimento da família faz bastante diferença no resultado do tratamento. Isso inclui acompanhar a consistência com que os exercícios são realizados em casa, observar mudanças posturais ao longo do tempo entre uma consulta e outra, e ajudar o adolescente a manter a adesão ao colete, quando prescrito, já que o tempo de uso diário recomendado costuma ser desafiador de cumprir integralmente nessa fase da vida. Um ambiente de apoio, sem cobranças excessivas, tende a favorecer tanto a adesão ao tratamento quanto o bem-estar emocional do jovem em relação à própria condição.
+
+## Escoliose funcional: quando a causa não é estrutural
+
+Vale diferenciar a escoliose estrutural, discutida ao longo deste texto, de uma curvatura funcional ou postural, que pode surgir de forma secundária a uma discrepância de comprimento entre as pernas, a um desequilíbrio muscular ou até a uma dor que faz a pessoa assumir uma postura compensatória. Nesses casos, a curvatura tende a desaparecer ou reduzir significativamente quando a causa de base é corrigida, diferente da escoliose estrutural, que mantém a rotação vertebral mesmo com a correção da postura.
+
 ---
 
 _Este conteúdo tem propósito educativo. A avaliação e o acompanhamento da escoliose devem sempre envolver profissionais de saúde qualificados, de forma individualizada._

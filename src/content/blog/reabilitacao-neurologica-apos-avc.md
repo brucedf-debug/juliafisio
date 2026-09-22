@@ -34,6 +34,26 @@ Conforme a recuperação avança, o treino de equilíbrio e marcha ganha espaço
 
 A recuperação após um AVC não segue um cronograma fixo — varia conforme a extensão da lesão neurológica, o tempo até o início da reabilitação e a resposta individual de cada paciente ao tratamento. Ganhos podem continuar acontecendo por meses, o que reforça a importância de manter o acompanhamento fisioterapêutico mesmo quando o progresso parece mais lento.
 
+## O papel da família no processo
+
+O envolvimento da família na reabilitação pós-AVC costuma fazer diferença real no resultado. Aprender a auxiliar corretamente nas transferências, incentivar o uso do lado afetado nas atividades do dia a dia — em vez de compensar automaticamente pelo paciente — e manter um ambiente que estimule a prática dos exercícios orientados são formas concretas de apoiar o processo fora das sessões de fisioterapia. Esse suporte, quando bem orientado pela equipe de saúde, potencializa os ganhos obtidos durante o tratamento e ajuda a manter a motivação em um processo que, muitas vezes, é longo e exige paciência de todos os envolvidos.
+
+## Reabilitação também é sobre qualidade de vida
+
+Além da recuperação de movimento em si, a fisioterapia neurológica após um AVC também trabalha aspectos que impactam diretamente a qualidade de vida: prevenção de quedas, orientação para adaptação do ambiente doméstico, e reintegração gradual a atividades sociais e de lazer que faziam parte da rotina antes do evento. Esses objetivos, embora menos discutidos do que a recuperação de força ou marcha, são igualmente importantes para o bem-estar do paciente e da família ao longo de todo o processo de reabilitação.
+
+## Perguntas frequentes
+
+**Quanto tempo depois do AVC ainda é possível ver melhora?** A maior parte da recuperação costuma acontecer nos primeiros meses, mas ganhos funcionais podem continuar aparecendo por período mais longo, especialmente com reabilitação contínua e engajamento do paciente.
+
+**Todo AVC exige o mesmo tipo de reabilitação?** Não. O plano de tratamento varia bastante conforme a área do cérebro atingida, a extensão da lesão e as funções especificamente comprometidas em cada paciente.
+
+**A fisioterapia sozinha é suficiente na reabilitação pós-AVC?** Na maioria dos casos, o tratamento envolve uma equipe multiprofissional, incluindo fonoaudiologia, terapia ocupacional e acompanhamento médico, já que o AVC pode afetar diferentes funções além do movimento, como fala e deglutição.
+
+**Pacientes mais velhos se recuperam pior do AVC?** A idade influencia o ritmo, mas não impede a recuperação. Muitos pacientes idosos apresentam ganhos funcionais relevantes com reabilitação consistente, especialmente quando o tratamento começa cedo e é conduzido com regularidade ao longo do tempo.
+
+**Existe um limite de tempo depois do qual a reabilitação deixa de fazer efeito?** Não existe um prazo fixo que encerre a possibilidade de ganhos. Embora o ritmo de melhora costume desacelerar com o tempo, muitos pacientes continuam apresentando progressos funcionais mesmo depois de mais de um ano do evento, especialmente com estímulo contínuo e prática regular dos exercícios orientados pela equipe de reabilitação ao longo de todo o acompanhamento, mesmo em ritmo mais lento.
+
 ---
 
 _Este conteúdo tem fins educativos e não substitui a avaliação de uma equipe multiprofissional. Cada caso de AVC é único e exige um plano de reabilitação individualizado._

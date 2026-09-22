@@ -28,6 +28,18 @@ A avaliação começa identificando quais movimentos ou posições desencadeiam 
 
 É comum que os exercícios de habituação causem uma tontura leve logo depois de serem realizados — isso faz parte do processo de reajuste do sistema nervoso e tende a diminuir com a repetição ao longo dos dias. A evolução raramente é uma linha reta: pode haver dias de melhora clara seguidos por outros de mais desconforto, principalmente nas primeiras semanas. Por isso a constância importa mais do que a intensidade: praticar os exercícios orientados também em casa, na frequência combinada com o fisioterapeuta, costuma fazer diferença real no tempo de recuperação. Na maioria dos casos, a tendência é de melhora progressiva da tontura e maior segurança para retomar atividades como dirigir, caminhar em ambientes movimentados ou praticar exercícios físicos sem o medo constante de perder o equilíbrio.
 
+## Perguntas frequentes
+
+**Quanto tempo leva para a reabilitação vestibular fazer efeito?** Muitos pacientes notam melhora dentro de algumas semanas de tratamento consistente, embora casos mais complexos ou de longa duração possam levar alguns meses até uma recuperação mais completa.
+
+**A tontura pode voltar depois do tratamento?** Em alguns casos, sim, especialmente se a causa de base não for totalmente resolvida ou se houver um novo episódio que afete o sistema vestibular. Manter os exercícios de manutenção orientados pelo fisioterapeuta ajuda a reduzir esse risco.
+
+**Exercícios vestibulares podem ser feitos por qualquer pessoa com tontura?** O ideal é passar por uma avaliação antes, já que a causa da tontura precisa ser identificada. Alguns quadros têm origem não vestibular, como problemas cardiovasculares, e exigem investigação médica antes de iniciar qualquer programa de exercícios.
+
+**A reabilitação vestibular funciona para labirintite crônica?** Sim, é uma das indicações mais comuns, especialmente quando a fase aguda já passou e o que resta é a readaptação do cérebro ao padrão de sinais alterado que o sistema vestibular ainda envia.
+
+**Idosos podem fazer reabilitação vestibular com segurança?** Sim, e costuma ser especialmente indicada nessa faixa etária, já que a tontura em idosos está fortemente associada a quedas, e o treino de equilíbrio ajuda a reduzir esse risco de forma direta e segura, com exercícios adaptados à condição de cada paciente e à sua rotina diária, sempre respeitando o ritmo individual de progresso.
+
 ---
 
 *Este texto tem caráter informativo e não substitui uma avaliação individual, já que a origem da tontura e o programa de exercícios mais adequado variam bastante de pessoa para pessoa.*
