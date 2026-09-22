@@ -1,5 +1,5 @@
 ---
-title: 'Reabilitação pulmonar: recuperando o fôlego após uma internação prolongada'
+title: 'Reabilitação Pulmonar Após Internação Prolongada'
 description: 'Como a fisioterapia respiratória e motora ajuda a recuperar capacidade pulmonar, força muscular e disposição depois de uma internação longa.'
 pubDate: 'Sep 06 2026'
 category: 'reabilitacao'

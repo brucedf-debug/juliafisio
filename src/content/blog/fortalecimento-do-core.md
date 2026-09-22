@@ -1,5 +1,5 @@
 ---
-title: 'Fortalecimento do core: por que ele é a base da saúde da coluna'
+title: 'Fortalecimento do Core: Base da Saúde da Coluna'
 description: 'Entenda o que é a musculatura do core, por que ela protege a coluna e como fortalecê-la de forma segura.'
 pubDate: 'Apr 29 2026'
 category: 'saude-e-prevencao'

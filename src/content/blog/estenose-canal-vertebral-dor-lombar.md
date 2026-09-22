@@ -1,6 +1,6 @@
 ---
-title: 'Estenose do canal vertebral: por que a dor piora ao caminhar e alivia ao sentar'
-description: 'Entenda o que é a estenose do canal vertebral, por que ela costuma limitar a distância que a pessoa consegue caminhar e como a fisioterapia ajuda a manter a mobilidade.'
+title: 'Estenose do Canal Vertebral: Sintomas e Tratamento'
+description: 'Entenda o que é a estenose do canal vertebral, por que ela limita a distância que a pessoa consegue caminhar e como a fisioterapia ajuda.'
 pubDate: 'Sep 09 2026'
 category: 'dor-e-coluna'
 heroImage: '../../assets/pool/dor-e-coluna/pair-03-hero.jpg'

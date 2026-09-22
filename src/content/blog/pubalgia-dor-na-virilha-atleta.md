@@ -1,6 +1,6 @@
 ---
-title: 'Pubalgia do atleta: a dor na virilha que atrapalha jogadores de futebol e corredores'
-description: 'Entenda o que é a pubalgia, por que ela é tão comum em esportes com mudanças bruscas de direção e chutes, e como a fisioterapia trata essa dor na região da virilha.'
+title: 'Pubalgia do Atleta: Dor na Virilha e Tratamento'
+description: 'Entenda o que é a pubalgia, por que é comum em esportes com mudanças bruscas de direção e como a fisioterapia trata essa dor na virilha.'
 pubDate: 'Sep 10 2026'
 category: 'fisioterapia-esportiva'
 heroImage: '../../assets/pool/fisioterapia-esportiva/pair-02-hero.jpg'

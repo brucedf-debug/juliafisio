@@ -1,5 +1,5 @@
 ---
-title: 'Sedentarismo: os efeitos no corpo e como a fisioterapia pode ajudar'
+title: 'Sedentarismo: Efeitos no Corpo e Como a Fisioterapia Ajuda'
 description: 'O que o sedentarismo causa na musculatura e nas articulações, e como a fisioterapia atua na prevenção e reversão desses efeitos.'
 pubDate: 'Jul 23 2025'
 category: 'saude-e-prevencao'

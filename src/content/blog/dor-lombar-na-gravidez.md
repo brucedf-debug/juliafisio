@@ -1,6 +1,6 @@
 ---
-title: 'Dor lombar na gravidez: por que ela acontece e como a fisioterapia pode ajudar'
-description: 'Entenda por que a dor lombar é tão frequente durante a gestação, quais fatores contribuem para o quadro e de que forma a fisioterapia atua no alívio com segurança.'
+title: 'Dor Lombar na Gravidez: Causas e Fisioterapia'
+description: 'Entenda por que a dor lombar é frequente na gestação, quais fatores contribuem e como a fisioterapia atua no alívio com segurança.'
 pubDate: 'Sep 04 2026'
 category: 'dor-e-coluna'
 heroImage: '../../assets/pool/dor-e-coluna/pair-02-hero.jpg'

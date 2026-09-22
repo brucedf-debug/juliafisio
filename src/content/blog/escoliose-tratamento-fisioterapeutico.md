@@ -1,5 +1,5 @@
 ---
-title: 'Escoliose: quando a fisioterapia é indicada e o que esperar do tratamento'
+title: 'Escoliose: Quando a Fisioterapia é Indicada'
 description: 'Como a fisioterapia atua no acompanhamento da escoliose, dos exercícios específicos ao trabalho postural.'
 pubDate: 'May 13 2026'
 category: 'dor-e-coluna'

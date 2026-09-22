@@ -1,5 +1,5 @@
 ---
-title: 'Sono e dor crônica: qual a relação e como a fisioterapia pode ajudar'
+title: 'Sono e Dor Crônica: Qual a Relação Entre Eles'
 description: 'Como a qualidade do sono influencia quadros de dor crônica, e de que forma a fisioterapia entra nesse cuidado.'
 pubDate: 'Aug 19 2026'
 category: 'saude-e-prevencao'

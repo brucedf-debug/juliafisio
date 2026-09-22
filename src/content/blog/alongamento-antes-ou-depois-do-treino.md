@@ -1,5 +1,5 @@
 ---
-title: 'Alongamento antes ou depois do treino? O que diz a fisioterapia'
+title: 'Alongar Antes ou Depois do Treino? Diz a Fisioterapia'
 description: 'O momento certo de alongar, os tipos de alongamento e o que a fisioterapia recomenda para cada fase do treino.'
 pubDate: 'Sep 03 2025'
 category: 'mobilidade-e-exercicios'

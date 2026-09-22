@@ -1,5 +1,5 @@
 ---
-title: 'Reabilitação pós-cirúrgica: o que esperar nas primeiras semanas'
+title: 'Reabilitação Pós-Cirúrgica: Primeiras Semanas'
 description: 'As fases iniciais da reabilitação após uma cirurgia ortopédica: controle da dor, cicatrização e como a fisioterapia acompanha cada etapa.'
 pubDate: 'Jul 09 2025'
 category: 'reabilitacao'

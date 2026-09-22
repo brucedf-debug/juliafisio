@@ -1,5 +1,5 @@
 ---
-title: 'Cotovelo de tenista (epicondilite lateral): causas e tratamento'
+title: 'Cotovelo de Tenista: Causas e Tratamento'
 description: 'O que causa a epicondilite lateral, por que ela não afeta só quem joga tênis, e como a fisioterapia trata e previne a recidiva.'
 pubDate: 'Aug 31 2026'
 category: 'fisioterapia-esportiva'

@@ -1,6 +1,6 @@
 ---
-title: 'Canelite: por que a dor na canela aparece em corredores e como tratar'
-description: 'Entenda o que é a síndrome do estresse tibial medial, conhecida como canelite, seus fatores de risco em corredores e como a fisioterapia trata e previne o quadro.'
+title: 'Canelite: Por que Aparece em Corredores e Como Tratar'
+description: 'Entenda o que é a síndrome do estresse tibial medial (canelite), seus fatores de risco em corredores e como a fisioterapia trata o quadro.'
 pubDate: 'Sep 05 2026'
 category: 'fisioterapia-esportiva'
 heroImage: '../../assets/pool/fisioterapia-esportiva/pair-01-hero.jpg'

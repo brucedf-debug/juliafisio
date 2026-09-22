@@ -1,5 +1,5 @@
 ---
-title: 'Corrida e dor no joelho: como prevenir a síndrome patelofemoral'
+title: 'Corrida e Dor no Joelho: Síndrome Patelofemoral'
 description: 'As causas da dor patelofemoral em corredores e as estratégias de fisioterapia para prevenir e tratar esse quadro.'
 pubDate: 'Jan 07 2026'
 category: 'fisioterapia-esportiva'

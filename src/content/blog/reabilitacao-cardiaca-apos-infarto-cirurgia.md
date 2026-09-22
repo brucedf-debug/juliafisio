@@ -1,6 +1,6 @@
 ---
-title: 'Reabilitação cardíaca: o papel da fisioterapia após infarto ou cirurgia do coração'
-description: 'Entenda como funciona a reabilitação cardíaca, por que o exercício supervisionado é seguro mesmo após um evento cardíaco e como a fisioterapia ajuda a recuperar a confiança para se movimentar.'
+title: 'Reabilitação Cardíaca: Fisioterapia Após Infarto'
+description: 'Entenda como funciona a reabilitação cardíaca, por que o exercício supervisionado é seguro após um evento cardíaco e ajuda a recuperar a confiança.'
 pubDate: 'Sep 16 2026'
 category: 'reabilitacao'
 heroImage: '../../assets/pool/reabilitacao/pair-04-hero.jpg'

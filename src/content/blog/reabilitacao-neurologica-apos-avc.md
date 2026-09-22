@@ -1,5 +1,5 @@
 ---
-title: 'Reabilitação neurológica: como a fisioterapia ajuda após um AVC'
+title: 'Reabilitação Neurológica: Fisioterapia Após o AVC'
 description: 'O papel da fisioterapia neurofuncional na recuperação de movimento, equilíbrio e autonomia após um acidente vascular cerebral.'
 pubDate: 'Aug 05 2026'
 category: 'reabilitacao'

@@ -1,5 +1,5 @@
 ---
-title: 'Dor na articulação sacroilíaca: a causa de dor lombar baixa que muitas vezes passa despercebida'
+title: 'Dor na Articulação Sacroilíaca: Causas e Tratamento'
 description: 'Entenda o que é a disfunção da articulação sacroilíaca, como diferenciá-la de outras dores na coluna e de que forma a fisioterapia atua no tratamento.'
 pubDate: 'Sep 01 2026'
 category: 'dor-e-coluna'

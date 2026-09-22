@@ -1,5 +1,5 @@
 ---
-title: 'Postura no home office: como evitar dores nas costas trabalhando sentado'
+title: 'Postura no Home Office: Como Evitar Dor nas Costas'
 description: 'Ajustes simples de postura e ergonomia para quem trabalha em home office e quer evitar dores nas costas.'
 pubDate: 'Dec 24 2025'
 category: 'dor-e-coluna'

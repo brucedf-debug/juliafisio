@@ -1,5 +1,5 @@
 ---
-title: 'Fisioterapia na terceira idade: prevenção de quedas e ganho de autonomia'
+title: 'Fisioterapia na Terceira Idade: Prevenção de Quedas'
 description: 'Como exercícios de equilíbrio e fortalecimento orientados por um fisioterapeuta reduzem o risco de quedas em idosos.'
 pubDate: 'Feb 18 2026'
 category: 'saude-e-prevencao'

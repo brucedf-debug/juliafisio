@@ -1,5 +1,5 @@
 ---
-title: 'Reabilitação vestibular: como a fisioterapia trata tontura e vertigem'
+title: 'Reabilitação Vestibular: Fisioterapia para Vertigem'
 description: 'Entenda o que é a reabilitação vestibular, quando ela é indicada e como a fisioterapia treina o cérebro a se readaptar em casos de tontura e vertigem.'
 pubDate: 'Sep 11 2026'
 category: 'reabilitacao'

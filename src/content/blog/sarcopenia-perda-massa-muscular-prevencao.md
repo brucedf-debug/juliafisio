@@ -1,6 +1,6 @@
 ---
-title: 'Sarcopenia: por que a perda de massa muscular com a idade exige atenção da fisioterapia'
-description: 'Entenda o que é sarcopenia, por que ela avança de forma silenciosa a partir da meia-idade e como o fortalecimento muscular orientado pela fisioterapia ajuda a preveni-la.'
+title: 'Sarcopenia: Prevenção da Perda de Massa Muscular'
+description: 'Entenda o que é sarcopenia, por que ela avança silenciosamente a partir da meia-idade e como o fortalecimento muscular ajuda a preveni-la.'
 pubDate: 'Sep 12 2026'
 category: 'saude-e-prevencao'
 heroImage: '../../assets/pool/saude-e-prevencao/pair-03-hero.jpg'

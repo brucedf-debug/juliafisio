@@ -1,5 +1,5 @@
 ---
-title: 'Liberação miofascial: como usar o rolo de espuma com segurança'
+title: 'Liberação Miofascial: Como Usar o Rolo de Espuma'
 description: 'Entenda o que é a liberação miofascial, para que ela serve e como incluir o rolo de espuma (foam roller) na sua rotina de mobilidade sem exagerar na pressão.'
 pubDate: 'Sep 08 2026'
 category: 'mobilidade-e-exercicios'

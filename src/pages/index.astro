@@ -6,17 +6,42 @@ import Header from '../components/Header.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { categories, type CategorySlug } from '../lib/categories';
+import { authorFullName, authorRole } from '../lib/site';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const categoryEntries = Object.entries(categories) as [CategorySlug, (typeof categories)[CategorySlug]][];
+
+const personId = new URL('/sobre/', Astro.site).toString() + '#person';
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@graph': [
+		{
+			'@type': 'WebSite',
+			'@id': new URL('/', Astro.site).toString() + '#website',
+			name: SITE_TITLE,
+			url: Astro.site,
+			description: SITE_DESCRIPTION,
+			inLanguage: 'pt-BR',
+			publisher: { '@id': personId },
+		},
+		{
+			'@type': 'Person',
+			'@id': personId,
+			name: authorFullName,
+			jobTitle: authorRole,
+			url: new URL('/sobre/', Astro.site).toString(),
+		},
+	],
+};
 ---
 
 <!doctype html>
 <html lang="pt-BR">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 		<style>
 			main {
 				width: 960px;

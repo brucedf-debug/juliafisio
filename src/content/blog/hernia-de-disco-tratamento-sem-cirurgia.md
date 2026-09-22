@@ -1,5 +1,5 @@
 ---
-title: 'Hérnia de disco: o que é e como a fisioterapia trata sem cirurgia'
+title: 'Hérnia de Disco: Tratamento sem Cirurgia'
 description: 'Entenda o que é uma hérnia de disco, por que nem todo caso precisa de cirurgia e como a fisioterapia atua no tratamento conservador.'
 pubDate: 'Aug 06 2025'
 category: 'dor-e-coluna'

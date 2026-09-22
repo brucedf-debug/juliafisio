@@ -1,5 +1,5 @@
 ---
-title: 'Exercícios de mobilidade para ombro: prevenção de dores no dia a dia'
+title: 'Mobilidade de Ombro: Exercícios de Prevenção'
 description: 'Uma rotina simples de mobilidade de ombro para prevenir dores e melhorar a amplitude de movimento no dia a dia.'
 pubDate: 'Jan 21 2026'
 category: 'mobilidade-e-exercicios'

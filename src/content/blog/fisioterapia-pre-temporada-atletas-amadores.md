@@ -1,5 +1,5 @@
 ---
-title: 'Fisioterapia pré-temporada: por que atletas amadores também precisam se preparar'
+title: 'Fisioterapia Pré-Temporada para Atletas Amadores'
 description: 'Como uma avaliação fisioterapêutica antes da temporada esportiva reduz o risco de lesões, inclusive para quem pratica esporte de forma amadora.'
 pubDate: 'May 27 2026'
 category: 'fisioterapia-esportiva'

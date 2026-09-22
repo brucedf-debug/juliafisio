@@ -1,5 +1,5 @@
 ---
-title: 'Fisioterapia preventiva: por que não é preciso esperar a dor aparecer'
+title: 'Fisioterapia Preventiva: Por que Agir Antes da Dor'
 description: 'Entenda como a fisioterapia preventiva identifica desequilíbrios antes que virem lesão, sem precisar esperar a dor começar.'
 pubDate: 'Oct 01 2025'
 category: 'saude-e-prevencao'

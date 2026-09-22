@@ -1,5 +1,5 @@
 ---
-title: 'Fisioterapia após prótese de quadril: retomando a marcha com segurança'
+title: 'Fisioterapia Após Prótese de Quadril: Retomando a Marcha'
 description: 'Como a fisioterapia conduz a recuperação após a cirurgia de prótese de quadril, da mobilização inicial até a retomada segura das atividades do dia a dia.'
 pubDate: 'Sep 02 2026'
 category: 'reabilitacao'

@@ -1,0 +1,71 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import { categories, type CategorySlug } from '../lib/categories';
+
+const title = `Página não encontrada | ${SITE_TITLE}`;
+const description = 'Essa página não existe ou foi movida. Veja as categorias do blog para continuar navegando.';
+const categoryEntries = Object.entries(categories) as [CategorySlug, (typeof categories)[CategorySlug]][];
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={title} description={description} />
+		<meta name="robots" content="noindex, follow" />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 4em 1em 5em;
+				text-align: center;
+			}
+			.code {
+				color: var(--accent);
+				font-weight: 700;
+				letter-spacing: 0.05em;
+				margin: 0 0 0.5em;
+			}
+			.actions {
+				margin-top: 1.5em;
+				display: flex;
+				gap: 0.75em;
+				justify-content: center;
+				flex-wrap: wrap;
+			}
+			.actions a {
+				display: inline-block;
+				padding: 0.6em 1.3em;
+				border-radius: 999px;
+				background: var(--accent-light);
+				color: var(--accent-dark);
+				font-size: 0.9em;
+				font-weight: 600;
+				text-decoration: none;
+			}
+			.actions a:hover {
+				background: var(--accent);
+				color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<p class="code">Erro 404</p>
+			<h1>Não encontramos essa página</h1>
+			<p>
+				O link pode estar desatualizado ou o conteúdo foi movido. Volte para o início ou explore
+				uma das categorias do blog abaixo.
+			</p>
+			<div class="actions">
+				<a href="/">Página inicial</a>
+				{categoryEntries.map(([slug, meta]) => <a href={`/category/${slug}/`}>{meta.name}</a>)}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

@@ -1,6 +1,6 @@
 ---
-title: 'Fisioterapia esportiva: prevenção de lesões e retorno seguro ao esporte'
-description: 'Como a fisioterapia esportiva atua antes, durante e depois de uma lesão, e por que o retorno ao esporte deve seguir critérios objetivos, não apenas a ausência de dor.'
+title: 'Fisioterapia Esportiva: Prevenção de Lesões'
+description: 'Como a fisioterapia esportiva atua antes, durante e depois de uma lesão, e por que o retorno deve seguir critérios objetivos.'
 pubDate: 'Jul 08 2026'
 category: 'fisioterapia-esportiva'
 heroImage: '../../assets/physio-esportiva-hero.jpg'

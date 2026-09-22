@@ -1,5 +1,5 @@
 ---
-title: 'Entorse de tornozelo: primeiros cuidados e reabilitação completa'
+title: 'Entorse de Tornozelo: Cuidados e Reabilitação'
 description: 'O que fazer logo após uma entorse de tornozelo e por que completar a reabilitação evita que a lesão volte a acontecer.'
 pubDate: 'Mar 18 2026'
 category: 'fisioterapia-esportiva'

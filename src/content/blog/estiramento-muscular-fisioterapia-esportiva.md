@@ -1,6 +1,6 @@
 ---
-title: 'Estiramento muscular no esporte: como a fisioterapia trata e evita a recidiva'
-description: 'Entenda o que acontece em um estiramento muscular, por que ele é tão comum em esportes com mudanças bruscas de ritmo e como a fisioterapia guia cada fase da recuperação até o retorno seguro ao esporte.'
+title: 'Estiramento Muscular no Esporte: Tratamento e Prevenção'
+description: 'Entenda o que acontece em um estiramento muscular, por que é comum em esportes com mudanças bruscas de ritmo e como a fisioterapia guia a recuperação.'
 pubDate: 'Sep 15 2026'
 category: 'fisioterapia-esportiva'
 heroImage: '../../assets/pool/fisioterapia-esportiva/pair-04-hero.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Estresse e tensão muscular: como a fisioterapia ajuda a aliviar a sobrecarga do dia a dia'
+title: 'Estresse e Tensão Muscular: Como a Fisioterapia Ajuda'
 description: 'Entenda por que o estresse do cotidiano se manifesta como tensão muscular e dor, e como a fisioterapia contribui para quebrar esse ciclo.'
 pubDate: 'Sep 03 2026'
 category: 'saude-e-prevencao'

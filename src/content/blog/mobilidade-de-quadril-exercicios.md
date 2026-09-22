@@ -1,5 +1,5 @@
 ---
-title: 'Mobilidade de quadril: exercícios para quem passa o dia sentado'
+title: 'Mobilidade de Quadril: Exercícios para Quem Senta Muito'
 description: 'Exercícios simples de mobilidade de quadril para compensar as horas sentado e prevenir dores na lombar e no joelho.'
 pubDate: 'Nov 12 2025'
 category: 'mobilidade-e-exercicios'

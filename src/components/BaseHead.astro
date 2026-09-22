@@ -3,7 +3,6 @@
 // all pages through the use of the <BaseHead /> component.
 import '../styles/global.css';
 import type { ImageMetadata } from 'astro';
-import FallbackImage from '../assets/physio-dor-lombar-hero.jpg';
 import { SITE_TITLE } from '../consts';
 import { Font } from 'astro:assets';
 
@@ -15,7 +14,16 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image } = Astro.props;
+
+// Blog posts pass their own hero image (used as the article's social preview);
+// every other page falls back to a shared 1200x630 brand card so links always
+// render a real image instead of a broken one when shared on social.
+const ogImageURL = image
+	? new URL(image.src, Astro.url).toString()
+	: new URL('/og-default.jpg', Astro.site).toString();
+const ogImageWidth = image?.width ?? 1200;
+const ogImageHeight = image?.height ?? 630;
 ---
 
 <!-- Global Metadata -->
@@ -31,6 +39,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 	href={new URL('rss.xml', Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
+<meta name="robots" content="index, follow" />
 
 <!-- Google Analytics (GA4) -->
 {import.meta.env.PROD && (
@@ -58,13 +67,20 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
+<meta property="og:site_name" content={SITE_TITLE} />
+<meta property="og:locale" content="pt_BR" />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image.src, Astro.url)} />
+<meta property="og:image" content={ogImageURL} />
+<meta property="og:image:width" content={String(ogImageWidth)} />
+<meta property="og:image:height" content={String(ogImageHeight)} />
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImageURL} />
 
 <!-- Google Funding Choices: consent message for EEA/UK/CH visitors (EU User Consent Policy).
      The banner itself is configured in AdSense > Privacy & messaging — this snippet only loads it. -->

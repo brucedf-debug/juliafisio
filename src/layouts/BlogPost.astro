@@ -19,6 +19,7 @@ const { title, description, pubDate, updatedDate, category, heroImage, heroImage
 	Astro.props;
 
 const howToSteps = extractHowToSteps(body);
+const pageURL = new URL(Astro.url.pathname, Astro.site).toString();
 
 const jsonLd = {
 	'@context': 'https://schema.org',
@@ -35,6 +36,7 @@ const jsonLd = {
 		url: new URL('/sobre/', Astro.site).toString(),
 	},
 	...(heroImage && { image: new URL(heroImage.src, Astro.site).toString() }),
+	mainEntityOfPage: { '@type': 'WebPage', '@id': pageURL },
 };
 
 const howToJsonLd = howToSteps.length > 0 && {
@@ -51,7 +53,7 @@ const howToJsonLd = howToSteps.length > 0 && {
 
 <html lang="pt-BR">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} image={heroImage} />
 		<script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 		{howToJsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(howToJsonLd)} />}
 		<style>

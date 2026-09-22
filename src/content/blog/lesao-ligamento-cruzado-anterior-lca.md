@@ -1,5 +1,5 @@
 ---
-title: 'Lesão no ligamento cruzado anterior (LCA): tratamento e retorno ao esporte'
+title: 'Lesão no Ligamento Cruzado Anterior (LCA): Tratamento'
 description: 'O que envolve a reabilitação de uma lesão no ligamento cruzado anterior, do pós-operatório até o retorno seguro ao esporte.'
 pubDate: 'Aug 20 2025'
 category: 'fisioterapia-esportiva'

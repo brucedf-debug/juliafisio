@@ -1,6 +1,6 @@
 ---
-title: 'Saúde óssea: como o exercício físico ajuda a prevenir a osteoporose'
-description: 'Entenda por que os ossos precisam de estímulo mecânico para se manter fortes e como um programa de exercícios bem orientado reduz o risco de osteoporose e fraturas.'
+title: 'Saúde Óssea: Exercício Físico na Prevenção da Osteoporose'
+description: 'Entenda por que os ossos precisam de estímulo mecânico e como um programa de exercícios orientado reduz o risco de osteoporose e fraturas.'
 pubDate: 'Sep 07 2026'
 category: 'saude-e-prevencao'
 heroImage: '../../assets/pool/saude-e-prevencao/pair-02-hero.jpg'

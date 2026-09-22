@@ -1,5 +1,5 @@
 ---
-title: 'Fascite plantar: por que a dor no calcanhar piora nos primeiros passos da manhã'
+title: 'Fascite Plantar: Dor no Calcanhar pela Manhã'
 description: 'Entenda as causas da fascite plantar, os sinais que ajudam a identificá-la e como a fisioterapia atua para aliviar a dor e prevenir novas crises.'
 pubDate: 'Sep 01 2026'
 category: 'fisioterapia-esportiva'

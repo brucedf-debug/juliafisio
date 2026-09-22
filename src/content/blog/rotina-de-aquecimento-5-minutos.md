@@ -1,5 +1,5 @@
 ---
-title: 'Rotina de aquecimento de 5 minutos antes de qualquer atividade física'
+title: 'Rotina de Aquecimento de 5 Minutos Antes do Treino'
 description: 'Uma rotina curta de aquecimento, com base fisioterapêutica, para preparar o corpo antes de qualquer atividade física.'
 pubDate: 'Apr 01 2026'
 category: 'mobilidade-e-exercicios'

@@ -1,6 +1,6 @@
 ---
-title: 'Espondilolistese: o que é o deslizamento de uma vértebra e como a fisioterapia trata'
-description: 'Entenda o que é a espondilolistese, por que uma vértebra pode deslizar sobre a outra e como o fortalecimento e a estabilização guiada pela fisioterapia ajudam a controlar a dor.'
+title: 'Espondilolistese: o Deslizamento Vertebral e Tratamento'
+description: 'Entenda o que é a espondilolistese, por que uma vértebra desliza sobre a outra e como a fisioterapia ajuda a controlar a dor.'
 pubDate: 'Sep 14 2026'
 category: 'dor-e-coluna'
 heroImage: '../../assets/pool/dor-e-coluna/pair-04-hero.jpg'

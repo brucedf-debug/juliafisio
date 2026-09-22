@@ -1,6 +1,6 @@
 ---
-title: 'Mobilidade de joelho: exercícios para uma articulação mais resistente'
-description: 'O joelho depende da mobilidade do tornozelo e do quadril para funcionar bem. Entenda por que também vale a pena exercitar essa articulação e como fazer isso com segurança.'
+title: 'Mobilidade de Joelho: Exercícios para Fortalecer'
+description: 'O joelho depende da mobilidade do tornozelo e do quadril. Entenda por que vale a pena exercitar essa articulação e como fazer isso com segurança.'
 pubDate: 'Sep 13 2026'
 category: 'mobilidade-e-exercicios'
 heroImage: '../../assets/pool/mobilidade-e-exercicios/pair-03-hero.jpg'

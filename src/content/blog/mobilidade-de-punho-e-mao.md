@@ -1,5 +1,5 @@
 ---
-title: 'Mobilidade de punho e mão: exercícios para quem vive no computador e no celular'
+title: 'Mobilidade de Punho e Mão: Exercícios Práticos'
 description: 'Por que punhos e mãos travados geram dor e perda de força, e como exercícios simples de mobilidade ajudam a prevenir isso no dia a dia.'
 pubDate: 'Sep 04 2026'
 category: 'mobilidade-e-exercicios'
