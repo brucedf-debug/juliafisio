@@ -12,9 +12,9 @@ O joelho costuma ser lembrado só quando dói: depois de uma torção, de uma co
 
 ## Por que o joelho não deve ser tratado isoladamente
 
-O joelho fica entre duas articulações com grande exigência de mobilidade: o quadril e o tornozelo. Quando qualquer uma delas perde amplitude — o quadril por ficar muito tempo sentado, o tornozelo por rigidez ou uma entorse mal reabilitada —, o joelho tende a assumir parte desse movimento que não é dele, torcendo ou deslocando lateralmente para compensar. Repetido em caminhadas, agachamentos ou subidas de escada, esse padrão sobrecarrega estruturas como os meniscos e os ligamentos, mesmo sem trauma nenhum envolvido.
+O joelho fica entre duas articulações com grande exigência de mobilidade: o [quadril](/blog/mobilidade-de-quadril-exercicios/) e o tornozelo. Quando qualquer uma delas perde amplitude — o quadril por ficar muito tempo sentado, o tornozelo por rigidez ou uma entorse mal reabilitada —, o joelho tende a assumir parte desse movimento que não é dele, torcendo ou deslocando lateralmente para compensar. Repetido em caminhadas, agachamentos ou subidas de escada, esse padrão sobrecarrega estruturas como os meniscos e os ligamentos, mesmo sem trauma nenhum envolvido.
 
-Por isso, falar em "mobilidade de joelho" não significa forçar uma dobradiça a se mexer mais, e sim garantir que ele trabalhe dentro de um alinhamento saudável, apoiado por quadril e tornozelo funcionando bem.
+Por isso, falar em "mobilidade de joelho" não significa forçar uma dobradiça a se mexer mais, e sim garantir que ele trabalhe dentro de um alinhamento saudável, apoiado por quadril e [tornozelo](/blog/mobilidade-de-tornozelo/) funcionando bem.
 
 ## Sinais de que o joelho está sobrecarregado
 
@@ -54,7 +54,7 @@ Além da mobilidade das articulações vizinhas, o equilíbrio de força entre q
 
 **Esses exercícios servem para quem já teve lesão no joelho?** Em fases mais avançadas da reabilitação, sim, mas logo após uma lesão o programa de exercícios deve ser conduzido por um fisioterapeuta, que ajusta a progressão conforme a fase de cicatrização do tecido envolvido.
 
-**Correr causa desgaste no joelho a longo prazo?** As evidências atuais não sustentam essa ideia de forma generalizada — corredores com boa preparação muscular não apresentam mais desgaste articular do que sedentários, e a atividade, bem dosada, costuma ser benéfica para a saúde da cartilagem.
+**Correr causa desgaste no joelho a longo prazo?** As evidências atuais não sustentam essa ideia de forma generalizada — [corredores](/blog/corrida-dor-no-joelho-sindrome-patelofemoral/) com boa preparação muscular não apresentam mais desgaste articular do que sedentários, e a atividade, bem dosada, costuma ser benéfica para a saúde da cartilagem.
 
 ---
 

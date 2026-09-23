@@ -30,13 +30,13 @@ Alguns cuidados fazem toda a diferença entre uma sessão que ajuda e uma que de
 
 ## Quando incluir na rotina
 
-O rolo de espuma funciona bem em dois momentos específicos. Antes do treino ou de uma atividade física, ele ajuda a "despertar" a musculatura e ganhar amplitude antes do aquecimento dinâmico. Depois do treino, contribui para reduzir a sensação de tensão e apoiar a recuperação, especialmente em regiões que costumam ficar mais sobrecarregadas, como panturrilha, quadríceps e região lateral da coxa.
+O rolo de espuma funciona bem em dois momentos específicos. Antes do treino ou de uma atividade física, ele ajuda a "despertar" a musculatura e ganhar amplitude antes do [aquecimento](/blog/rotina-de-aquecimento-5-minutos/) dinâmico. Depois do treino, contribui para reduzir a sensação de tensão e apoiar a recuperação, especialmente em regiões que costumam ficar mais sobrecarregadas, como panturrilha, quadríceps e região lateral da coxa.
 
 Fora desses contextos, também pode ser usado em pausas do dia a dia, sobretudo por quem passa longos períodos sentado e sente a musculatura das pernas ou das costas mais tensa. O importante é não depender só dele: a liberação miofascial complementa uma rotina de mobilidade e fortalecimento, não substitui os exercícios ativos.
 
 ## Sinais de que vale buscar avaliação
 
-Se uma região específica está sempre tensa, mesmo com uso regular do rolo, ou se aparece dor que incomoda fora da sessão de liberação, isso pode indicar algo além de tensão muscular comum — como um desequilíbrio de movimento, uma sobrecarga repetitiva ou uma lesão em formação. Nesses casos, o rolo de espuma sozinho não resolve a causa, e uma avaliação com fisioterapeuta ajuda a entender o que está gerando aquela tensão persistente e a construir uma conduta mais completa.
+Se uma região específica está sempre tensa, mesmo com uso regular do rolo, ou se aparece dor que incomoda fora da sessão de liberação, isso pode indicar algo além de [tensão muscular](/blog/estresse-tensao-muscular-fisioterapia/) comum — como um desequilíbrio de movimento, uma sobrecarga repetitiva ou uma lesão em formação. Nesses casos, o rolo de espuma sozinho não resolve a causa, e uma avaliação com fisioterapeuta ajuda a entender o que está gerando aquela tensão persistente e a construir uma conduta mais completa.
 
 ## Perguntas frequentes
 

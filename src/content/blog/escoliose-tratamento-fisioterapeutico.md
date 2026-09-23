@@ -64,6 +64,8 @@ Quando o diagnóstico acontece na infância ou adolescência, o envolvimento da 
 
 Vale diferenciar a escoliose estrutural, discutida ao longo deste texto, de uma curvatura funcional ou postural, que pode surgir de forma secundária a uma discrepância de comprimento entre as pernas, a um desequilíbrio muscular ou até a uma dor que faz a pessoa assumir uma postura compensatória. Nesses casos, a curvatura tende a desaparecer ou reduzir significativamente quando a causa de base é corrigida, diferente da escoliose estrutural, que mantém a rotação vertebral mesmo com a correção da postura.
 
+**Leia também:** [Fortalecimento do Core: Base da Saúde da Coluna](/blog/fortalecimento-do-core/), [Mobilidade de coluna torácica: a peça esquecida da postura](/blog/mobilidade-coluna-toracica/) e [Dor lombar: quando a fisioterapia pode ajudar](/blog/dor-lombar-quando-procurar-fisioterapia/).
+
 ---
 
 _Este conteúdo tem propósito educativo. A avaliação e o acompanhamento da escoliose devem sempre envolver profissionais de saúde qualificados, de forma individualizada._

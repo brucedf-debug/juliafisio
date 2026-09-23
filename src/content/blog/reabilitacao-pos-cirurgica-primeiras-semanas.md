@@ -54,6 +54,8 @@ Embora algum desconforto seja parte esperada do processo, alguns sinais indicam 
 
 **Vale continuar os exercícios prescritos mesmo depois da alta da fisioterapia?** Sim, manter uma rotina de fortalecimento e mobilidade, mesmo depois do acompanhamento formal terminar, ajuda a consolidar os ganhos obtidos e a prevenir novas lesões na região operada a longo prazo, mantendo os resultados conquistados durante toda a reabilitação.
 
+**Leia também:** [Fisioterapia após prótese de joelho: etapas da recuperação](/blog/fisioterapia-protese-de-joelho/), [Fisioterapia Após Prótese de Quadril: Retomando a Marcha](/blog/fisioterapia-protese-de-quadril/) e [Lesão no Ligamento Cruzado Anterior (LCA): Tratamento](/blog/lesao-ligamento-cruzado-anterior-lca/).
+
 ---
 
 _As informações deste artigo têm fins educativos. O protocolo de reabilitação após uma cirurgia deve ser sempre definido em conjunto com o cirurgião e o fisioterapeuta responsáveis pelo caso._

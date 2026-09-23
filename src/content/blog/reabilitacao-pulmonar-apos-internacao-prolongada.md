@@ -44,6 +44,8 @@ Além do trabalho físico, é comum que pacientes que passaram por internações
 
 **A reabilitação pulmonar ajuda mesmo em quem tem outras doenças respiratórias crônicas associadas?** Sim, o programa costuma ser adaptado para considerar condições prévias, como DPOC ou asma, e continua trazendo benefícios relevantes de capacidade funcional nesses casos específicos e individualizados.
 
+**Leia também:** [Reabilitação Cardíaca: Fisioterapia Após Infarto](/blog/reabilitacao-cardiaca-apos-infarto-cirurgia/), [Sarcopenia: Prevenção da Perda de Massa Muscular](/blog/sarcopenia-perda-massa-muscular-prevencao/) e [Reabilitação Pós-Cirúrgica: Primeiras Semanas](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/).
+
 ---
 
 _As informações acima são de caráter geral e não substituem a avaliação de uma equipe de saúde, que definirá o plano de reabilitação mais adequado considerando a causa da internação e o estado clínico de cada pessoa._

@@ -16,7 +16,7 @@ Várias mudanças do corpo gestante contribuem, ao mesmo tempo, para a sobrecarg
 
 ## Quando a dor pede atenção redobrada
 
-Na maioria dos casos, a dor lombar da gestação tem caráter mecânico e melhora com orientação adequada. Ainda assim, alguns sinais merecem avaliação sem demora:
+Na maioria dos casos, a [dor lombar](/blog/dor-lombar-quando-procurar-fisioterapia/) da gestação tem caráter mecânico e melhora com orientação adequada. Ainda assim, alguns sinais merecem avaliação sem demora:
 
 - Dor muito intensa, de início súbito, ou que não melhora em nenhuma posição.
 - Dor associada a contrações regulares, sangramento ou perda de líquido.
@@ -65,6 +65,8 @@ Algumas mudanças simples de postura trazem alívio imediato para muitas gestant
 **Sapato com salto piora a dor lombar gestacional?** Costuma piorar, sim. O salto altera ainda mais o centro de gravidade já deslocado pela barriga, exigindo mais compensação da lombar. Calçados baixos, estáveis e com bom amortecimento tendem a ser mais confortáveis ao longo da gestação.
 
 **Bola suíça ajuda a aliviar a dor lombar na gravidez?** Pode ajudar bastante, tanto para exercícios de mobilidade pélvica quanto simplesmente para sentar em alguns momentos do dia, já que estimula pequenos ajustes posturais que aliviam a sobrecarga estática da lombar.
+
+**Leia também:** [Dor na Articulação Sacroilíaca: Causas e Tratamento](/blog/dor-articulacao-sacroiliaca/) e [Fortalecimento do Core: Base da Saúde da Coluna](/blog/fortalecimento-do-core/).
 
 ---
 

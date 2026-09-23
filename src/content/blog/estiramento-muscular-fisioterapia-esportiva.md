@@ -40,7 +40,7 @@ O tratamento acompanha a evolução biológica da cicatrização, e pular etapas
 
 ## Por que a volta ao esporte precisa seguir critérios, não apenas o calendário
 
-Um dos maiores equívocos é definir o retorno ao esporte por um número fixo de semanas, ignorando como o tecido realmente está respondendo. A musculatura pode parecer recuperada no dia a dia e ainda não tolerar a demanda de um sprint máximo ou de uma mudança brusca de direção. Por isso, a fisioterapia usa critérios funcionais — como força comparada ao lado saudável, ausência de dor em testes específicos e qualidade do movimento sob fadiga — para liberar o retorno com segurança. Essa abordagem reduz de forma significativa o risco de reincidência, que é bem maior nas primeiras semanas após a volta ao esporte.
+Um dos maiores equívocos é definir o [retorno ao esporte](/blog/fisioterapia-esportiva-prevencao-lesoes/) por um número fixo de semanas, ignorando como o tecido realmente está respondendo. A musculatura pode parecer recuperada no dia a dia e ainda não tolerar a demanda de um sprint máximo ou de uma mudança brusca de direção. Por isso, a fisioterapia usa critérios funcionais — como força comparada ao lado saudável, ausência de dor em testes específicos e qualidade do movimento sob fadiga — para liberar o retorno com segurança. Essa abordagem reduz de forma significativa o risco de reincidência, que é bem maior nas primeiras semanas após a volta ao esporte.
 
 ## Perguntas frequentes
 
@@ -59,6 +59,8 @@ Entre todos os grupos musculares, os isquiotibiais (a musculatura posterior da c
 ## Sinais de que a lesão pode ser mais grave
 
 Alguns sinais sugerem uma lesão de grau mais alto e justificam avaliação médica com mais urgência: um "estalo" ou sensação de rompimento no momento da lesão, incapacidade quase total de contrair o músculo em seguida, hematoma extenso que aparece rapidamente, ou uma deformidade visível no contorno do músculo. Esses sinais podem indicar uma ruptura completa (grau III), que em alguns casos específicos pode exigir avaliação para reparo cirúrgico, especialmente em atletas de alto rendimento ou quando o tendão está envolvido.
+
+**Leia também:** [Rotina de Aquecimento de 5 Minutos Antes do Treino](/blog/rotina-de-aquecimento-5-minutos/) e [Alongar Antes ou Depois do Treino? Diz a Fisioterapia](/blog/alongamento-antes-ou-depois-do-treino/).
 
 ---
 

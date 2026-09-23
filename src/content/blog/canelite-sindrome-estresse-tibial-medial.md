@@ -60,6 +60,8 @@ A canelite tende a responder bem quando identificada cedo e tratada com paciênc
 
 **Correr em superfícies mais macias ajuda?** Sim, pode reduzir o impacto acumulado enquanto os tecidos se recuperam, mas essa mudança deve ser vista como parte de uma estratégia mais ampla, junto do fortalecimento e do ajuste de volume, não como solução isolada.
 
+**Leia também:** [Fascite Plantar: Dor no Calcanhar pela Manhã](/blog/fascite-plantar-dor-no-calcanhar/), [Corrida e Dor no Joelho: Síndrome Patelofemoral](/blog/corrida-dor-no-joelho-sindrome-patelofemoral/) e [Mobilidade de tornozelo: por que ela afeta todo o corpo](/blog/mobilidade-de-tornozelo/).
+
 ---
 
 *Este texto tem caráter educativo e não substitui uma avaliação individual com um fisioterapeuta, que poderá investigar a causa exata da dor e orientar a conduta mais segura para cada corredor.*

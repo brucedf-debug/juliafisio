@@ -12,7 +12,7 @@ O termo "tech neck" descreve algo que praticamente todo mundo faz várias vezes 
 
 ## Por que essa posição sobrecarrega tanto
 
-A cabeça humana pesa, em média, entre 4,5 e 5,5 kg na posição neutra. Quando ela se inclina para frente, a carga que a coluna cervical precisa sustentar aumenta de forma progressiva — quanto maior a inclinação, maior a sobrecarga sobre os músculos e as vértebras do pescoço.
+A cabeça humana pesa, em média, entre 4,5 e 5,5 kg na posição neutra. Quando ela se inclina para frente, a carga que a [coluna cervical](/blog/mobilidade-de-coluna-cervical-exercicios/) precisa sustentar aumenta de forma progressiva — quanto maior a inclinação, maior a sobrecarga sobre os músculos e as vértebras do pescoço.
 
 O problema não é olhar o celular uma vez. É manter essa postura por minutos seguidos, várias vezes ao dia, sem alternância — o que mantém a musculatura cervical e dos ombros em tensão constante.
 
@@ -29,7 +29,7 @@ O problema não é olhar o celular uma vez. É manter essa postura por minutos s
 
 O tratamento normalmente combina três frentes: liberação da tensão acumulada na musculatura cervical e dos trapézios, fortalecimento dos músculos flexores profundos do pescoço — que ajudam a sustentar a cabeça em posição neutra — e orientação postural específica para o uso de telas.
 
-Pequenos ajustes práticos também fazem diferença: erguer o celular na altura dos olhos em vez de abaixar a cabeça, fazer pausas curtas a cada 20 ou 30 minutos de uso contínuo e alongar a região cervical algumas vezes ao dia.
+Pequenos ajustes práticos também fazem diferença: erguer o celular na altura dos olhos em vez de abaixar a cabeça, fazer [pausas](/blog/pausas-ativas-ler-dort-trabalho/) curtas a cada 20 ou 30 minutos de uso contínuo e alongar a região cervical algumas vezes ao dia.
 
 ## Um hábito moderno, uma solução simples
 
@@ -41,7 +41,7 @@ Um detalhe que passa despercebido é que a sobrecarga do tech neck não vem de u
 
 ## Diferença entre tech neck e outras causas de dor cervical
 
-Embora o tech neck seja uma das causas mais comuns de dor no pescoço atualmente, vale lembrar que nem toda cervicalgia tem essa origem. Traumas, alterações estruturais da coluna e tensão relacionada ao estresse emocional também provocam sintomas parecidos, e por isso a avaliação fisioterapêutica é importante para confirmar se o padrão postural do uso de telas é, de fato, o principal fator por trás da dor de cada pessoa, ou se existem outros elementos que também precisam ser trabalhados.
+Embora o tech neck seja uma das causas mais comuns de dor no pescoço atualmente, vale lembrar que nem toda [cervicalgia](/blog/dor-no-pescoco-cervicalgia/) tem essa origem. Traumas, alterações estruturais da coluna e tensão relacionada ao estresse emocional também provocam sintomas parecidos, e por isso a avaliação fisioterapêutica é importante para confirmar se o padrão postural do uso de telas é, de fato, o principal fator por trás da dor de cada pessoa, ou se existem outros elementos que também precisam ser trabalhados.
 
 ## Perguntas frequentes
 

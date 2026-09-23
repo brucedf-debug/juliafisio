@@ -16,7 +16,7 @@ Trata-se de um programa que combina exercício físico supervisionado, controle 
 
 ## As fases do tratamento
 
-O processo costuma ser dividido em etapas. Ainda no hospital, logo após o evento ou a cirurgia, o trabalho é de mobilização precoce — sentar, ficar em pé, dar os primeiros passos — para evitar os efeitos do repouso prolongado no leito sem sobrecarregar o coração. Depois da alta, entra a fase ambulatorial, geralmente a mais estruturada, com sessões supervisionadas de exercício aeróbico e fortalecimento, sinais vitais monitorados a cada sessão e progressão de carga combinada com a resposta do organismo. Por fim, há uma fase de manutenção, em que a pessoa já assimilou os limites seguros e ganha mais autonomia para manter a atividade física no longo prazo.
+O processo costuma ser dividido em etapas. Ainda no hospital, logo após o evento ou a [cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/), o trabalho é de mobilização precoce — sentar, ficar em pé, dar os primeiros passos — para evitar os efeitos do repouso prolongado no leito sem sobrecarregar o coração. Depois da alta, entra a fase ambulatorial, geralmente a mais estruturada, com sessões supervisionadas de exercício aeróbico e fortalecimento, sinais vitais monitorados a cada sessão e progressão de carga combinada com a resposta do organismo. Por fim, há uma fase de manutenção, em que a pessoa já assimilou os limites seguros e ganha mais autonomia para manter a atividade física no longo prazo.
 
 ## Como os exercícios são dosados com segurança
 
@@ -30,9 +30,9 @@ Os ganhos da reabilitação cardíaca não se limitam à musculatura cardíaca. 
 
 ## Perguntas frequentes
 
-**Quanto tempo depois do infarto posso começar a reabilitação cardíaca?** Varia conforme a gravidade do evento e a liberação médica, mas a mobilização inicial costuma começar ainda durante a internação, e a fase ambulatorial geralmente é iniciada poucas semanas após a alta.
+**Quanto tempo depois do infarto posso começar a reabilitação cardíaca?** Varia conforme a gravidade do evento e a liberação médica, mas a mobilização inicial costuma começar ainda durante a [internação](/blog/reabilitacao-pulmonar-apos-internacao-prolongada/), e a fase ambulatorial geralmente é iniciada poucas semanas após a alta.
 
-**É seguro fazer exercício depois de um infarto?** Sim, quando conduzido dentro de um programa supervisionado, com os parâmetros de segurança adequados a cada pessoa. Na verdade, o sedentarismo após o evento cardíaco costuma representar um risco maior do que o exercício bem dosado.
+**É seguro fazer exercício depois de um infarto?** Sim, quando conduzido dentro de um programa supervisionado, com os parâmetros de segurança adequados a cada pessoa. Na verdade, o [sedentarismo](/blog/sedentarismo-efeitos-e-fisioterapia/) após o evento cardíaco costuma representar um risco maior do que o exercício bem dosado.
 
 **A reabilitação cardíaca substitui a medicação?** Não. Ela complementa o tratamento médico, incluindo o uso de medicações prescritas, e ajuda a reduzir fatores de risco associados, mas não substitui nenhuma orientação médica em curso.
 

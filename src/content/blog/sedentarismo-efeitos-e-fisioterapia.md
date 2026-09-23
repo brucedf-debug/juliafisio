@@ -47,7 +47,7 @@ Uma estratégia que vem ganhando respaldo é a ideia de que movimento espalhado 
 
 ## Perguntas frequentes
 
-**Malhar uma vez por dia compensa ficar sentado o resto do tempo?** Ajuda bastante, mas não compensa totalmente. A combinação de exercício estruturado com pausas regulares ao longo do dia costuma trazer resultados mais completos do que apenas uma sessão intensa isolada.
+**Malhar uma vez por dia compensa ficar sentado o resto do tempo?** Ajuda bastante, mas não compensa totalmente. A combinação de exercício estruturado com [pausas](/blog/pausas-ativas-ler-dort-trabalho/) regulares ao longo do dia costuma trazer resultados mais completos do que apenas uma sessão intensa isolada.
 
 **Quanto tempo sentado já é considerado prejudicial?** Não existe um número exato, mas períodos contínuos acima de uma hora, sem nenhuma pausa, já começam a gerar os efeitos discutidos aqui, o que reforça a importância de quebrar esses blocos regularmente.
 
@@ -56,6 +56,8 @@ Uma estratégia que vem ganhando respaldo é a ideia de que movimento espalhado 
 **Fortalecimento resolve os efeitos do sedentarismo mais rápido que caminhada?** Os dois têm papéis complementares — o fortalecimento ataca diretamente o enfraquecimento muscular, enquanto a caminhada contribui para a circulação e o condicionamento geral, e juntos trazem um resultado mais completo para a saúde musculoesquelética a longo prazo.
 
 **Sedentarismo tem cura ou só melhora com o tempo?** Não é uma "doença" no sentido tradicional, mas seus efeitos são reversíveis na maior parte dos casos, com resposta positiva do corpo já nas primeiras semanas de mudança de rotina.
+
+**Leia também:** [Exercício Físico e Saúde Mental: Como o Movimento Ajuda no Manejo da Ansiedade](/blog/exercicio-fisico-saude-mental/) e [Sarcopenia: Prevenção da Perda de Massa Muscular](/blog/sarcopenia-perda-massa-muscular-prevencao/).
 
 ---
 

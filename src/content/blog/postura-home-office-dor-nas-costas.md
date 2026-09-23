@@ -29,7 +29,7 @@ Não é preciso montar um escritório profissional para melhorar bastante a post
 
 ## O hábito que importa mais que a cadeira ideal
 
-Mesmo com a postura perfeita, ficar parado na mesma posição por horas sobrecarrega qualquer estrutura do corpo. Pausas curtas e frequentes — levantar, alongar, caminhar alguns passos a cada 40 ou 50 minutos — costumam ter mais impacto na prevenção da dor do que o modelo exato da cadeira.
+Mesmo com a postura perfeita, ficar parado na mesma posição por horas sobrecarrega qualquer estrutura do corpo. [Pausas](/blog/pausas-ativas-ler-dort-trabalho/) curtas e frequentes — levantar, alongar, caminhar alguns passos a cada 40 ou 50 minutos — costumam ter mais impacto na prevenção da dor do que o modelo exato da cadeira.
 
 ## Quando os ajustes não são suficientes
 
@@ -41,7 +41,7 @@ Um padrão específico do home office que vale atenção é a tendência de fica
 
 ## Cadeira de escritório é sempre necessária?
 
-Uma dúvida comum é se realmente é preciso investir em uma cadeira ergonômica cara para evitar dor nas costas. A resposta costuma ser mais equilibrada do que parece: uma boa cadeira ajuda, mas não é a única variável, e cadeiras comuns bem ajustadas — com apoio lombar improvisado e altura adequada em relação à mesa — já reduzem boa parte do problema. O fator que mais pesa, na prática, continua sendo a frequência das pausas e a variação de postura ao longo do dia, não apenas o modelo específico do móvel.
+Uma dúvida comum é se realmente é preciso investir em uma cadeira ergonômica cara para evitar [dor nas costas](/blog/dor-lombar-quando-procurar-fisioterapia/). A resposta costuma ser mais equilibrada do que parece: uma boa cadeira ajuda, mas não é a única variável, e cadeiras comuns bem ajustadas — com apoio lombar improvisado e altura adequada em relação à mesa — já reduzem boa parte do problema. O fator que mais pesa, na prática, continua sendo a frequência das pausas e a variação de postura ao longo do dia, não apenas o modelo específico do móvel.
 
 ## Perguntas frequentes
 

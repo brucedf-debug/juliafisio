@@ -25,7 +25,7 @@ Durante o sono profundo, o corpo realiza processos importantes de reparo tecidua
 O fisioterapeuta não trata o sono diretamente, mas atua em fatores que impactam tanto a dor quanto a qualidade do descanso:
 
 1. **Redução da tensão muscular** acumulada ao longo do dia, que frequentemente atrapalha o relaxamento na hora de dormir.
-2. **Orientação de posturas de sono** mais adequadas para cada tipo de dor, especialmente em quadros de dor lombar ou cervical.
+2. **Orientação de posturas de sono** mais adequadas para cada tipo de dor, especialmente em quadros de [dor lombar](/blog/dor-lombar-quando-procurar-fisioterapia/) ou cervical.
 3. **Exercícios terapêuticos regulares**, que têm efeito comprovado na redução da sensibilidade à dor e na melhora indireta do sono.
 
 ![Fisioterapeuta conversando com paciente sobre manejo de dor crônica](../../assets/physio-sono-dor-inline.jpg)
@@ -40,7 +40,7 @@ Algumas mudanças na rotina noturna, combinadas ao tratamento fisioterapêutico,
 
 ## Quando o problema pode ir além da dor física
 
-Em alguns casos, a dificuldade para dormir associada à dor crônica está entrelaçada com quadros de ansiedade ou até insônia já estabelecida como um problema à parte, que se alimenta tanto da dor quanto de outros fatores emocionais. Nessas situações, o acompanhamento fisioterapêutico sozinho pode não ser suficiente, e uma avaliação médica ou psicológica complementar ajuda a tratar o quadro de forma mais completa, em vez de focar apenas no componente físico da equação.
+Em alguns casos, a dificuldade para dormir associada à dor crônica está entrelaçada com quadros de [ansiedade](/blog/exercicio-fisico-saude-mental/) ou até insônia já estabelecida como um problema à parte, que se alimenta tanto da dor quanto de outros fatores emocionais. Nessas situações, o acompanhamento fisioterapêutico sozinho pode não ser suficiente, e uma avaliação médica ou psicológica complementar ajuda a tratar o quadro de forma mais completa, em vez de focar apenas no componente físico da equação.
 
 ## Perguntas frequentes
 

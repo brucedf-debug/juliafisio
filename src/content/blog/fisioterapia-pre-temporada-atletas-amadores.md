@@ -46,13 +46,15 @@ Um grupo que merece atenção especial é o de quem ficou meses sem treinar — 
 
 ## Perguntas frequentes
 
-**Avaliação pré-temporada substitui o acompanhamento médico?** Não. Ela complementa o cuidado médico, focando especificamente na análise funcional do movimento e na prevenção de lesões musculoesqueléticas, enquanto questões clínicas gerais seguem sendo acompanhadas pelo médico do esporte ou clínico geral.
+**Avaliação pré-temporada substitui o acompanhamento médico?** Não. Ela complementa o cuidado médico, focando especificamente na análise funcional do movimento e na [prevenção de lesões](/blog/fisioterapia-esportiva-prevencao-lesoes/) musculoesqueléticas, enquanto questões clínicas gerais seguem sendo acompanhadas pelo médico do esporte ou clínico geral.
 
 **Vale a pena repetir a avaliação a cada temporada?** Sim. O corpo muda com o tempo, e uma avaliação desatualizada pode não capturar fragilidades novas, especialmente após lesões, mudanças de rotina de treino ou longos períodos de inatividade entre uma temporada e outra.
 
 ## O que levar para a primeira avaliação
 
 Para aproveitar melhor a consulta, vale levar informações sobre o histórico recente de treino (frequência, modalidades praticadas, volume aproximado), qualquer lesão anterior mesmo que já resolvida, e uma ideia clara dos objetivos da temporada — seja completar uma prova específica, melhorar o desempenho ou simplesmente treinar com mais regularidade sem se machucar. Esses detalhes ajudam o fisioterapeuta a direcionar a avaliação e montar um plano de preparação realista, alinhado com o tempo e a disponibilidade que a pessoa realmente tem para se dedicar aos exercícios prescritos. Quanto mais completa essa conversa inicial, mais preciso tende a ser o plano montado nas semanas seguintes, especialmente quando o histórico envolve lesões antigas que exigem atenção redobrada durante toda a fase de preparação para a nova temporada.
+
+**Leia também:** [Rotina de Aquecimento de 5 Minutos Antes do Treino](/blog/rotina-de-aquecimento-5-minutos/) e [Fortalecimento do Core: Base da Saúde da Coluna](/blog/fortalecimento-do-core/).
 
 ---
 

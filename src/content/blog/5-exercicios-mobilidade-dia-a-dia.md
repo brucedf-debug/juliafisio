@@ -17,11 +17,11 @@ Separei uma rotina curta, que pode ser feita em casa, sem equipamentos, em cerca
 Apoie mãos e joelhos no chão. Leve uma mão até a nuca e gire o tronco, levando o cotovelo em direção ao teto, acompanhando o olhar. Retorne e repita do outro lado.
 
 - 2 séries de 8 repetições para cada lado.
-- Ajuda a destravar a coluna torácica, frequentemente rígida em quem trabalha sentado.
+- Ajuda a destravar a [coluna torácica](/blog/mobilidade-coluna-toracica/), frequentemente rígida em quem trabalha sentado.
 
 ## 2. Mobilidade de quadril "90/90"
 
-Sentado no chão, dobre as duas pernas formando um ângulo de aproximadamente 90 graus, uma para cada lado. Alterne a rotação do quadril de um lado para o outro, mantendo o tronco ereto.
+Sentado no chão, dobre as duas pernas formando um ângulo de aproximadamente 90 graus, uma para cada lado. Alterne a rotação do [quadril](/blog/mobilidade-de-quadril-exercicios/) de um lado para o outro, mantendo o tronco ereto.
 
 - 2 séries de 6 repetições para cada lado.
 - Excelente para quadris travados por excesso de tempo sentado.
@@ -31,7 +31,7 @@ Sentado no chão, dobre as duas pernas formando um ângulo de aproximadamente 90
 Faça um agachamento controlado e, no ponto mais baixo confortável, faça uma pausa de 2 a 3 segundos antes de subir.
 
 - 3 séries de 8 repetições.
-- Trabalha mobilidade de tornozelo, joelho e quadril ao mesmo tempo.
+- Trabalha [mobilidade de tornozelo](/blog/mobilidade-de-tornozelo/), joelho e quadril ao mesmo tempo.
 
 ## 4. Gato-camelo
 

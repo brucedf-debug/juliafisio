@@ -19,7 +19,7 @@ A região lombar é feita para se mover em várias direções — flexionar, est
 Alguns indícios mostram que a mobilidade lombar já está reduzida:
 
 - Sensação de rigidez ao levantar da cama ou de uma cadeira após ficar muito tempo na mesma posição.
-- Dificuldade de girar o tronco sem também girar o quadril inteiro.
+- Dificuldade de girar o tronco sem também girar o [quadril](/blog/mobilidade-de-quadril-exercicios/) inteiro.
 - Desconforto ao se curvar para amarrar o sapato ou pegar algo baixo.
 - Necessidade de "estalar" a lombar com frequência para sentir alívio.
 
@@ -38,7 +38,7 @@ Alguns movimentos simples, feitos com regularidade, ajudam a recuperar essa mobi
 
 ## Mobilidade e estabilidade caminham juntas
 
-Ganhar amplitude na lombar não substitui o trabalho de fortalecimento — os dois se complementam. Uma lombar móvel, mas sem controle muscular, fica tão vulnerável quanto uma lombar forte e travada: sem mobilidade, a coluna concentra a carga em poucos pontos; sem estabilidade, ela se move além do que a musculatura consegue sustentar com segurança. O ideal é alternar exercícios de mobilidade com exercícios de fortalecimento do core ao longo da semana, respeitando o ritmo de cada corpo.
+Ganhar amplitude na lombar não substitui o trabalho de fortalecimento — os dois se complementam. Uma lombar móvel, mas sem controle muscular, fica tão vulnerável quanto uma lombar forte e travada: sem mobilidade, a coluna concentra a carga em poucos pontos; sem estabilidade, ela se move além do que a musculatura consegue sustentar com segurança. O ideal é alternar exercícios de mobilidade com exercícios de [fortalecimento do core](/blog/fortalecimento-do-core/) ao longo da semana, respeitando o ritmo de cada corpo.
 
 Quando a rigidez lombar vem acompanhada de dor que não melhora com esses exercícios, ou quando surge de forma súbita, o caminho mais seguro é buscar uma avaliação fisioterapêutica. Ela identifica se a limitação é puramente muscular ou se há outro fator envolvido, e orienta uma rotina de exercícios ajustada à realidade de cada pessoa.
 

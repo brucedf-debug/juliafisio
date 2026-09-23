@@ -36,7 +36,7 @@ A recuperação completa após uma fratura de fêmur costuma ser mais longa do q
 
 ## Prevenção de uma nova fratura
 
-Como grande parte das fraturas de fêmur em pessoas mais velhas está associada a quedas, a reabilitação não termina quando a marcha é reestabelecida — ela se estende para um trabalho contínuo de prevenção. Isso envolve fortalecimento muscular de manutenção, treino regular de equilíbrio e, muitas vezes, orientações sobre adaptações no ambiente doméstico, como remover tapetes soltos e melhorar a iluminação de corredores e escadas. Sem essa continuidade, o risco de uma nova queda — e, consequentemente, de uma nova fratura — permanece elevado mesmo depois que a pessoa já está caminhando novamente sem apoio.
+Como grande parte das fraturas de fêmur em pessoas mais velhas está associada a [quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/), a reabilitação não termina quando a marcha é reestabelecida — ela se estende para um trabalho contínuo de prevenção. Isso envolve fortalecimento muscular de manutenção, treino regular de equilíbrio e, muitas vezes, orientações sobre adaptações no ambiente doméstico, como remover tapetes soltos e melhorar a iluminação de corredores e escadas. Sem essa continuidade, o risco de uma nova queda — e, consequentemente, de uma nova fratura — permanece elevado mesmo depois que a pessoa já está caminhando novamente sem apoio.
 
 ## O impacto da idade na velocidade de recuperação
 
@@ -51,6 +51,8 @@ A idade influencia diretamente o ritmo da reabilitação após uma fratura de f�
 **Quais exercícios costumam ser mais indicados nessa fase de fortalecimento?** Exercícios de fortalecimento de quadril e coxa, treino de equilíbrio em superfícies estáveis e instáveis, e treino funcional de subir e descer degraus costumam compor essa fase, sempre progredindo conforme a resposta individual do paciente.
 
 **Uma pessoa que já teve fratura de fêmur pode voltar a fazer atividades físicas regulares?** Sim, na maioria dos casos, especialmente com uma reabilitação bem conduzida. Atividades de baixo impacto, como caminhada, hidroginástica e fortalecimento orientado, costumam ser bem toleradas e recomendadas como parte da manutenção a longo prazo, sempre respeitando a evolução individual de cada pessoa e o histórico de saúde prévio ao evento da fratura, sempre com acompanhamento profissional regular.
+
+**Leia também:** [Fisioterapia Após Prótese de Quadril: Retomando a Marcha](/blog/fisioterapia-protese-de-quadril/) e [Saúde Óssea: Exercício Físico na Prevenção da Osteoporose](/blog/saude-ossea-exercicio-prevencao-osteoporose/).
 
 ---
 

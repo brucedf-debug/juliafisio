@@ -53,6 +53,8 @@ Além do papel postural, a coluna torácica participa diretamente da mecânica r
 
 **Trabalhar de pé em vez de sentado resolve o problema?** Ajuda a variar a postura ao longo do dia, mas não resolve sozinho — ficar parado em pé por longos períodos também pode gerar rigidez, e o mais importante costuma ser alternar posições com frequência.
 
+**Leia também:** [Mobilidade de coluna cervical: exercícios para um pescoço mais leve](/blog/mobilidade-de-coluna-cervical-exercicios/), [Mobilidade da coluna lombar: exercícios para uma lombar mais livre no dia a dia](/blog/mobilidade-de-coluna-lombar-exercicios/) e [Mobilidade de Ombro: Exercícios de Prevenção](/blog/mobilidade-de-ombro-exercicios/).
+
 ---
 
 _Este texto tem fins educativos. A avaliação individual com um fisioterapeuta é o caminho mais seguro para identificar a causa real de uma dor persistente._

@@ -12,7 +12,7 @@ heroImageAlt: 'Fisioterapeuta realizando teste de elevação da perna estendida 
 
 ## O que é o músculo piriforme e por que ele incomoda
 
-O piriforme é um músculo pequeno e profundo, localizado na região do glúteo, logo abaixo dos glúteos maiores. Sua função é ajudar na rotação externa do quadril — aquele movimento de "abrir" a perna para o lado. O detalhe anatômico que torna esse músculo relevante é sua proximidade com o nervo ciático: na maioria das pessoas, o nervo passa logo abaixo do piriforme, mas em algumas ele atravessa o próprio músculo ou se divide ao seu redor. Quando o piriforme fica tenso, encurtado ou em espasmo, pode comprimir ou irritar o nervo ciático nesse ponto, gerando sintomas muito parecidos com os de uma hérnia de disco.
+O piriforme é um músculo pequeno e profundo, localizado na região do glúteo, logo abaixo dos glúteos maiores. Sua função é ajudar na rotação externa do quadril — aquele movimento de "abrir" a perna para o lado. O detalhe anatômico que torna esse músculo relevante é sua proximidade com o [nervo ciático](/blog/ciatica-sintomas-causas-tratamento/): na maioria das pessoas, o nervo passa logo abaixo do piriforme, mas em algumas ele atravessa o próprio músculo ou se divide ao seu redor. Quando o piriforme fica tenso, encurtado ou em espasmo, pode comprimir ou irritar o nervo ciático nesse ponto, gerando sintomas muito parecidos com os de uma hérnia de disco.
 
 ## Como diferenciar da ciática de origem na coluna
 
@@ -30,7 +30,7 @@ Como os dois quadros podem coexistir ou se confundir, a avaliação física — 
 A síndrome do piriforme costuma surgir de uma combinação de fatores, entre eles:
 
 1. **Longos períodos sentado**, que mantêm o músculo encurtado e comprimido contra a superfície de apoio.
-2. **Assimetrias na forma de correr ou caminhar**, sobrecarregando um dos lados do quadril.
+2. **Assimetrias na forma de correr ou caminhar**, sobrecarregando um dos lados do [quadril](/blog/mobilidade-de-quadril-exercicios/).
 3. **Fortalecimento insuficiente dos glúteos**, fazendo o piriforme compensar funções que não deveriam ser dele.
 4. **Trauma direto na região**, como uma queda sentada, que pode deixar o músculo mais reativo por um tempo.
 
@@ -50,7 +50,7 @@ Na maioria dos casos, esse conjunto de medidas traz alívio significativo em pou
 
 ## Perguntas frequentes
 
-**A síndrome do piriforme pode ser confirmada por exame de imagem?** Não de forma direta. Ressonância e tomografia ajudam principalmente a descartar outras causas, como hérnia de disco, já que a síndrome do piriforme é um diagnóstico predominantemente clínico, baseado no exame físico.
+**A síndrome do piriforme pode ser confirmada por exame de imagem?** Não de forma direta. Ressonância e tomografia ajudam principalmente a descartar outras causas, como [hérnia de disco](/blog/hernia-de-disco-tratamento-sem-cirurgia/), já que a síndrome do piriforme é um diagnóstico predominantemente clínico, baseado no exame físico.
 
 **Correr pode causar síndrome do piriforme?** Pode contribuir, especialmente em corredores com fraqueza de glúteos ou assimetrias de passada, que sobrecarregam o piriforme para compensar a instabilidade do quadril durante a corrida.
 

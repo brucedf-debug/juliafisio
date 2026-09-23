@@ -12,7 +12,7 @@ A entorse de tornozelo é uma das lesões mais comuns na prática esportiva — 
 
 ## O que fazer nas primeiras horas
 
-Nas primeiras 48 a 72 horas após a entorse, o cuidado costuma seguir alguns princípios simples: proteger a articulação de novos estresses, evitar repouso absoluto (movimento controlado é melhor que imobilidade total), aplicar gelo por períodos curtos para ajudar no controle da dor e do inchaço, e manter o tornozelo elevado quando possível. Uma avaliação fisioterapêutica logo nesse início ajuda a dimensionar a gravidade da lesão e orientar os próximos passos.
+Nas primeiras 48 a 72 horas após a entorse, o cuidado costuma seguir alguns princípios simples: proteger a articulação de novos estresses, evitar repouso absoluto (movimento controlado é melhor que imobilidade total), aplicar gelo por períodos curtos para ajudar no controle da dor e do inchaço, e manter o [tornozelo](/blog/mobilidade-de-tornozelo/) elevado quando possível. Uma avaliação fisioterapêutica logo nesse início ajuda a dimensionar a gravidade da lesão e orientar os próximos passos.
 
 ## Por que "esperar passar" não é suficiente
 
@@ -51,7 +51,7 @@ Essa etapa costuma ser a mais negligenciada em reabilitações feitas sem acompa
 
 **Quanto tempo leva para voltar ao esporte após uma entorse?** Varia conforme a gravidade, mas entorses leves a moderadas, com reabilitação completa, costumam permitir retorno em 3 a 6 semanas. Casos mais graves podem levar de 2 a 3 meses.
 
-**Preciso usar tornozeleira depois da entorse?** Em alguns casos, principalmente no retorno ao esporte, uma órtese ou bandagem funcional pode dar suporte extra enquanto a estabilidade é reconquistada — mas ela não substitui o fortalecimento e o treino de propriocepção.
+**Preciso usar tornozeleira depois da entorse?** Em alguns casos, principalmente no [retorno ao esporte](/blog/fisioterapia-esportiva-prevencao-lesoes/), uma órtese ou bandagem funcional pode dar suporte extra enquanto a estabilidade é reconquistada — mas ela não substitui o fortalecimento e o treino de propriocepção.
 
 **Entorses recorrentes têm solução?** Sim. Na maioria das vezes, entorses recorrentes indicam que uma reabilitação anterior ficou incompleta. Retomar o processo com foco em propriocepção e fortalecimento costuma reduzir bastante a recorrência.
 

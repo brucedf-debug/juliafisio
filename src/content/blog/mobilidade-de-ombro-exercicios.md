@@ -28,7 +28,7 @@ Boa parte da rigidez de ombro está ligada à postura mantida por longos períod
 
 Alongar o ombro ajuda a ganhar amplitude, mas não substitui o fortalecimento da musculatura escapular — os músculos ao redor da omoplata que estabilizam o movimento do braço. Um ombro móvel, porém instável, tende a compensar de forma inadequada durante esforços, o que pode gerar desconforto a médio prazo.
 
-Por isso, uma rotina completa de cuidado com o ombro combina exercícios de mobilidade com fortalecimento leve da musculatura estabilizadora, algo que um fisioterapeuta pode ajustar conforme a necessidade de cada pessoa.
+Por isso, uma rotina completa de cuidado com o ombro combina [exercícios de mobilidade](/blog/5-exercicios-mobilidade-dia-a-dia/) com fortalecimento leve da musculatura estabilizadora, algo que um fisioterapeuta pode ajustar conforme a necessidade de cada pessoa.
 
 ## Sinais de que vale buscar avaliação
 
@@ -53,6 +53,8 @@ Quem trabalha muitas horas diante do computador tende a desenvolver um padrão e
 **Nadar ajuda a melhorar a mobilidade do ombro?** Sim, a natação trabalha o ombro em uma amplitude ampla e com resistência da água, o que costuma contribuir tanto para mobilidade quanto para fortalecimento, desde que a técnica do nado seja adequada.
 
 **Dá para melhorar a mobilidade do ombro em qualquer idade?** Sim. Embora o processo possa ser um pouco mais lento em idades mais avançadas, a articulação responde bem a estímulos regulares de movimento em praticamente qualquer fase da vida.
+
+**Leia também:** [Tendinite no ombro do nadador: causas e prevenção](/blog/tendinite-ombro-do-nadador/) e [Reabilitação de ombro após lesão do manguito rotador](/blog/reabilitacao-ombro-manguito-rotador/).
 
 ---
 

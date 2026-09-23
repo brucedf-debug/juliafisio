@@ -29,15 +29,15 @@ A fisioterapia não resolve as causas do estresse, mas atua diretamente sobre su
 - **Liberação miofascial e técnicas manuais**, que ajudam a reduzir a tensão acumulada em pontos específicos, como trapézio, região cervical e mandíbula.
 - **Reeducação postural**, já que a tensão emocional costuma se somar a posturas desfavoráveis mantidas por horas, especialmente diante do computador ou do celular.
 - **Exercícios respiratórios e de relaxamento muscular progressivo**, que ajudam o sistema nervoso a sair do estado de alerta constante.
-- **Orientações de autocuidado** para o dia a dia, como pausas ativas e alongamentos simples que a pessoa consegue manter fora do consultório.
+- **Orientações de autocuidado** para o dia a dia, como [pausas ativas](/blog/pausas-ativas-ler-dort-trabalho/) e alongamentos simples que a pessoa consegue manter fora do consultório.
 
 ## Sinais de que vale a pena buscar ajuda
 
-Dor de cabeça tensional frequente, ombros constantemente "duros", rangido de dentes durante o sono e dor no pescoço que piora em períodos de mais pressão são sinais de que a tensão muscular relacionada ao estresse já está afetando o corpo. Quanto antes esse padrão é identificado, mais simples costuma ser a intervenção — e menor o risco de a dor se tornar um problema crônico e mais difícil de reverter.
+Dor de cabeça tensional frequente, ombros constantemente "duros", rangido de dentes durante o sono e [dor no pescoço](/blog/dor-no-pescoco-cervicalgia/) que piora em períodos de mais pressão são sinais de que a tensão muscular relacionada ao estresse já está afetando o corpo. Quanto antes esse padrão é identificado, mais simples costuma ser a intervenção — e menor o risco de a dor se tornar um problema crônico e mais difícil de reverter.
 
 ## O papel do sono nesse ciclo
 
-Sono ruim e tensão muscular alimentam um ao outro de forma bastante direta. A dor e a rigidez acumuladas ao longo do dia dificultam encontrar uma posição confortável para dormir, e uma noite mal dormida reduz a tolerância do corpo à dor no dia seguinte, tornando a mesma quantidade de tensão muscular mais incômoda do que seria com um sono adequado. Por isso, quando o quadro de tensão muscular relacionada ao estresse é avaliado, perguntas sobre qualidade e duração do sono fazem parte do raciocínio clínico — corrigir apenas a musculatura, sem abordar esse fator, tende a produzir resultados mais instáveis e sujeitos a recaída.
+[Sono ruim](/blog/sono-e-dor-cronica/) e tensão muscular alimentam um ao outro de forma bastante direta. A dor e a rigidez acumuladas ao longo do dia dificultam encontrar uma posição confortável para dormir, e uma noite mal dormida reduz a tolerância do corpo à dor no dia seguinte, tornando a mesma quantidade de tensão muscular mais incômoda do que seria com um sono adequado. Por isso, quando o quadro de tensão muscular relacionada ao estresse é avaliado, perguntas sobre qualidade e duração do sono fazem parte do raciocínio clínico — corrigir apenas a musculatura, sem abordar esse fator, tende a produzir resultados mais instáveis e sujeitos a recaída.
 
 ## Diferença entre tensão pontual e um padrão instalado
 

@@ -12,7 +12,7 @@ A lesão do ligamento cruzado anterior (LCA) é uma das mais temidas por quem pr
 
 ## Cirurgia ou tratamento conservador?
 
-Nem toda lesão de LCA exige cirurgia. A decisão depende de fatores como o nível de instabilidade do joelho, a modalidade esportiva praticada e os objetivos do paciente. Atletas que pretendem voltar a esportes de alto impacto costumam se beneficiar da reconstrução cirúrgica, enquanto pessoas menos ativas podem responder bem a um programa fisioterapêutico bem conduzido, focado em fortalecimento e controle neuromuscular.
+Nem toda lesão de LCA exige [cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/). A decisão depende de fatores como o nível de instabilidade do joelho, a modalidade esportiva praticada e os objetivos do paciente. Atletas que pretendem voltar a esportes de alto impacto costumam se beneficiar da reconstrução cirúrgica, enquanto pessoas menos ativas podem responder bem a um programa fisioterapêutico bem conduzido, focado em fortalecimento e controle neuromuscular.
 
 Em ambos os casos, a fisioterapia é parte central do tratamento — seja preparando o joelho para a cirurgia, seja conduzindo a reabilitação completa sem ela.
 
@@ -31,7 +31,7 @@ Depois da cirurgia (ou no tratamento conservador), a reabilitação segue etapas
 
 Um dos maiores riscos após lesão de LCA não é a lesão original, e sim a recidiva — seja no mesmo joelho, seja no oposto. Isso costuma acontecer quando o atleta retorna ao esporte antes de recuperar força, controle neuromuscular e confiança suficientes, geralmente pressionado pela vontade de competir novamente.
 
-Por isso, o retorno ao esporte costuma se basear em critérios objetivos, como simetria de força entre os membros, desempenho em testes de salto e ausência de compensações durante gestos específicos da modalidade — e não apenas no tempo decorrido desde a cirurgia.
+Por isso, o [retorno ao esporte](/blog/fisioterapia-esportiva-prevencao-lesoes/) costuma se basear em critérios objetivos, como simetria de força entre os membros, desempenho em testes de salto e ausência de compensações durante gestos específicos da modalidade — e não apenas no tempo decorrido desde a cirurgia.
 
 ## O papel do acompanhamento contínuo
 

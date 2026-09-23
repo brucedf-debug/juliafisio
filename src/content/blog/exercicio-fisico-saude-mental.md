@@ -14,11 +14,11 @@ Já é bastante conhecida a ideia de que "exercício faz bem para a cabeça", ma
 
 A atividade física provoca uma série de respostas fisiológicas que vão muito além do músculo que está sendo trabalhado. Durante o exercício, o corpo libera neurotransmissores associados à sensação de bem-estar, reduz a circulação de hormônios ligados ao estresse prolongado e favorece um estado de relaxamento que costuma persistir por horas depois da atividade ter terminado. Some-se a isso o efeito da respiração mais profunda e ritmada que o esforço físico exige, algo que por si só já tem impacto calmante sobre o sistema nervoso.
 
-Outro ponto relevante é a melhora na qualidade do sono associada à prática regular de exercícios, o que reforça um ciclo positivo: dormir melhor ajuda a regular o humor, e um humor mais estável facilita manter a rotina de atividade física.
+Outro ponto relevante é a melhora na [qualidade do sono](/blog/sono-e-dor-cronica/) associada à prática regular de exercícios, o que reforça um ciclo positivo: dormir melhor ajuda a regular o humor, e um humor mais estável facilita manter a rotina de atividade física.
 
 ## Por que o movimento ajuda especificamente na ansiedade
 
-A ansiedade costuma vir acompanhada de uma ativação constante do corpo — coração acelerado, tensão muscular, respiração curta — como se o organismo estivesse sempre em alerta, mesmo sem uma ameaça real presente. O exercício físico oferece uma via de escape natural para essa energia acumulada, permitindo que o corpo complete o ciclo de ativação e relaxamento que muitas vezes fica interrompido no dia a dia.
+A ansiedade costuma vir acompanhada de uma ativação constante do corpo — coração acelerado, [tensão muscular](/blog/estresse-tensao-muscular-fisioterapia/), respiração curta — como se o organismo estivesse sempre em alerta, mesmo sem uma ameaça real presente. O exercício físico oferece uma via de escape natural para essa energia acumulada, permitindo que o corpo complete o ciclo de ativação e relaxamento que muitas vezes fica interrompido no dia a dia.
 
 Além do efeito fisiológico imediato, existe um componente comportamental: dedicar um tempo à atividade física costuma funcionar como uma pausa da ruminação mental, aquele estado de pensamentos repetitivos e preocupantes que alimenta boa parte dos quadros de ansiedade. Concentrar a atenção no movimento, na respiração ou até em um esporte específico dá ao cérebro um respiro dessas preocupações, ainda que temporário.
 
@@ -39,7 +39,7 @@ O fisioterapeuta ajuda a:
 - **Adaptar o tipo e a intensidade do exercício** às condições físicas de cada pessoa, evitando desconforto que desestimule a continuidade.
 - **Progredir a atividade de forma gradual**, construindo confiança no próprio corpo ao longo do tempo.
 - **Identificar sinais de sobrecarga física**, diferenciando o desconforto normal do início de uma rotina daquele que indica a necessidade de ajustes.
-- **Orientar a retomada da atividade** após períodos de afastamento por dor, lesão ou mesmo por episódios mais intensos de ansiedade que levaram ao sedentarismo.
+- **Orientar a retomada da atividade** após períodos de afastamento por dor, lesão ou mesmo por episódios mais intensos de ansiedade que levaram ao [sedentarismo](/blog/sedentarismo-efeitos-e-fisioterapia/).
 
 Esse acompanhamento profissional reduz barreiras físicas que, de outra forma, poderiam impedir que a pessoa aproveitasse os benefícios do movimento sobre o bem-estar mental.
 

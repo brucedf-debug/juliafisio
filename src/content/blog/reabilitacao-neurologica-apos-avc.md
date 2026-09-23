@@ -12,7 +12,7 @@ Um acidente vascular cerebral (AVC) pode afetar movimento, equilíbrio, coordena
 
 ## Por que começar cedo faz diferença
 
-O cérebro tem uma capacidade chamada neuroplasticidade — a habilidade de reorganizar conexões neurais e, em certa medida, "reaprender" movimentos e funções. Estimular essa reorganização de forma precoce, ainda durante a internação ou logo após a alta hospitalar, costuma favorecer melhores resultados funcionais ao longo do tempo.
+O cérebro tem uma capacidade chamada neuroplasticidade — a habilidade de reorganizar conexões neurais e, em certa medida, "reaprender" movimentos e funções. Estimular essa reorganização de forma precoce, ainda durante a [internação](/blog/reabilitacao-pulmonar-apos-internacao-prolongada/) ou logo após a alta hospitalar, costuma favorecer melhores resultados funcionais ao longo do tempo.
 
 Nas primeiras fases, o trabalho costuma envolver:
 
@@ -40,7 +40,7 @@ O envolvimento da família na reabilitação pós-AVC costuma fazer diferença r
 
 ## Reabilitação também é sobre qualidade de vida
 
-Além da recuperação de movimento em si, a fisioterapia neurológica após um AVC também trabalha aspectos que impactam diretamente a qualidade de vida: prevenção de quedas, orientação para adaptação do ambiente doméstico, e reintegração gradual a atividades sociais e de lazer que faziam parte da rotina antes do evento. Esses objetivos, embora menos discutidos do que a recuperação de força ou marcha, são igualmente importantes para o bem-estar do paciente e da família ao longo de todo o processo de reabilitação.
+Além da recuperação de movimento em si, a fisioterapia neurológica após um AVC também trabalha aspectos que impactam diretamente a qualidade de vida: [prevenção de quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/), orientação para adaptação do ambiente doméstico, e reintegração gradual a atividades sociais e de lazer que faziam parte da rotina antes do evento. Esses objetivos, embora menos discutidos do que a recuperação de força ou marcha, são igualmente importantes para o bem-estar do paciente e da família ao longo de todo o processo de reabilitação.
 
 ## Perguntas frequentes
 

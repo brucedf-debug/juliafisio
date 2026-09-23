@@ -12,7 +12,7 @@ O "ombro do nadador" é um dos apelidos mais conhecidos para a tendinite do mang
 
 ## Por que a natação sobrecarrega tanto o ombro
 
-O gesto da braçada exige uma combinação de mobilidade e estabilidade que poucas outras atividades exigem: o ombro precisa girar em amplitudes extremas enquanto sustenta o corpo na água, milhares de vezes por semana. Quando a musculatura estabilizadora não acompanha esse volume de trabalho, os tendões do manguito rotador acabam sobrecarregados, gerando inflamação e dor.
+O gesto da braçada exige uma combinação de mobilidade e estabilidade que poucas outras atividades exigem: o ombro precisa girar em amplitudes extremas enquanto sustenta o corpo na água, milhares de vezes por semana. Quando a musculatura estabilizadora não acompanha esse volume de trabalho, os tendões do [manguito rotador](/blog/reabilitacao-ombro-manguito-rotador/) acabam sobrecarregados, gerando inflamação e dor.
 
 Fatores como técnica inadequada, aumento brusco de volume de treino e desequilíbrios musculares entre os rotadores internos e externos do ombro costumam aumentar ainda mais esse risco.
 
@@ -21,7 +21,7 @@ Fatores como técnica inadequada, aumento brusco de volume de treino e desequil�
 Vale procurar avaliação fisioterapêutica quando aparecem sinais como:
 
 - Dor ao levantar o braço acima da cabeça, especialmente na fase de recuperação da braçada.
-- Desconforto que piora ao longo do treino e não melhora com o aquecimento.
+- Desconforto que piora ao longo do treino e não melhora com o [aquecimento](/blog/rotina-de-aquecimento-5-minutos/).
 - Sensação de fraqueza ou fadiga precoce no ombro durante as séries.
 
 Ignorar esses sinais tende a agravar o quadro, podendo evoluir para lesões mais complexas do manguito rotador.

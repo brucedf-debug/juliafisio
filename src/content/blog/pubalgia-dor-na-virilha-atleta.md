@@ -26,7 +26,7 @@ A pubalgia raramente tem uma causa única. Costuma surgir da combinação de:
 
 ## Por que não deve ser ignorada
 
-O erro mais comum é tratar a pubalgia como uma dor muscular comum e continuar treinando no mesmo ritmo, mascarando o desconforto com analgésicos. Isso tende a cronificar o quadro: o que começaria como uma sobrecarga tratável em poucas semanas pode se estender por meses quando a causa de base não é identificada e corrigida. Como a dor na virilha também pode ter origem articular (no próprio quadril) ou até estar associada a hérnias, uma avaliação criteriosa é o que define o caminho certo de tratamento.
+O erro mais comum é tratar a pubalgia como uma dor muscular comum e continuar treinando no mesmo ritmo, mascarando o desconforto com analgésicos. Isso tende a cronificar o quadro: o que começaria como uma sobrecarga tratável em poucas semanas pode se estender por meses quando a causa de base não é identificada e corrigida. Como a dor na virilha também pode ter origem articular (no próprio [quadril](/blog/mobilidade-de-quadril-exercicios/)) ou até estar associada a hérnias, uma avaliação criteriosa é o que define o caminho certo de tratamento.
 
 ![Fisioterapeuta avaliando o quadril e a região do púbis de um atleta](../../assets/pool/fisioterapia-esportiva/pair-02-inline.jpg)
 
@@ -46,7 +46,7 @@ A pubalgia costuma exigir paciência: a recuperação completa geralmente é med
 
 ## Prevenção em quem já sofreu com pubalgia
 
-Atletas que já passaram por um episódio de pubalgia têm risco maior de recidiva, o que torna a prevenção especialmente relevante nesse grupo. Manter um trabalho contínuo de fortalecimento de adutores e core, mesmo depois da alta do tratamento, e monitorar a carga de treino em períodos de aumento de intensidade — como o início de uma pré-temporada — são medidas que reduzem bastante a chance de o quadro voltar. Ignorar esse cuidado preventivo, assim que a dor desaparece, é um dos motivos mais comuns de recidiva nesse tipo de lesão.
+Atletas que já passaram por um episódio de pubalgia têm risco maior de recidiva, o que torna a prevenção especialmente relevante nesse grupo. Manter um trabalho contínuo de fortalecimento de adutores e [core](/blog/fortalecimento-do-core/), mesmo depois da alta do tratamento, e monitorar a carga de treino em períodos de aumento de intensidade — como o início de uma pré-temporada — são medidas que reduzem bastante a chance de o quadro voltar. Ignorar esse cuidado preventivo, assim que a dor desaparece, é um dos motivos mais comuns de recidiva nesse tipo de lesão.
 
 ## Perguntas frequentes
 

@@ -12,11 +12,11 @@ Perder força para abrir um pote, sentir mais dificuldade para levantar de uma c
 
 ## O que é a sarcopenia
 
-A partir da meia-idade, o corpo tende a perder massa muscular de forma gradual, um processo que se acentua ainda mais depois dos 60 anos. Essa perda não afeta só a aparência: o músculo é responsável por sustentar articulações, manter o equilíbrio e permitir gestos simples do dia a dia, como carregar sacolas ou subir escadas. Quando a perda é significativa, ela compromete a força, a velocidade da marcha e a capacidade de realizar tarefas cotidianas com autonomia, aumentando também o risco de quedas.
+A partir da meia-idade, o corpo tende a perder massa muscular de forma gradual, um processo que se acentua ainda mais depois dos 60 anos. Essa perda não afeta só a aparência: o músculo é responsável por sustentar articulações, manter o equilíbrio e permitir gestos simples do dia a dia, como carregar sacolas ou subir escadas. Quando a perda é significativa, ela compromete a força, a velocidade da marcha e a capacidade de realizar tarefas cotidianas com autonomia, aumentando também o [risco de quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/).
 
 ## Por que ela avança sem ser percebida
 
-A sarcopenia costuma progredir de forma silenciosa porque o corpo se adapta às perdas, compensando com outros movimentos ou simplesmente evitando esforços que exigem mais força. É comum a pessoa perceber apenas quando já enfrenta dificuldade em atividades que antes eram automáticas. Sedentarismo, longos períodos de repouso ou internação, alimentação pobre em proteína e a própria redução hormonal que acompanha o envelhecimento são fatores que aceleram esse processo, tornando o músculo cada vez menos exigido — e, por consequência, cada vez mais fraco.
+A sarcopenia costuma progredir de forma silenciosa porque o corpo se adapta às perdas, compensando com outros movimentos ou simplesmente evitando esforços que exigem mais força. É comum a pessoa perceber apenas quando já enfrenta dificuldade em atividades que antes eram automáticas. [Sedentarismo](/blog/sedentarismo-efeitos-e-fisioterapia/), longos períodos de repouso ou internação, alimentação pobre em proteína e a própria redução hormonal que acompanha o envelhecimento são fatores que aceleram esse processo, tornando o músculo cada vez menos exigido — e, por consequência, cada vez mais fraco.
 
 ## O papel do fortalecimento muscular
 

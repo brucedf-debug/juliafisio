@@ -16,7 +16,7 @@ Na prática clínica, a cervicalgia raramente tem uma única causa. Os fatores m
 
 - **Sobrecarga postural**: horas com a cabeça projetada à frente, olhando para telas, aumentam significativamente a carga sobre a musculatura cervical.
 - **Tensão emocional**: estresse e ansiedade costumam se manifestar como tensão na região do pescoço e dos ombros.
-- **Rigidez torácica**: uma coluna torácica pouco móvel obriga o pescoço a compensar movimentos que não deveriam ser só dele.
+- **Rigidez torácica**: uma [coluna torácica](/blog/mobilidade-coluna-toracica/) pouco móvel obriga o pescoço a compensar movimentos que não deveriam ser só dele.
 - **Traumas leves**, como dormir em posição inadequada ou movimentos bruscos.
 
 Menos comumente, a dor cervical pode estar associada a compressão de raiz nervosa, com irradiação para o braço — um sinal que merece avaliação mais detalhada.
@@ -64,6 +64,8 @@ Pequenas mudanças no dia a dia fazem diferença real na prevenção da cervical
 **Mochila pesada em um só ombro causa cervicalgia?** Contribui, sim. Carregar peso de forma assimétrica em um único ombro tende a gerar compensações musculares que sobrecarregam um dos lados do pescoço ao longo do tempo, especialmente quando o hábito é repetido diariamente.
 
 **Fisioterapia resolve cervicalgia sem precisar de remédio?** Na maioria dos casos, sim. O foco da fisioterapia é tratar a causa mecânica e postural da dor, o que costuma reduzir a necessidade de medicação a longo prazo, embora o uso pontual de analgésicos possa ser orientado pelo médico em fases mais agudas.
+
+**Leia também:** [Postura ao usar o celular: como evitar a "tech neck"](/blog/postura-celular-tech-neck/) e [Mobilidade de coluna cervical: exercícios para um pescoço mais leve](/blog/mobilidade-de-coluna-cervical-exercicios/).
 
 ---
 

@@ -12,7 +12,7 @@ A colocação de uma prótese de joelho costuma ser indicada quando o desgaste d
 
 ## Por que a fisioterapia começa tão cedo
 
-Diferente do que muita gente imagina, a mobilização do joelho operado costuma começar já nos primeiros dias após a cirurgia, muitas vezes ainda durante a internação. Isso acontece porque a articulação tende a perder amplitude de movimento rapidamente quando fica parada, e recuperar essa amplitude depois é bem mais difícil do que preservá-la desde o início.
+Diferente do que muita gente imagina, a mobilização do joelho operado costuma começar já nos primeiros dias [após a cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/), muitas vezes ainda durante a internação. Isso acontece porque a articulação tende a perder amplitude de movimento rapidamente quando fica parada, e recuperar essa amplitude depois é bem mais difícil do que preservá-la desde o início.
 
 Nessa fase inicial, os cuidados costumam incluir:
 
@@ -57,6 +57,8 @@ Muitos pacientes se perguntam se vão conseguir voltar a caminhar longas distân
 **Quanto tempo até andar sem apoio nenhum?** Varia bastante, mas boa parte dos pacientes consegue caminhar sem apoio dentro de 4 a 6 semanas, embora esse prazo dependa da força muscular prévia e da evolução individual de cada um.
 
 **A prótese dura para sempre?** Não. As próteses modernas têm vida útil estimada entre 15 e 25 anos na maioria dos casos, variando conforme o nível de atividade física e o desgaste ao longo do tempo.
+
+**Leia também:** [Mobilidade de Joelho: Exercícios para Fortalecer](/blog/mobilidade-de-joelho-exercicios/) e [Fisioterapia Após Prótese de Quadril: Retomando a Marcha](/blog/fisioterapia-protese-de-quadril/).
 
 ---
 

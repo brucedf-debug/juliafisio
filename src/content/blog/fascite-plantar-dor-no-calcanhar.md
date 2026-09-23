@@ -50,7 +50,7 @@ Trocar o calçado inadequado costuma ser uma das medidas com efeito mais percept
 
 ## Palmilhas e o uso de talas noturnas
 
-Em casos que demoram mais para responder, dois recursos complementares costumam entrar no plano de tratamento. As palmilhas, personalizadas ou pré-fabricadas, ajudam a redistribuir a carga sobre o pé e reduzir a tração excessiva sobre a fáscia durante a caminhada. Já as talas noturnas mantêm o tornozelo em uma posição que evita o encurtamento da fáscia durante o sono, reduzindo a intensidade daquela dor característica dos primeiros passos pela manhã. Nenhum dos dois recursos substitui o fortalecimento e o alongamento, mas podem acelerar a resposta ao tratamento em quadros mais persistentes.
+Em casos que demoram mais para responder, dois recursos complementares costumam entrar no plano de tratamento. As palmilhas, personalizadas ou pré-fabricadas, ajudam a redistribuir a carga sobre o pé e reduzir a tração excessiva sobre a fáscia durante a caminhada. Já as talas noturnas mantêm o [tornozelo](/blog/mobilidade-de-tornozelo/) em uma posição que evita o encurtamento da fáscia durante o sono, reduzindo a intensidade daquela dor característica dos primeiros passos pela manhã. Nenhum dos dois recursos substitui o fortalecimento e o alongamento, mas podem acelerar a resposta ao tratamento em quadros mais persistentes.
 
 ## Perguntas frequentes
 
@@ -59,6 +59,8 @@ Em casos que demoram mais para responder, dois recursos complementares costumam 
 **Posso continuar correndo com fascite plantar?** Depende da intensidade da dor. Em quadros leves, reduzir volume e ajustar o calçado costuma ser suficiente; em dor mais intensa, um período de substituição temporária por atividades de baixo impacto acelera a recuperação.
 
 **Esporão de calcâneo é a mesma coisa que fascite plantar?** Não, embora frequentemente coexistam. O esporão é uma calcificação óssea, muitas vezes achado incidental em exames, enquanto a dor costuma vir da inflamação da fáscia ao redor dele, não do esporão em si.
+
+**Leia também:** [Canelite: Por que Aparece em Corredores e Como Tratar](/blog/canelite-sindrome-estresse-tibial-medial/) e [Fisioterapia após ruptura do tendão de Aquiles](/blog/fisioterapia-ruptura-tendao-de-aquiles/).
 
 ---
 

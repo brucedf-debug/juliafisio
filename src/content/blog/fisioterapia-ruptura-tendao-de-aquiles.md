@@ -19,7 +19,7 @@ A decisão entre reparar cirurgicamente o tendão ou tratá-lo de forma conserva
 De forma geral, a reabilitação após ruptura do tendão de Aquiles segue uma progressão cuidadosa:
 
 1. **Proteção inicial** — uso de imobilização ou órtese, com movimento controlado dentro dos limites liberados.
-2. **Recuperação gradual da amplitude de movimento** do tornozelo, especialmente da flexão dorsal (levar a ponta do pé em direção à canela).
+2. **Recuperação gradual da amplitude de movimento** do [tornozelo](/blog/mobilidade-de-tornozelo/), especialmente da flexão dorsal (levar a ponta do pé em direção à canela).
 3. **Fortalecimento progressivo** da panturrilha, começando com exercícios isométricos e avançando para movimentos com carga.
 4. **Treino funcional**, incluindo equilíbrio, marcha e, quando indicado, retorno a atividades de maior impacto.
 
@@ -41,7 +41,7 @@ Na abordagem cirúrgica, o tendão rompido é suturado diretamente, o que costum
 
 ## Retorno ao esporte: um marco que exige paciência
 
-Para quem pratica esportes com corrida ou salto, o retorno pleno após uma ruptura do tendão de Aquiles costuma ser um dos processos mais longos da fisioterapia ortopédica, frequentemente entre seis meses e um ano até a liberação completa para atividades de alto impacto. Critérios funcionais — como a capacidade de realizar elevações de panturrilha unilaterais com carga e repetições comparáveis ao lado saudável — costumam guiar essa liberação, mais do que o simples calendário desde a lesão ou a cirurgia.
+Para quem pratica esportes com corrida ou salto, o retorno pleno após uma ruptura do tendão de Aquiles costuma ser um dos processos mais longos da fisioterapia ortopédica, frequentemente entre seis meses e um ano até a liberação completa para atividades de alto impacto. Critérios funcionais — como a capacidade de realizar elevações de panturrilha unilaterais com carga e repetições comparáveis ao lado saudável — costumam guiar essa liberação, mais do que o simples calendário desde a lesão ou a [cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/).
 
 ## Sinais de alerta durante a reabilitação
 

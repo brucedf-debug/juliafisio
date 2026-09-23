@@ -14,7 +14,7 @@ tags: ['coluna', 'ciática', 'dor lombar']
 
 O sintoma característico é uma dor que começa na lombar ou no glúteo e irradia pela parte posterior da coxa, podendo chegar até a perna ou o pé. Ela costuma vir acompanhada de sensações como formigamento, queimação ou, em casos mais intensos, perda de força no membro afetado.
 
-Diferente de uma dor lombar localizada, a ciática se destaca justamente por esse trajeto de irradiação, que segue o caminho do nervo comprimido ou irritado.
+Diferente de uma [dor lombar](/blog/dor-lombar-quando-procurar-fisioterapia/) localizada, a ciática se destaca justamente por esse trajeto de irradiação, que segue o caminho do nervo comprimido ou irritado.
 
 ## As causas mais comuns
 
@@ -35,7 +35,7 @@ O tratamento costuma seguir uma lógica progressiva:
 1. **Alívio da dor aguda**, com recursos que reduzem a irritação nervosa sem exigir repouso prolongado — que hoje sabemos atrasar a recuperação em vez de ajudar.
 2. **Recuperação de mobilidade**, especialmente da coluna lombar e do quadril, que costumam ficar rígidos como resposta protetora à dor.
 3. **Fortalecimento direcionado**, incluindo a musculatura estabilizadora do tronco e, quando aplicável, do glúteo.
-4. **Reeducação de movimento**, para reduzir padrões que sobrecarregam a estrutura envolvida — hérnia, canal estreitado ou músculo piriforme, conforme o caso.
+4. **Reeducação de movimento**, para reduzir padrões que sobrecarregam a estrutura envolvida — hérnia, canal estreitado ou músculo [piriforme](/blog/sindrome-do-piriforme-dor-no-gluteo/), conforme o caso.
 
 ## Sinais de que a avaliação não pode esperar
 
@@ -60,7 +60,7 @@ Enquanto a dor está mais intensa, alguns ajustes simples ajudam a passar pelo p
 
 **Ciática e dor lombar são a mesma coisa?** Não. A dor lombar fica restrita à região das costas, enquanto a ciática se caracteriza pela irradiação ao longo do trajeto do nervo, chegando à perna. É possível ter uma sem a outra, embora muitas vezes apareçam juntas.
 
-**Exercício físico pode causar ciática?** O exercício em si raramente é a causa direta, mas uma progressão de carga muito rápida ou uma técnica de movimento inadequada pode contribuir para o desenvolvimento de uma hérnia de disco, uma das principais causas da compressão do nervo ciático.
+**Exercício físico pode causar ciática?** O exercício em si raramente é a causa direta, mas uma progressão de carga muito rápida ou uma técnica de movimento inadequada pode contribuir para o desenvolvimento de uma [hérnia de disco](/blog/hernia-de-disco-tratamento-sem-cirurgia/), uma das principais causas da compressão do nervo ciático.
 
 **A ciática pode voltar depois de tratada?** Pode, principalmente se os fatores que levaram ao quadro inicial — fraqueza muscular, sobrecarga postural repetida ou falta de mobilidade — não forem trabalhados na fase de manutenção após a melhora da dor. Por isso o fortalecimento contínuo é parte importante da prevenção de recidivas.
 

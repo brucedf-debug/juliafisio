@@ -14,7 +14,7 @@ O termo "core" costuma ser associado a abdômen definido, mas na fisioterapia el
 
 Diferente do que muita gente imagina, o core não é só o abdômen visível. Ele inclui o transverso do abdômen (a camada muscular mais profunda), a musculatura lombar, o assoalho pélvico e o diafragma. Juntos, esses músculos formam uma espécie de cinturão natural que estabiliza a coluna antes mesmo de qualquer movimento dos braços ou das pernas acontecer.
 
-Quando esse cinturão está enfraquecido, a coluna passa a receber uma carga que deveria ser distribuída entre vários grupos musculares, aumentando o risco de dor lombar e compensações posturais.
+Quando esse cinturão está enfraquecido, a coluna passa a receber uma carga que deveria ser distribuída entre vários grupos musculares, aumentando o risco de [dor lombar](/blog/dor-lombar-quando-procurar-fisioterapia/) e compensações posturais.
 
 ## Por que ele protege a coluna
 
@@ -53,6 +53,8 @@ Diferente de grupos musculares maiores, que costumam precisar de dias de descans
 **Quanto tempo leva para sentir os resultados do fortalecimento do core?** A melhora na estabilidade e na redução da dor lombar costuma aparecer dentro de 4 a 8 semanas de treino consistente, embora o tempo varie conforme o ponto de partida e a frequência dos exercícios.
 
 **Pessoas com dor lombar podem treinar o core normalmente?** Na maioria dos casos sim, com exercícios adaptados à fase da dor. É justamente o core fortalecido que costuma ajudar a reduzir episódios futuros, embora a progressão inicial deva respeitar o quadro de cada pessoa.
+
+**Leia também:** [Hérnia de Disco: Tratamento sem Cirurgia](/blog/hernia-de-disco-tratamento-sem-cirurgia/) e [Fisioterapia Esportiva: Prevenção de Lesões](/blog/fisioterapia-esportiva-prevencao-lesoes/).
 
 ---
 

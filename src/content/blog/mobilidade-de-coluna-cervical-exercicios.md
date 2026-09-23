@@ -12,7 +12,7 @@ Quando o assunto é mobilidade da coluna, o pescoço quase sempre fica de fora d
 
 ## Por que o pescoço perde mobilidade
 
-A coluna cervical é a região mais móvel de toda a coluna vertebral, projetada para permitir uma ampla variedade de movimentos em várias direções. Justamente por isso, ela é também bastante sensível a hábitos posturais mantidos por longos períodos. Passar horas olhando para uma tela — seja o computador, o celular ou a televisão — costuma manter o pescoço em uma faixa muito estreita de movimento, geralmente com a cabeça projetada para frente. Com o tempo, essa postura repetida reduz a amplitude que a região consegue alcançar sem desconforto, especialmente na rotação e na inclinação lateral.
+A coluna cervical é a região mais móvel de toda a coluna vertebral, projetada para permitir uma ampla variedade de movimentos em várias direções. Justamente por isso, ela é também bastante sensível a hábitos posturais mantidos por longos períodos. Passar horas olhando para uma tela — seja o computador, o [celular](/blog/postura-celular-tech-neck/) ou a televisão — costuma manter o pescoço em uma faixa muito estreita de movimento, geralmente com a cabeça projetada para frente. Com o tempo, essa postura repetida reduz a amplitude que a região consegue alcançar sem desconforto, especialmente na rotação e na inclinação lateral.
 
 Some a isso a tensão muscular que se acumula na base do crânio e entre os ombros, comum em quem vive sob estresse ou trabalha em posições fixas, e o resultado é um pescoço que parece cada vez mais "curto" em seus movimentos, mesmo sem uma lesão específica por trás disso.
 
@@ -49,7 +49,7 @@ Pessoas que sentem formigamento nos braços, tontura relacionada ao movimento do
 
 ## Mobilidade cervical e o resto do corpo
 
-O pescoço não funciona isolado do restante da coluna. Uma coluna torácica rígida, por exemplo, frequentemente empurra o trabalho de extensão e rotação para a região cervical, que acaba compensando um movimento que deveria vir de mais abaixo. Da mesma forma, ombros tensos e elevados tendem a limitar ainda mais a liberdade de movimento do pescoço, criando um ciclo em que uma região sobrecarrega a outra. Por isso, trabalhar a mobilidade cervical isoladamente ajuda, mas costuma trazer resultados mais completos quando combinado com atenção à postura geral e à mobilidade da coluna torácica e dos ombros.
+O pescoço não funciona isolado do restante da coluna. Uma [coluna torácica](/blog/mobilidade-coluna-toracica/) rígida, por exemplo, frequentemente empurra o trabalho de extensão e rotação para a região cervical, que acaba compensando um movimento que deveria vir de mais abaixo. Da mesma forma, ombros tensos e elevados tendem a limitar ainda mais a liberdade de movimento do pescoço, criando um ciclo em que uma região sobrecarrega a outra. Por isso, trabalhar a mobilidade cervical isoladamente ajuda, mas costuma trazer resultados mais completos quando combinado com atenção à postura geral e à mobilidade da coluna torácica e dos ombros.
 
 Quando a rigidez cervical vem acompanhada de dor persistente, tontura ou sintomas que não melhoram com esses exercícios simples, o caminho mais seguro é buscar uma avaliação fisioterapêutica. Ela identifica se a limitação é puramente muscular e postural ou se há outro fator envolvido, orientando uma rotina de exercícios segura e ajustada à realidade de cada pessoa.
 

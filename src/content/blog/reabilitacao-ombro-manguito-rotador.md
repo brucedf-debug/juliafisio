@@ -12,7 +12,7 @@ O manguito rotador é um grupo de músculos e tendões que estabiliza o ombro e 
 
 ## Cirurgia ou tratamento conservador?
 
-Nem toda lesão do manguito rotador precisa de cirurgia. Fatores como o tamanho da lesão, o nível de atividade da pessoa e a resposta inicial ao tratamento conservador ajudam a definir o melhor caminho. Em muitos casos, um programa estruturado de fisioterapia consegue reduzir a dor e recuperar boa parte da função, mesmo sem intervenção cirúrgica.
+Nem toda lesão do manguito rotador precisa de [cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/). Fatores como o tamanho da lesão, o nível de atividade da pessoa e a resposta inicial ao tratamento conservador ajudam a definir o melhor caminho. Em muitos casos, um programa estruturado de fisioterapia consegue reduzir a dor e recuperar boa parte da função, mesmo sem intervenção cirúrgica.
 
 Quando a cirurgia é necessária, a fisioterapia entra tanto antes (para preparar a musculatura) quanto depois (para guiar a reabilitação), com um cuidado importante: o tendão reparado precisa de tempo para cicatrizar antes de ser exigido, o que torna essa reabilitação mais lenta e progressiva do que a de outras lesões ortopédicas.
 
@@ -50,6 +50,8 @@ O grau da lesão do manguito rotador influencia diretamente a conduta. Lesões p
 **Manguito rotador lesionado sempre dói?** Não necessariamente. Algumas lesões, principalmente as degenerativas de longa data, podem ser assintomáticas por um tempo até que algum fator desencadeie a dor, o que reforça que a presença ou ausência de dor nem sempre reflete a gravidade estrutural da lesão.
 
 **Compressas de calor ou gelo ajudam na lesão do manguito rotador?** O gelo costuma ser mais indicado nas fases mais agudas, para controle da dor e inflamação, enquanto o calor pode ajudar a relaxar a musculatura ao redor em fases posteriores, sempre como recurso complementar ao tratamento principal e nunca como substituto do fortalecimento progressivo orientado pelo fisioterapeuta responsável por todo o processo de reabilitação do ombro, da fase inicial até o retorno completo às atividades do dia a dia e do esporte.
+
+**Leia também:** [Tendinite no ombro do nadador: causas e prevenção](/blog/tendinite-ombro-do-nadador/) e [Mobilidade de Ombro: Exercícios de Prevenção](/blog/mobilidade-de-ombro-exercicios/).
 
 ---
 

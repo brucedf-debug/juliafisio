@@ -15,9 +15,9 @@ A dor lombar é uma das queixas mais frequentes nos consultórios de fisioterapi
 Na prática clínica, a dor lombar costuma estar relacionada a:
 
 - **Sobrecarga mecânica**: má postura mantida por longos períodos, movimentos repetitivos ou esforço excessivo ao levantar peso.
-- **Fraqueza muscular**: especialmente da musculatura estabilizadora do tronco (core), que sustenta a coluna no dia a dia.
+- **Fraqueza muscular**: especialmente da musculatura estabilizadora do tronco ([core](/blog/fortalecimento-do-core/)), que sustenta a coluna no dia a dia.
 - **Sedentarismo**: passar muitas horas sentado reduz a mobilidade dos quadris e sobrecarrega a região lombar.
-- **Alterações estruturais**: como hérnias de disco, protrusões ou artrose, que exigem avaliação mais detalhada.
+- **Alterações estruturais**: como [hérnias de disco](/blog/hernia-de-disco-tratamento-sem-cirurgia/), protrusões ou artrose, que exigem avaliação mais detalhada.
 
 ## Sinais de alerta
 

@@ -12,7 +12,7 @@ Apesar do nome popular, a maioria das pessoas com "cotovelo de tenista" nunca pe
 
 ## O que causa a sobrecarga
 
-Os músculos extensores do punho e dos dedos se originam numa saliência óssea na parte externa do cotovelo (o epicôndilo lateral). Movimentos repetitivos de extensão e rotação do punho — digitar, usar mouse, apertar parafusos, carregar sacolas com a palma para baixo — geram microlesões nesse tendão ao longo do tempo. Diferente de uma lesão aguda, a epicondilite costuma se instalar de forma gradual, começando como um desconforto leve que só aparece em certos movimentos.
+Os músculos extensores do [punho](/blog/mobilidade-de-punho-e-mao/) e dos dedos se originam numa saliência óssea na parte externa do cotovelo (o epicôndilo lateral). Movimentos repetitivos de extensão e rotação do punho — digitar, usar mouse, apertar parafusos, carregar sacolas com a palma para baixo — geram microlesões nesse tendão ao longo do tempo. Diferente de uma lesão aguda, a epicondilite costuma se instalar de forma gradual, começando como um desconforto leve que só aparece em certos movimentos.
 
 ## Sintomas que ajudam a identificar
 
@@ -61,6 +61,8 @@ O fortalecimento excêntrico — aquele em que o músculo se alonga enquanto ain
 ## Epicondilite medial: a irmã menos conhecida
 
 Existe também a epicondilite medial, popularmente chamada de "cotovelo de golfista", que afeta os músculos flexores do punho, localizados na parte interna do cotovelo. O mecanismo de lesão e o princípio de tratamento são semelhantes aos da epicondilite lateral, mas a musculatura envolvida e, consequentemente, os movimentos que provocam dor são diferentes — geralmente relacionados a flexão e rotação interna do punho sob carga, como golpes de golfe ou certos movimentos de arremesso.
+
+**Leia também:** [Tendinite no ombro do nadador: causas e prevenção](/blog/tendinite-ombro-do-nadador/) e [Pausas ativas no trabalho: como prevenir a LER/DORT com pequenos intervalos](/blog/pausas-ativas-ler-dort-trabalho/).
 
 ---
 

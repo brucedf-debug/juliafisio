@@ -12,7 +12,7 @@ Uma torção mais brusca durante o esporte, um agachamento mal executado ou até
 
 ## Cirurgia ou tratamento conservador
 
-Nem toda lesão de menisco segue para a sala de cirurgia. Rupturas pequenas, estáveis e localizadas em regiões com boa irrigação sanguínea costumam responder bem ao tratamento conservador, baseado em fisioterapia, controle da dor e progressão gradual de carga. Já lesões mais extensas, instáveis ou que causam travamento do joelho geralmente são encaminhadas para cirurgia, que pode ser uma sutura do menisco, preservando o tecido, ou uma meniscectomia parcial, quando apenas a parte lesionada é removida. Essa decisão cabe à avaliação ortopédica, mas o desfecho funcional em ambos os caminhos depende diretamente da qualidade da reabilitação que vem depois.
+Nem toda lesão de menisco segue para a sala de [cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/). Rupturas pequenas, estáveis e localizadas em regiões com boa irrigação sanguínea costumam responder bem ao tratamento conservador, baseado em fisioterapia, controle da dor e progressão gradual de carga. Já lesões mais extensas, instáveis ou que causam travamento do joelho geralmente são encaminhadas para cirurgia, que pode ser uma sutura do menisco, preservando o tecido, ou uma meniscectomia parcial, quando apenas a parte lesionada é removida. Essa decisão cabe à avaliação ortopédica, mas o desfecho funcional em ambos os caminhos depende diretamente da qualidade da reabilitação que vem depois.
 
 ## O ritmo da recuperação muda conforme o procedimento
 
@@ -44,6 +44,8 @@ A diferença entre esses dois procedimentos vai além do tempo de recuperação 
 **Lesão de menisco sempre aparece de repente?** Não necessariamente. Em pessoas mais velhas, lesões degenerativas do menisco podem se desenvolver aos poucos, sem um episódio único de trauma, relacionadas ao desgaste natural do tecido ao longo dos anos.
 
 **Preciso operar toda lesão de menisco identificada em exame de imagem?** Não. Muitas lesões, especialmente as degenerativas em pessoas mais velhas, são encontradas incidentalmente e não causam sintomas suficientes para justificar cirurgia, respondendo bem ao tratamento conservador com fisioterapia.
+
+**Leia também:** [Lesão no Ligamento Cruzado Anterior (LCA): Tratamento](/blog/lesao-ligamento-cruzado-anterior-lca/) e [Mobilidade de Joelho: Exercícios para Fortalecer](/blog/mobilidade-de-joelho-exercicios/).
 
 ---
 

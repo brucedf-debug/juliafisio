@@ -32,7 +32,7 @@ Ou seja, uma dor no joelho ou na lombar às vezes tem origem em uma articulaçã
 
 ## Atenção a entorses anteriores
 
-Pessoas que já tiveram entorses de tornozelo tendem a desenvolver mais rigidez nessa articulação com o tempo, mesmo depois de a lesão estar "curada". Isso reforça a importância de manter um trabalho contínuo de mobilidade, e não apenas durante a fase aguda da reabilitação.
+Pessoas que já tiveram [entorses](/blog/entorse-de-tornozelo-reabilitacao/) de tornozelo tendem a desenvolver mais rigidez nessa articulação com o tempo, mesmo depois de a lesão estar "curada". Isso reforça a importância de manter um trabalho contínuo de mobilidade, e não apenas durante a fase aguda da reabilitação.
 
 ## Vale a avaliação profissional
 
@@ -55,6 +55,8 @@ A profundidade e a qualidade de um agachamento dependem, em boa parte, da dorsif
 **Alongar a panturrilha é a mesma coisa que trabalhar a mobilidade do tornozelo?** São complementares, mas não idênticos. O alongamento foca em ganhar comprimento muscular, enquanto os exercícios de mobilidade trabalham o movimento ativo e controlado da articulação — o ideal é combinar os dois para um resultado mais completo.
 
 **Esses exercícios servem para praticantes de dança ou artes marciais?** Sim, modalidades que exigem grande amplitude de tornozelo se beneficiam ainda mais desse trabalho, já que a demanda funcional é maior do que em atividades do dia a dia, e a falta de amplitude tende a limitar diretamente o desempenho nesses movimentos.
+
+**Leia também:** [Fascite Plantar: Dor no Calcanhar pela Manhã](/blog/fascite-plantar-dor-no-calcanhar/) e [Mobilidade de Joelho: Exercícios para Fortalecer](/blog/mobilidade-de-joelho-exercicios/).
 
 ---
 

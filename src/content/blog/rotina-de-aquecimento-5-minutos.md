@@ -26,7 +26,7 @@ O aquecimento tem três funções principais: elevar gradualmente a temperatura 
 
 ## Adapte à atividade
 
-Essa estrutura é um ponto de partida, não uma fórmula fixa. Um aquecimento antes de uma corrida vai priorizar mais mobilidade de quadril e tornozelo; antes de um treino de força superior, o foco pode se deslocar para ombro e tronco. O princípio é sempre o mesmo: preparar especificamente as articulações e grupos musculares que serão mais exigidos.
+Essa estrutura é um ponto de partida, não uma fórmula fixa. Um aquecimento antes de uma corrida vai priorizar mais [mobilidade de quadril](/blog/mobilidade-de-quadril-exercicios/) e tornozelo; antes de um treino de força superior, o foco pode se deslocar para ombro e tronco. O princípio é sempre o mesmo: preparar especificamente as articulações e grupos musculares que serão mais exigidos.
 
 ## O erro mais comum
 
@@ -34,7 +34,7 @@ O erro mais frequente não é pular o aquecimento por completo, mas fazê-lo de 
 
 ## Por que o aquecimento dinâmico funciona melhor que o estático
 
-Alongamentos estáticos prolongados antes do treino — manter uma posição de alongamento por muitos segundos — podem reduzir temporariamente a capacidade do músculo de gerar força máxima, o que não é ideal logo antes de um esforço intenso. O aquecimento dinâmico, por outro lado, combina movimento e amplitude progressiva, elevando a temperatura muscular e melhorando a mobilidade sem esse efeito negativo sobre a performance. É por isso que a recomendação atual, tanto na fisioterapia esportiva quanto no treinamento físico em geral, prioriza o aquecimento dinâmico antes do esforço, deixando o alongamento estático para o momento pós-treino, quando o objetivo passa a ser relaxar a musculatura e trabalhar ganho de amplitude a médio prazo.
+Alongamentos estáticos prolongados antes do treino — manter uma posição de alongamento por muitos segundos — podem reduzir temporariamente a capacidade do músculo de gerar força máxima, o que não é ideal logo antes de um esforço intenso. O aquecimento dinâmico, por outro lado, combina movimento e amplitude progressiva, elevando a temperatura muscular e melhorando a mobilidade sem esse efeito negativo sobre a performance. É por isso que a recomendação atual, tanto na fisioterapia esportiva quanto no treinamento físico em geral, prioriza o aquecimento dinâmico antes do esforço, deixando o [alongamento estático](/blog/alongamento-antes-ou-depois-do-treino/) para o momento pós-treino, quando o objetivo passa a ser relaxar a musculatura e trabalhar ganho de amplitude a médio prazo.
 
 ## Sinais de que o aquecimento foi insuficiente
 

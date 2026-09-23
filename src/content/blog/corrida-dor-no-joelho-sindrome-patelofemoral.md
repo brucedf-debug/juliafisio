@@ -16,7 +16,7 @@ A síndrome patelofemoral acontece quando a patela não desliza de forma equilib
 
 - **Fraqueza do quadríceps e dos músculos do quadril**, especialmente do glúteo médio, que ajuda a estabilizar o joelho durante a corrida.
 - **Progressão de treino muito rápida**, aumentando volume ou intensidade sem dar tempo de adaptação aos tecidos.
-- **Desequilíbrios biomecânicos**, como pisada muito pronada ou falta de mobilidade de tornozelo e quadril.
+- **Desequilíbrios biomecânicos**, como pisada muito pronada ou falta de mobilidade de tornozelo e [quadril](/blog/mobilidade-de-quadril-exercicios/).
 
 ## Como identificar o quadro
 
@@ -62,6 +62,8 @@ Embora o programa deva ser individualizado, alguns exercícios aparecem com freq
 **Joelheira resolve o problema?** Pode trazer alívio temporário da sensação de instabilidade durante a corrida, mas não trata a causa. Usada de forma isolada, sem o fortalecimento correspondente, tende a mascarar o sintoma em vez de resolver o quadro.
 
 **Dá para prevenir a dor patelofemoral antes que ela apareça?** Sim, e é justamente o cenário mais favorável. Fortalecer quadril e quadríceps de forma preventiva, respeitar a progressão gradual de volume e cuidar da técnica de corrida reduzem bastante o risco de desenvolver esse quadro, mesmo em corredores com volume alto de treino.
+
+**Leia também:** [Síndrome do trato iliotibial: a dor lateral no joelho que afeta corredores e ciclistas](/blog/sindrome-do-trato-iliotibial-dor-lateral-joelho/) e [Canelite: Por que Aparece em Corredores e Como Tratar](/blog/canelite-sindrome-estresse-tibial-medial/).
 
 ---
 

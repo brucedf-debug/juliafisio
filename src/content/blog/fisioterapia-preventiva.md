@@ -55,6 +55,8 @@ Além do benefício direto para o corpo, há um argumento prático a favor da fi
 
 **Fisioterapia preventiva é coberta por plano de saúde?** Depende do plano e da forma como a sessão é registrada; vale consultar diretamente a operadora, já que a cobertura para avaliação preventiva varia bastante entre convênios.
 
+**Leia também:** [Fisioterapia Esportiva: Prevenção de Lesões](/blog/fisioterapia-esportiva-prevencao-lesoes/), [Fisioterapia na Terceira Idade: Prevenção de Quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/) e [Sedentarismo: Efeitos no Corpo e Como a Fisioterapia Ajuda](/blog/sedentarismo-efeitos-e-fisioterapia/).
+
 ---
 
 _As informações aqui são gerais e não substituem uma avaliação individual, que é a única forma de identificar com precisão as necessidades do seu corpo._

@@ -38,7 +38,9 @@ A avaliação começa identificando quais movimentos ou posições desencadeiam 
 
 **A reabilitação vestibular funciona para labirintite crônica?** Sim, é uma das indicações mais comuns, especialmente quando a fase aguda já passou e o que resta é a readaptação do cérebro ao padrão de sinais alterado que o sistema vestibular ainda envia.
 
-**Idosos podem fazer reabilitação vestibular com segurança?** Sim, e costuma ser especialmente indicada nessa faixa etária, já que a tontura em idosos está fortemente associada a quedas, e o treino de equilíbrio ajuda a reduzir esse risco de forma direta e segura, com exercícios adaptados à condição de cada paciente e à sua rotina diária, sempre respeitando o ritmo individual de progresso.
+**Idosos podem fazer reabilitação vestibular com segurança?** Sim, e costuma ser especialmente indicada nessa faixa etária, já que a tontura em idosos está fortemente associada a [quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/), e o treino de equilíbrio ajuda a reduzir esse risco de forma direta e segura, com exercícios adaptados à condição de cada paciente e à sua rotina diária, sempre respeitando o ritmo individual de progresso.
+
+**Leia também:** [Reabilitação Neurológica: Fisioterapia Após o AVC](/blog/reabilitacao-neurologica-apos-avc/) e [Dor no pescoço (cervicalgia): causas comuns e como aliviar](/blog/dor-no-pescoco-cervicalgia/).
 
 ---
 

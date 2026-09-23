@@ -29,7 +29,7 @@ Quando o punho perde amplitude, o corpo compensa de outras formas — geralmente
 
 ## Exercícios simples para recuperar amplitude
 
-Pequenas pausas ativas ao longo do dia já fazem diferença. Alguns exercícios que costumam ser indicados:
+Pequenas [pausas ativas](/blog/pausas-ativas-ler-dort-trabalho/) ao longo do dia já fazem diferença. Alguns exercícios que costumam ser indicados:
 
 - **Círculos de punho**, girando a mão lentamente para os dois lados, explorando toda a amplitude disponível.
 - **Flexão e extensão assistida**, usando a outra mão para levar o punho suavemente para cima e para baixo, sustentando alguns segundos em cada posição.
@@ -48,7 +48,7 @@ Além dos exercícios, a forma como o punho fica posicionado durante o trabalho 
 
 ## Perguntas frequentes
 
-**Mobilidade de punho ajuda a prevenir a síndrome do túnel do carpo?** Pode contribuir, especialmente quando combinada a pausas regulares e boa ergonomia, mas em quadros já instalados, com formigamento e dor persistente, vale buscar avaliação específica, já que outros fatores também podem estar envolvidos.
+**Mobilidade de punho ajuda a prevenir a síndrome do túnel do carpo?** Pode contribuir, especialmente quando combinada a pausas regulares e boa [ergonomia](/blog/postura-home-office-dor-nas-costas/), mas em quadros já instalados, com formigamento e dor persistente, vale buscar avaliação específica, já que outros fatores também podem estar envolvidos.
 
 **Vale a pena usar munhequeira para trabalhar no computador?** Em alguns casos, principalmente durante crises de dor, mas o uso constante pode reduzir a mobilidade natural da articulação a longo prazo — o ideal é uma orientação individualizada sobre quando e por quanto tempo usá-la.
 

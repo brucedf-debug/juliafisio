@@ -12,7 +12,7 @@ Uma dor em queimação na parte de fora do joelho, que começa depois de alguns 
 
 ## O que é o trato iliotibial e por que ele dói
 
-O trato iliotibial é uma faixa espessa de tecido conjuntivo que percorre toda a lateral da coxa, desde o quadril até logo abaixo do joelho. Durante o movimento repetitivo de flexão e extensão do joelho, essa faixa desliza sobre uma saliência óssea na parte externa da articulação. Em pessoas com volume alto de treino, esse deslizamento repetido pode gerar atrito e irritação dos tecidos próximos a essa região, incluindo uma pequena bolsa de gordura e tecido conjuntivo que amortece a fricção. O resultado é uma inflamação localizada que se manifesta como dor na lateral do joelho, mais evidente justamente no momento em que o joelho se aproxima de uma leve flexão — por isso a dor costuma incomodar mais na descida do que na subida.
+O trato iliotibial é uma faixa espessa de tecido conjuntivo que percorre toda a lateral da coxa, desde o [quadril](/blog/mobilidade-de-quadril-exercicios/) até logo abaixo do joelho. Durante o movimento repetitivo de flexão e extensão do joelho, essa faixa desliza sobre uma saliência óssea na parte externa da articulação. Em pessoas com volume alto de treino, esse deslizamento repetido pode gerar atrito e irritação dos tecidos próximos a essa região, incluindo uma pequena bolsa de gordura e tecido conjuntivo que amortece a fricção. O resultado é uma inflamação localizada que se manifesta como dor na lateral do joelho, mais evidente justamente no momento em que o joelho se aproxima de uma leve flexão — por isso a dor costuma incomodar mais na descida do que na subida.
 
 ## Por que corredores e ciclistas são os mais afetados
 
@@ -51,6 +51,8 @@ Na grande maioria dos casos, esse conjunto de medidas resolve o problema em algu
 **Quanto tempo leva para resolver a síndrome do trato iliotibial?** Casos leves a moderados costumam melhorar em 3 a 6 semanas de tratamento adequado, embora quadros mais arrastados possam levar mais tempo até a resolução completa.
 
 **Ciclistas precisam ajustar a bicicleta mesmo depois de tratar a dor?** Sim, o ajuste do selim e da posição de pedalada é parte importante da prevenção, já que sem essa correção o quadro tende a voltar assim que o volume de treino aumentar novamente.
+
+**Leia também:** [Corrida e Dor no Joelho: Síndrome Patelofemoral](/blog/corrida-dor-no-joelho-sindrome-patelofemoral/) e [Liberação Miofascial: Como Usar o Rolo de Espuma](/blog/liberacao-miofascial-rolo-de-espuma/).
 
 ---
 

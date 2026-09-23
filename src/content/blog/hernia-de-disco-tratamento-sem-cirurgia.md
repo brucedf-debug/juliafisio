@@ -28,7 +28,7 @@ O tratamento costuma envolver algumas frentes combinadas:
 
 - **Controle da dor na fase aguda**, com recursos que ajudam a reduzir a irritação nervosa e a tensão muscular associada.
 - **Reeducação de movimento**, evitando posturas e gestos que aumentem a pressão sobre o disco afetado.
-- **Fortalecimento progressivo** da musculatura estabilizadora do tronco, que atua como um "suporte" natural para a coluna.
+- **Fortalecimento progressivo** da musculatura estabilizadora do [tronco](/blog/fortalecimento-do-core/), que atua como um "suporte" natural para a coluna.
 - **Educação sobre a condição**, para reduzir o medo do movimento — um fator que, paradoxalmente, costuma atrasar a recuperação.
 
 ![Fisioterapeuta orientando paciente durante exercício de fortalecimento lombar](../../assets/physio-hernia-disco-inline.jpg)
@@ -54,6 +54,8 @@ Uma vez identificada, a hérnia costuma ser encarada como um rótulo definitivo,
 **Quanto tempo leva para melhorar de uma hérnia de disco?** A maioria dos casos apresenta melhora significativa da dor dentro de 6 a 12 semanas de tratamento conservador bem conduzido, embora a recuperação funcional completa possa levar mais tempo.
 
 **Repouso ajuda ou atrapalha na hérnia de disco?** Repouso total por poucos dias pode aliviar uma crise aguda, mas prolongá-lo tende a atrasar a recuperação. Manter-se em movimento controlado, dentro do limite tolerado, costuma trazer resultados melhores a médio prazo.
+
+**Leia também:** [Ciática: sintomas, causas e tratamento fisioterapêutico](/blog/ciatica-sintomas-causas-tratamento/) e [Dor lombar: quando a fisioterapia pode ajudar](/blog/dor-lombar-quando-procurar-fisioterapia/).
 
 ---
 

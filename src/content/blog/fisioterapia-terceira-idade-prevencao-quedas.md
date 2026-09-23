@@ -12,7 +12,7 @@ Quedas na terceira idade não acontecem por acaso. Na maioria das vezes, elas s�
 
 ## Por que o risco de queda aumenta com a idade
 
-A partir dos 60 anos, é natural que ocorra uma perda progressiva de massa muscular, processo conhecido como sarcopenia, que afeta principalmente os membros inferiores. Some-se a isso a redução da propriocepção — a capacidade do corpo de perceber sua posição no espaço — e o resultado é um equilíbrio mais instável, especialmente em superfícies irregulares ou pouco iluminadas.
+A partir dos 60 anos, é natural que ocorra uma perda progressiva de massa muscular, processo conhecido como [sarcopenia](/blog/sarcopenia-perda-massa-muscular-prevencao/), que afeta principalmente os membros inferiores. Some-se a isso a redução da propriocepção — a capacidade do corpo de perceber sua posição no espaço — e o resultado é um equilíbrio mais instável, especialmente em superfícies irregulares ou pouco iluminadas.
 
 Além disso, muitas pessoas idosas reduzem naturalmente o nível de atividade física por precaução, o que paradoxalmente acelera a perda de força e piora o equilíbrio a longo prazo.
 
@@ -53,6 +53,8 @@ Além dos exercícios estruturados, algumas atividades simples do cotidiano pode
 **Quantas vezes por semana devo fazer esses exercícios?** Programas de prevenção costumam recomendar de 2 a 3 sessões semanais de exercícios de força e equilíbrio, com constância sendo mais importante do que a intensidade de cada sessão isolada.
 
 **Bengala ou andador atrapalham a independência?** Pelo contrário, quando bem indicados e ajustados corretamente, esses dispositivos aumentam a segurança e permitem manter um nível maior de atividade, reduzindo justamente o risco de queda que a insegurança ao caminhar sem apoio poderia gerar. O fisioterapeuta é justamente quem ajuda a definir se e quando esse tipo de apoio faz sentido para cada pessoa.
+
+**Leia também:** [Saúde Óssea: Exercício Físico na Prevenção da Osteoporose](/blog/saude-ossea-exercicio-prevencao-osteoporose/) e [Reabilitação Vestibular: Fisioterapia para Vertigem](/blog/reabilitacao-vestibular-tontura-vertigem/).
 
 ---
 

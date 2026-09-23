@@ -12,7 +12,7 @@ A colocação de uma prótese de quadril costuma ser indicada quando o desgaste 
 
 ## As primeiras semanas: mobilização e proteção da prótese
 
-Logo após a cirurgia, o corpo ainda está se adaptando à nova articulação, e o trabalho fisioterapêutico começa dentro de limites bem definidos pela equipe ortopédica. Nessa fase inicial, os cuidados costumam incluir:
+Logo [após a cirurgia](/blog/reabilitacao-pos-cirurgica-primeiras-semanas/), o corpo ainda está se adaptando à nova articulação, e o trabalho fisioterapêutico começa dentro de limites bem definidos pela equipe ortopédica. Nessa fase inicial, os cuidados costumam incluir:
 
 - Orientação sobre movimentos e posições a evitar, para proteger a prótese enquanto os tecidos ao redor cicatrizam.
 - Exercícios leves de ativação muscular do quadril, joelho e tornozelo, para não perder força enquanto a mobilidade ainda é limitada.
@@ -51,6 +51,8 @@ A maioria dos pacientes consegue retomar caminhadas, natação, ciclismo e até 
 **A prótese de quadril dura para sempre?** Não. A vida útil estimada costuma ficar entre 15 e 25 anos, variando conforme o material utilizado, o nível de atividade física e fatores individuais de cada paciente.
 
 **Vou sentir a prótese no dia a dia?** A maioria dos pacientes relata que, após a reabilitação completa, a sensação de "corpo estranho" desaparece e o movimento se torna natural, embora alguns limites de amplitude, orientados pela equipe cirúrgica, costumem permanecer por precaução.
+
+**Leia também:** [Voltando a caminhar: reabilitação após fratura de fêmur](/blog/reabilitacao-fratura-de-femur/) e [Fisioterapia na Terceira Idade: Prevenção de Quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/).
 
 ---
 

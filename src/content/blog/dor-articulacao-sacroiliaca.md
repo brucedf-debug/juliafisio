@@ -21,9 +21,9 @@ Alguns sinais ajudam a levantar a suspeita de origem sacroilíaca:
 - Dor concentrada de um lado, geralmente próxima a uma "covinha" na base das costas, em vez de espalhada por toda a lombar.
 - Piora ao ficar muito tempo sentado, ao subir escadas, ao virar na cama ou ao ficar de pé apoiado em uma perna só.
 - Sensação de instabilidade ou de que o quadril "sai do lugar", sem que isso realmente aconteça.
-- Ausência do padrão de irradiação característico da ciática, embora a dor às vezes se estenda até a parte de trás da coxa.
+- Ausência do padrão de irradiação característico da [ciática](/blog/ciatica-sintomas-causas-tratamento/), embora a dor às vezes se estenda até a parte de trás da coxa.
 
-Como esses sintomas podem se sobrepor a outras causas de dor lombar, a avaliação clínica — que inclui testes específicos de mobilidade e provocação da articulação — é o que realmente confirma o diagnóstico.
+Como esses sintomas podem se sobrepor a outras causas de [dor lombar](/blog/dor-lombar-quando-procurar-fisioterapia/), a avaliação clínica — que inclui testes específicos de mobilidade e provocação da articulação — é o que realmente confirma o diagnóstico.
 
 ![Fisioterapeuta realizando teste de mobilidade no quadril de um paciente](../../assets/pool/dor-e-coluna/pair-01-inline.jpg)
 
@@ -32,7 +32,7 @@ Como esses sintomas podem se sobrepor a outras causas de dor lombar, a avaliaç�
 A disfunção sacroilíaca pode surgir por diferentes motivos, entre eles:
 
 1. **Alterações na forma de caminhar ou de distribuir o peso**, muitas vezes compensando dor em outra articulação, como joelho ou quadril.
-2. **Frouxidão ligamentar**, mais comum durante a gravidez, quando hormônios preparam o corpo para o parto e deixam a articulação mais móvel do que o habitual.
+2. **Frouxidão ligamentar**, mais comum durante a [gravidez](/blog/dor-lombar-na-gravidez/), quando hormônios preparam o corpo para o parto e deixam a articulação mais móvel do que o habitual.
 3. **Impacto ou torção súbita**, como uma queda ou um movimento brusco ao levantar peso de forma assimétrica.
 4. **Assimetrias posturais mantidas por longos períodos**, como sentar sempre com o peso mais em um lado do corpo.
 

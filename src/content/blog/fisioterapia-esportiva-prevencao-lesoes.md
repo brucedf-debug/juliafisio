@@ -14,7 +14,7 @@ Quando se fala em fisioterapia esportiva, a primeira imagem que vem à cabeça c
 
 A maior parte das lesões esportivas não é fruto do azar — está associada a fatores identificáveis, como desequilíbrio de força entre grupos musculares, mobilidade insuficiente em articulações-chave, fadiga acumulada ou progressão de carga muito rápida.
 
-A avaliação de movimento é a principal ferramenta nessa etapa. Testes funcionais simples (como o salto unipodal, agachamento com sobrecarga controlada ou avaliação da estabilidade de tronco) ajudam a identificar assimetrias entre os lados do corpo antes que elas se tornem uma lesão.
+A avaliação de movimento é a principal ferramenta nessa etapa. Testes funcionais simples (como o salto unipodal, agachamento com sobrecarga controlada ou avaliação da estabilidade de [tronco](/blog/fortalecimento-do-core/)) ajudam a identificar assimetrias entre os lados do corpo antes que elas se tornem uma lesão.
 
 ## Durante a lesão: reabilitação por fases
 
@@ -59,7 +59,7 @@ Um equívoco comum é procurar a fisioterapia esportiva apenas depois que uma le
 
 ## Trabalho em equipe: fisioterapeuta, técnico e atleta
 
-A prevenção de lesões funciona melhor quando existe comunicação entre quem cuida do corpo do atleta e quem planeja os treinos. Quando o fisioterapeuta entende a demanda específica de cada fase da temporada — pré-temporada, competição, transição — e o técnico ou treinador incorpora as recomendações de carga e recuperação no planejamento, o resultado é um atleta que chega mais preparado aos momentos de maior exigência física, com menos picos abruptos de sobrecarga que costumam preceder as lesões mais comuns.
+A prevenção de lesões funciona melhor quando existe comunicação entre quem cuida do corpo do atleta e quem planeja os treinos. Quando o fisioterapeuta entende a demanda específica de cada fase da temporada — [pré-temporada](/blog/fisioterapia-pre-temporada-atletas-amadores/), competição, transição — e o técnico ou treinador incorpora as recomendações de carga e recuperação no planejamento, o resultado é um atleta que chega mais preparado aos momentos de maior exigência física, com menos picos abruptos de sobrecarga que costumam preceder as lesões mais comuns.
 
 ---
 

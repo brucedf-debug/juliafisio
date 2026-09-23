@@ -54,7 +54,9 @@ Nem toda espondilolistese tem a mesma origem, o que também influencia a conduta
 
 ## Retorno ao esporte em adolescentes
 
-Em atletas jovens com espondilolistese ístmica, o retorno ao esporte costuma ser conduzido com cautela redobrada, já que a coluna ainda está em fase de crescimento. O processo geralmente envolve um período inicial de controle de carga, seguido de fortalecimento progressivo do core e da musculatura de quadril, com reintrodução gradual dos gestos esportivos apenas quando a dor está controlada e a estabilidade muscular, bem estabelecida — sempre em conjunto com acompanhamento ortopédico regular durante essa fase.
+Em atletas jovens com espondilolistese ístmica, o retorno ao esporte costuma ser conduzido com cautela redobrada, já que a coluna ainda está em fase de crescimento. O processo geralmente envolve um período inicial de controle de carga, seguido de fortalecimento progressivo do [core](/blog/fortalecimento-do-core/) e da musculatura de quadril, com reintrodução gradual dos gestos esportivos apenas quando a dor está controlada e a estabilidade muscular, bem estabelecida — sempre em conjunto com acompanhamento ortopédico regular durante essa fase.
+
+**Leia também:** [Estenose do Canal Vertebral: Sintomas e Tratamento](/blog/estenose-canal-vertebral-dor-lombar/) e [Dor lombar: quando a fisioterapia pode ajudar](/blog/dor-lombar-quando-procurar-fisioterapia/).
 
 ---
 

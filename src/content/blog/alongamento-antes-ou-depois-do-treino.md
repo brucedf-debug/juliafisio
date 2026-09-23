@@ -23,7 +23,7 @@ Confundir essas duas categorias é a origem da maior parte das dúvidas sobre "q
 
 Alongamentos estáticos muito prolongados antes de um esforço intenso podem reduzir temporariamente a capacidade de geração de força muscular, o que não é ideal antes de atividades que exigem potência, como corrida, musculação com carga ou esportes de explosão.
 
-Por isso, antes do treino, a recomendação costuma ser priorizar o alongamento dinâmico e um aquecimento progressivo, que aumenta a temperatura muscular e a mobilidade articular sem comprometer o desempenho.
+Por isso, antes do treino, a recomendação costuma ser priorizar o alongamento dinâmico e um [aquecimento](/blog/rotina-de-aquecimento-5-minutos/) progressivo, que aumenta a temperatura muscular e a mobilidade articular sem comprometer o desempenho.
 
 ![Fisioterapeuta orientando alongamento de perna em paciente](../../assets/physio-alongamento-inline.jpg)
 
@@ -47,12 +47,12 @@ Para o alongamento estático pós-treino, manter a posição entre 20 e 40 segun
 
 - **Alongar um músculo já dolorido ou lesionado sem orientação.** Nem toda dor muscular deve ser alongada; em lesões agudas, o alongamento pode piorar o quadro em vez de ajudar.
 - **Confundir desconforto leve com dor.** O alongamento deve gerar uma sensação de tensão tolerável, nunca dor aguda — esse é o sinal de que o limite foi ultrapassado.
-- **Fazer movimentos com solavancos (balísticos) em vez de progressão controlada.** Esse tipo de alongamento aumenta o risco de lesão muscular sem trazer ganho adicional de amplitude.
+- **Fazer movimentos com solavancos (balísticos) em vez de progressão controlada.** Esse tipo de alongamento aumenta o risco de [lesão muscular](/blog/estiramento-muscular-fisioterapia-esportiva/) sem trazer ganho adicional de amplitude.
 - **Esperar resultado em poucos dias.** Ganho real de flexibilidade costuma levar de 3 a 6 semanas de prática consistente para se tornar perceptível.
 
 ## Perguntas frequentes
 
-**Alongar antes do treino evita lesões?** O alongamento dinâmico ajuda a preparar o corpo, mas o principal fator de prevenção de lesões é a progressão adequada de carga e volume de treino, não o alongamento isolado.
+**Alongar antes do treino evita lesões?** O alongamento dinâmico ajuda a preparar o corpo, mas o principal fator de [prevenção de lesões](/blog/fisioterapia-esportiva-prevencao-lesoes/) é a progressão adequada de carga e volume de treino, não o alongamento isolado.
 
 **Posso pular o alongamento se estiver com pouco tempo?** Se precisar escolher, priorize o aquecimento dinâmico antes do treino — ele tem impacto mais direto na performance e no risco de lesão do que o alongamento estático.
 

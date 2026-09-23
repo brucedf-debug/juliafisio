@@ -40,7 +40,7 @@ Se a rigidez de quadril vem acompanhada de dor persistente, sensação de travam
 
 ## Quadril e desempenho esportivo
 
-Para quem pratica esportes, a mobilidade de quadril tem papel direto no desempenho e na prevenção de lesões. Corredores com quadril rígido, por exemplo, tendem a compensar com passadas mais curtas e maior rotação do tronco, o que reduz a eficiência da corrida e aumenta a demanda sobre outras articulações, como joelho e lombar. Da mesma forma, praticantes de esportes com mudanças rápidas de direção dependem de uma boa amplitude de quadril para realizar esses movimentos sem sobrecarregar estruturas vizinhas. Incluir mobilidade de quadril na rotina de aquecimento, antes do treino, costuma trazer benefícios que vão além da prevenção de dor — muitas pessoas relatam sentir o movimento "mais leve" depois de algumas semanas de prática regular.
+Para quem pratica esportes, a mobilidade de quadril tem papel direto no desempenho e na prevenção de lesões. Corredores com quadril rígido, por exemplo, tendem a compensar com passadas mais curtas e maior rotação do tronco, o que reduz a eficiência da corrida e aumenta a demanda sobre outras articulações, como joelho e lombar. Da mesma forma, praticantes de esportes com mudanças rápidas de direção dependem de uma boa amplitude de quadril para realizar esses movimentos sem sobrecarregar estruturas vizinhas. Incluir mobilidade de quadril na rotina de [aquecimento](/blog/rotina-de-aquecimento-5-minutos/), antes do treino, costuma trazer benefícios que vão além da prevenção de dor — muitas pessoas relatam sentir o movimento "mais leve" depois de algumas semanas de prática regular.
 
 ## Perguntas frequentes
 
@@ -55,6 +55,8 @@ A relação entre rigidez de quadril e dor lombar é uma das mais bem documentad
 **Esses exercícios servem para prevenir dor no joelho também?** Sim, já que boa parte das compensações que sobrecarregam o joelho vêm justamente da falta de mobilidade do quadril, trabalhar essa articulação tem efeito preventivo direto sobre a saúde do joelho.
 
 **Posso fazer esses exercícios no trabalho, durante uma pausa?** Sim, a maioria pode ser adaptada para um espaço pequeno, mesmo com roupas de trabalho, o que facilita bastante manter a consistência ao longo da semana, mesmo em dias de agenda mais cheia.
+
+**Leia também:** [Mobilidade da coluna lombar: exercícios para uma lombar mais livre no dia a dia](/blog/mobilidade-de-coluna-lombar-exercicios/) e [Síndrome do piriforme: a dor no glúteo que pode ser confundida com ciática](/blog/sindrome-do-piriforme-dor-no-gluteo/).
 
 ---
 

@@ -12,7 +12,7 @@ Quando se fala em cuidar da saúde óssea, a primeira lembrança costuma ser o c
 
 ## Por que os ossos perdem densidade
 
-Ao longo da vida, o corpo renova constantemente o tecido ósseo, substituindo osso antigo por osso novo. Até por volta dos 30 anos, esse processo tende a resultar em ganho ou manutenção de massa óssea. Depois disso, a tendência natural é de perda gradual, que se acelera em mulheres após a menopausa devido à queda dos níveis de estrogênio, hormônio que ajuda a proteger os ossos. Sedentarismo, histórico familiar e alguns medicamentos também contribuem para acelerar esse processo, que muitas vezes avança de forma silenciosa, sem sintomas, até resultar em uma fratura.
+Ao longo da vida, o corpo renova constantemente o tecido ósseo, substituindo osso antigo por osso novo. Até por volta dos 30 anos, esse processo tende a resultar em ganho ou manutenção de massa óssea. Depois disso, a tendência natural é de perda gradual, que se acelera em mulheres após a menopausa devido à queda dos níveis de estrogênio, hormônio que ajuda a proteger os ossos. [Sedentarismo](/blog/sedentarismo-efeitos-e-fisioterapia/), histórico familiar e alguns medicamentos também contribuem para acelerar esse processo, que muitas vezes avança de forma silenciosa, sem sintomas, até resultar em uma fratura.
 
 ## O estímulo que o osso precisa
 
@@ -24,7 +24,7 @@ Nem todo exercício é indicado da mesma forma para quem já tem baixa densidade
 
 - **Exercícios de fortalecimento progressivo**, priorizando grandes grupos musculares e regiões mais vulneráveis a fraturas, como quadril, punho e coluna.
 - **Exercícios de impacto controlado**, adaptados à condição óssea de cada pessoa, para estimular a formação óssea sem gerar risco.
-- **Treino de equilíbrio e postura**, reduzindo o risco de quedas, que são a principal causa de fraturas em quadros de osteoporose.
+- **Treino de equilíbrio e postura**, reduzindo o [risco de quedas](/blog/fisioterapia-terceira-idade-prevencao-quedas/), que são a principal causa de fraturas em quadros de osteoporose.
 - **Correção de movimentos de risco** no dia a dia, como flexões inadequadas da coluna ao pegar peso do chão.
 
 ![Fisioterapeuta orientando paciente durante exercício de equilíbrio e fortalecimento](../../assets/pool/saude-e-prevencao/pair-02-inline.jpg)

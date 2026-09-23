@@ -46,7 +46,7 @@ Alguns sinais indicam que a avaliação médica não deve esperar: fraqueza prog
 
 **Por que a dor melhora quando me curvo para frente?** A flexão do tronco aumenta ligeiramente o espaço dentro do canal vertebral, aliviando a pressão sobre as raízes nervosas comprimidas — por isso essa posição costuma trazer alívio quase imediato.
 
-**Estenose e hérnia de disco são a mesma coisa?** Não. São condições diferentes, embora ambas possam comprimir estruturas nervosas. A hérnia de disco é um problema pontual do disco intervertebral, enquanto a estenose é um estreitamento mais amplo do canal, geralmente associado ao envelhecimento da coluna como um todo.
+**Estenose e hérnia de disco são a mesma coisa?** Não. São condições diferentes, embora ambas possam comprimir estruturas nervosas. A hérnia de disco é um problema pontual do [disco intervertebral](/blog/hernia-de-disco-tratamento-sem-cirurgia/), enquanto a estenose é um estreitamento mais amplo do canal, geralmente associado ao envelhecimento da coluna como um todo.
 
 ## Adaptando as atividades do dia a dia
 
@@ -55,6 +55,8 @@ Pequenos ajustes na rotina ajudam bastante quem convive com estenose do canal ve
 ## O que esperar da evolução a longo prazo
 
 A estenose do canal vertebral tende a ser uma condição de evolução lenta, medida em anos, não em semanas. Isso significa que, embora o tratamento conservador raramente "reverta" o estreitamento em si, ele consegue melhorar significativamente a tolerância da pessoa à atividade e reduzir a intensidade dos sintomas por longos períodos. Reavaliações periódicas ajudam a identificar se os sintomas estão estáveis, melhorando ou progredindo, o que direciona se o tratamento conservador continua sendo a melhor opção ou se chegou o momento de discutir alternativas com o ortopedista.
+
+**Leia também:** [Ciática: sintomas, causas e tratamento fisioterapêutico](/blog/ciatica-sintomas-causas-tratamento/) e [Espondilolistese: o Deslizamento Vertebral e Tratamento](/blog/espondilolistese-deslizamento-vertebra/).
 
 ---
 
